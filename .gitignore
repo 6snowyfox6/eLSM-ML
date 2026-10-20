@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+# Tooling
+.pytest_cache/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Source papers (copyrighted; see links in README)
+literature/
+
+# Ad-hoc outputs
+scan_*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

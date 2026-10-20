@@ -1,0 +1,21 @@
+T_GeV,sigma_x_over_sigma_x0_digitized,pixel_x_crop,pixel_y_crop,uncertainty_note
+0.002717391304347826,0.9985815602836879,85,106,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.02717391304347826,0.9985815602836879,130,106,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.06521739130434782,0.9971631205673759,200,107,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.10869565217391304,0.9957446808510638,280,108,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.14130434782608695,0.9929078014184397,340,110,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.16032608695652173,0.9872340425531915,375,114,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.17119565217391305,0.9744680851063829,395,123,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.1793478260869565,0.9432624113475178,410,145,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.18641304347826088,0.8794326241134752,423,190,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.19184782608695652,0.7801418439716312,433,260,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.19619565217391305,0.6524822695035462,441,350,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.20054347826086957,0.5035460992907801,449,455,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.20543478260869566,0.3404255319148936,458,570,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.21032608695652175,0.18439716312056736,467,680,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.21630434782608696,0.07801418439716312,478,755,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.22554347826086957,0.03971631205673759,495,782,manual anchor; pixel/line-width uncertainty ~±3-6 px
+0.24456521739130435,0.02695035460992908,530,791,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.30978260869565216,0.02127659574468085,650,795,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.40217391304347827,0.019858156028368795,820,796,manual anchor; pixel/line-width uncertainty ~±2-4 px
+0.49728260869565216,0.019858156028368795,995,796,manual anchor; pixel/line-width uncertainty ~±2-4 px
