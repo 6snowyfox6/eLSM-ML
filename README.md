@@ -1,79 +1,79 @@
-# eLSM-SU3: reference solver for the SU(3) extended Linear Sigma Model
+# eLSM-SU3: эталонный решатель для SU(3) расширенной линейной сигма-модели
 
-A transparent numerical implementation of the SU(3) sector of
+Прозрачная численная реализация SU(3)-сектора работы
 
 > Friesen et al., *Temperature Dependence of the Masses of Various Meson States: A
 > Comparative Study in SU(3) and SU(4) extended Linear-Sigma Model*,
 > [arXiv:2512.22198v2](https://arxiv.org/abs/2512.22198); Phys. Rev. C 114, 015207 (2026),
 > [DOI 10.1103/ms99-5qnq](https://journals.aps.org/prc/abstract/10.1103/ms99-5qnq).
 
-The goal is an auditable baseline: every convention that the paper leaves ambiguous is
-made explicit in code and documented, rather than silently guessed.
+Цель — проверяемая базовая реализация: каждое соглашение, которое в статье допускает
+неоднозначное толкование, явно зафиксировано в коде и задокументировано, а не угадано молча.
 
-## Status
+## Статус
 
-| Target | Result |
+| Цель | Результат |
 |---|---|
-| Table I / V vacuum spectrum (π, η, η′, σ, a₀, K₀\*, f₀, ρ, a₁) | reproduced to < 0.5 % |
-| Table III chiral temperature T_χ (4 variants) | within one 2.5 MeV grid step (3 of 4), exact (1 of 4) |
-| Kaon mass, Table I 420.49 MeV | **not reproduced**: the model gives ≈ 495 MeV (experiment: 495.6) |
-| f_π, f_K from Table I | inconsistent with the Table I masses (model: 89.7 / 105.1 MeV) |
-| Eq. (32) in-medium meson masses (Figs. 2–4) | generic routine only, not yet wired to individual channels |
+| Вакуумный спектр из табл. I / V (π, η, η′, σ, a₀, K₀\*, f₀, ρ, a₁) | воспроизведён с точностью < 0.5 % |
+| Киральная температура T_χ из табл. III (4 варианта) | в пределах одного шага сетки 2.5 МэВ (3 из 4), точно (1 из 4) |
+| Масса каона, табл. I: 420.49 МэВ | **не воспроизводится**: модель даёт ≈ 495 МэВ (эксперимент: 495.6) |
+| f_π, f_K из табл. I | не согласуются с массами из табл. I (модель: 89.7 / 105.1 МэВ) |
+| Массы мезонов в среде по ур. (32) (рис. 2–4) | есть только общая процедура, к отдельным каналам пока не подключена |
 
-Full numbers: [`results/PAPER_REPRODUCTION.md`](results/PAPER_REPRODUCTION.md).
+Полные численные результаты: [`results/PAPER_REPRODUCTION.md`](results/PAPER_REPRODUCTION.md).
 
-### Key conventions (see [`docs/CHANGELOG.md`](docs/CHANGELOG.md))
+### Ключевые соглашения (см. [`docs/CHANGELOG.md`](docs/CHANGELOG.md))
 
-- **Vacuum:** `sigma_x = 2 m_q / g = 0.10909 GeV` (m_q = 0.3 GeV, g = 5.5), as in the paper's
-  Sec. III. `sigma_y` is fitted to the Table I spectrum (`fit_condensates_yukawa`). The
-  PCAC inversion of Eq. (37) (`fit_condensates_pcac`, sigma_x = 0.1263 GeV) is kept for
-  diagnostics only: it gives m_π ≈ 436 MeV.
-- **Table A1 misprints corrected** against the Lagrangian Hessian:
-  `eta_NS` uses `c/sqrt(2) sigma_x`; the K₀\* anomaly term is `+c/2 sigma_x`.
-- **Quark thermal term:** `-2T ∫ (log g⁺ + log g⁻)`. The color trace is already inside
-  the Polyakov logarithm, so the printed `2 nu_c` prefactor of Eq. (27) is treated as a
-  misprint. This is consistent with Eq. (32) with `nu_c = 6` (tested).
-- **Dirac sea:** omitted (no-sea, as in the cited Schaefer & Wagner, arXiv:0808.1491).
-  Two sharp-cutoff alternatives are available as explicit options for sensitivity studies.
-- **Polyakov loop:** Roessner–Ratti–Weise logarithmic potential
-  (a₀=3.51, a₁=−2.47, a₂=15.2, b₃=−1.75), T₀ = 0.27 GeV. At μ = 0, `phi = phi_bar` is imposed.
+- **Вакуум:** `sigma_x = 2 m_q / g = 0.10909 ГэВ` (m_q = 0.3 ГэВ, g = 5.5), как в разделе III
+  статьи. `sigma_y` подгоняется под спектр табл. I (`fit_condensates_yukawa`). Обращение
+  PCAC-соотношения ур. (37) (`fit_condensates_pcac`, sigma_x = 0.1263 ГэВ) оставлено только
+  для диагностики: оно даёт m_π ≈ 436 МэВ.
+- **Опечатки в табл. A1 исправлены** по гессиану лагранжиана:
+  в `eta_NS` используется `c/sqrt(2) sigma_x`; аномальный член для K₀\* равен `+c/2 sigma_x`.
+- **Тепловой кварковый вклад:** `-2T ∫ (log g⁺ + log g⁻)`. След по цвету уже содержится
+  в логарифме с петлёй Полякова, поэтому множитель `2 nu_c` в ур. (27) считается опечаткой.
+  Это согласуется с ур. (32) при `nu_c = 6` (покрыто тестами).
+- **Море Дирака:** не учитывается (no-sea, как в цитируемой работе Schaefer & Wagner,
+  arXiv:0808.1491). Для анализа чувствительности доступны два варианта с жёстким обрезанием.
+- **Петля Полякова:** логарифмический потенциал Roessner–Ratti–Weise
+  (a₀=3.51, a₁=−2.47, a₂=15.2, b₃=−1.75), T₀ = 0.27 ГэВ. При μ = 0 накладывается `phi = phi_bar`.
 
-## Repository layout
+## Структура репозитория
 
 ```
-src/elsm/          the package
-  parameters.py      SU3Parameters (h_x, h_y from Eqs. 15-16), PolyakovParameters
-  potential.py       Eq. (14) + gradient/Hessian, Polyakov potential, quark terms, grand_potential
-  meson_masses.py    Table A1 tree-level masses, Z factors (Eq. A13), isoscalar mixing
-  thermal_masses.py  Eq. (32) thermal mass-matrix correction, occupations (Eqs. 33-36)
-  vacuum_fit.py      vacuum calibration: fit_condensates_yukawa (primary), fit_condensates_pcac
-  solver.py          multistart minimisation and temperature continuation
-tests/             unit and paper-reproduction tests
+src/elsm/          пакет
+  parameters.py      SU3Parameters (h_x, h_y из ур. 15-16), PolyakovParameters
+  potential.py       ур. (14) + градиент/гессиан, потенциал Полякова, кварковые члены, grand_potential
+  meson_masses.py    древесные массы из табл. A1, Z-факторы (ур. A13), смешивание изоскаляров
+  thermal_masses.py  тепловая поправка к массовой матрице по ур. (32), числа заполнения (ур. 33-36)
+  vacuum_fit.py      калибровка вакуума: fit_condensates_yukawa (основная), fit_condensates_pcac
+  solver.py          минимизация с несколькими стартовыми точками и продолжение по температуре
+tests/             модульные тесты и тесты воспроизведения статьи
 scripts/           reproduce_paper_tables.py, run_temperature_scan.py
-verification/      standalone checks of the Table A1 formulas and of the authors' vacuum
-configs/su3.yaml   Table II parameter sets (reference only; not read by the code)
-data/              manual digitisation of the Fig. 1 sigma_x branch
-results/           generated outputs
-docs/              changelog, external cross-check, full audit history
+verification/      независимые проверки формул табл. A1 и вакуума, использованного авторами
+configs/su3.yaml   наборы параметров из табл. II (справочно; код его не читает)
+data/              ручная оцифровка ветви sigma_x с рис. 1
+results/           сгенерированные результаты
+docs/              журнал изменений, внешняя перекрёстная проверка, полная история аудита
 ```
 
-## Installation
+## Установка
 
 ```bash
 python -m pip install -e ".[dev,plot]"
 pytest
 ```
 
-Requires Python ≥ 3.10, numpy, scipy (matplotlib only for `run_temperature_scan.py`).
+Требуется Python ≥ 3.10, numpy, scipy (matplotlib нужен только для `run_temperature_scan.py`).
 
-## Usage
+## Использование
 
 ```python
 from elsm import (SU3Parameters, PolyakovParameters, grand_potential,
                   fit_condensates_yukawa)
 
-row = dict(m0_sq=-0.066564, lambda1=3.15, lambda2=36.253, c_anomaly=2.828)  # Table II, c != 0
-vac = fit_condensates_yukawa(**row)          # sigma_x = 0.10909, sigma_y = 0.10361 GeV
+row = dict(m0_sq=-0.066564, lambda1=3.15, lambda2=36.253, c_anomaly=2.828)  # табл. II, c != 0
+vac = fit_condensates_yukawa(**row)          # sigma_x = 0.10909, sigma_y = 0.10361 ГэВ
 p = SU3Parameters.from_vacuum_condensates(
     **row, sigma_x=vac.sigma_x, sigma_y=vac.sigma_y, g_yukawa=5.5, Tc=0.270, include_FT=False)
 
@@ -82,43 +82,43 @@ omega = grand_potential(
     polyakov_parameters=PolyakovParameters(T0=0.270), vacuum_prescription="omit")
 ```
 
-`include_FT=True` switches on the Eq. (43) replacement `m0² → m0² (1 − T²/Tc²)`.
+`include_FT=True` включает замену из ур. (43): `m0² → m0² (1 − T²/Tc²)`.
 
-### Reproducing the paper
+### Воспроизведение статьи
 
 ```bash
-python scripts/reproduce_paper_tables.py          # Tables I, V, III (~minutes); --fast for 5 MeV grid
-python scripts/run_temperature_scan.py            # exploratory condensate scan + plot
-python verification/derive.py                     # Table A1 vs Lagrangian Hessian
-python verification/reconstruct.py                # which vacuum the authors used
+python scripts/reproduce_paper_tables.py          # табл. I, V, III (~минуты); --fast для сетки 5 МэВ
+python scripts/run_temperature_scan.py            # исследовательский скан конденсатов + график
+python verification/derive.py                     # табл. A1 против гессиана лагранжиана
+python verification/reconstruct.py                # какой вакуум использовали авторы
 ```
 
-Outputs are written to `results/`.
+Результаты записываются в `results/`.
 
-## Known limitations
+## Известные ограничения
 
-- **Eq. (32) channel map.** The paper delegates the channel-specific derivatives
-  `d(m_f²)/dφ`, `d²(m_f²)/dφdφ` to its Refs. [59, 66]. Only the `(sigma_x, sigma_y)`
-  directions are provided (`sigma_field_mass_derivatives`); the full Yukawa-matrix
-  derivation per meson channel is still to be done.
-- **`run_temperature_scan.py`** minimises over `phi` and `phi_bar` independently
-  (`solve_mean_fields`). At μ = 0 this can select an asymmetric Polyakov-loop branch
-  (see `docs/AUDIT_HISTORY.md`), so its curve differs from the `phi = phi_bar` scans used for
-  Table III. Treat it as exploratory.
-- **Fig. 1.** The manual trace in `data/` (half-height ≈ 0.201 GeV) matches the c = 0 + F(T)
-  branch rather than c ≠ 0 without F(T); the figure's caption/legend appear inconsistent.
-  No RMSE against the raster figure is claimed.
+- **Привязка ур. (32) к каналам.** Производные по каналам `d(m_f²)/dφ`, `d²(m_f²)/dφdφ`
+  статья отсылает к своим ссылкам [59, 66]. Реализованы только направления
+  `(sigma_x, sigma_y)` (`sigma_field_mass_derivatives`); полный вывод через юкавскую матрицу
+  для каждого мезонного канала ещё предстоит сделать.
+- **`run_temperature_scan.py`** минимизирует по `phi` и `phi_bar` независимо
+  (`solve_mean_fields`). При μ = 0 это может выбрать асимметричную ветвь петли Полякова
+  (см. `docs/AUDIT_HISTORY.md`), поэтому кривая отличается от сканов с `phi = phi_bar`,
+  использованных для табл. III. Результат следует считать исследовательским.
+- **Рис. 1.** Ручная оцифровка в `data/` (полувысота ≈ 0.201 ГэВ) совпадает с ветвью
+  c = 0 + F(T), а не c ≠ 0 без F(T); подпись и легенда рисунка, по-видимому, противоречат друг
+  другу. RMSE относительно растрового рисунка не заявляется.
 
-## Further documentation
+## Дополнительная документация
 
-- [`docs/CHANGELOG.md`](docs/CHANGELOG.md): the 2026-10-18 vacuum fix and its evidence.
-- [`docs/EXTERNAL_CROSSCHECK.md`](docs/EXTERNAL_CROSSCHECK.md): comparison with the journal
-  version and with Tawfik et al., arXiv:2502.01644 (apparent misprints in that paper's
-  stationarity equations and Z factors).
-- [`docs/AUDIT_HISTORY.md`](docs/AUDIT_HISTORY.md): the full chronological audit log
-  (mostly superseded; kept for traceability).
+- [`docs/CHANGELOG.md`](docs/CHANGELOG.md): исправление вакуума от 2026-10-18 и его обоснование.
+- [`docs/EXTERNAL_CROSSCHECK.md`](docs/EXTERNAL_CROSSCHECK.md): сравнение с журнальной
+  версией и с Tawfik et al., arXiv:2502.01644 (вероятные опечатки в уравнениях стационарности
+  и Z-факторах этой работы).
+- [`docs/AUDIT_HISTORY.md`](docs/AUDIT_HISTORY.md): полный хронологический журнал аудита
+  (в основном устарел; сохранён для прослеживаемости).
 
-## References
+## Литература
 
 - Friesen et al., arXiv:2512.22198v2; Phys. Rev. C 114, 015207 (2026).
 - Roessner, Ratti & Weise, Phys. Rev. D 75, 034007 (2007), DOI 10.1103/PhysRevD.75.034007.
