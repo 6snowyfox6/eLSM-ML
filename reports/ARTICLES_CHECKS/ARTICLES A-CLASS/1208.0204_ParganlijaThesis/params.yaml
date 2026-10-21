@@ -1,0 +1,69 @@
+paper: "D. Parganlija, PhD thesis 'Quarkonium Phenomenology in Vacuum' (Frankfurt 2012), arXiv:1208.0204"
+note: "Nf=3 eLSM, chapters 8 (Fit I: a0(980), kappa) and 10 (Fit II: a0(1450), K0*(1430)). phiN = Z_pi f_pi, phiS = Z_K f_K/sqrt2, f_pi = 92.4, sqrt2 f_K = 155.5 MeV (thesis lines ~10610, 15248). h1 = 0, delta_N = 0. Parameters printed with 3 significant digits; thesis notes the iterative fit does not reproduce m_pi, m_K exactly."
+sets:
+  FitI:
+    source: "Table 8.4 (parameters), Table 8.5 (observables)"
+    Z_pi_in: 1.38
+    Z_K_in: 1.39
+    f_pi: 92.4
+    f_K_sqrt2: 155.5
+    C1: -463425
+    m1: 697
+    h1: 0
+    delta_S: 2292
+    g1: 7.54
+    h2: 40.6
+    h3: -26.3
+    lambda2: 58.5
+    Z_ref: {Z_pi: 1.38, Z_K: 1.39}
+    masses: {pi: 138.04, K: 490.84, a0: 978.27, K0star: 1128.7, rho: 775.49, a1: 1396, Kstar: 832.53, omega_S: 870.35, K1: 1520, f1_S: 1643.4}
+  FitII:
+    source: "Table 10.2 (parameters), Table 10.3 (observables)"
+    Z_pi_in: 1.66
+    Z_K_in: 1.515
+    f_pi: 92.4
+    f_K_sqrt2: 155.5
+    C1: -1044148
+    m1: 762
+    h1: 0
+    delta_S: 4852
+    g1: 6.35
+    h2: -0.736
+    h3: 2.56
+    lambda2: 89.7
+    Z_ref: {Z_pi: 1.66, Z_K: 1.515}
+    masses: {pi: 138.65, K: 497.96, a0: 1452, K0star: 1550, rho: 775.49, a1: 1219, Kstar: 916.52, omega_S: 1036.90, K1: 1343, f1_S: 1457.0}
+  FitI_deltaS_inferred:
+    source: "Table 8.4 (parameters), Table 8.5 (observables)"
+    Z_pi_in: 1.38
+    Z_K_in: 1.39
+    f_pi: 92.4
+    f_K_sqrt2: 155.5
+    C1: -463425
+    m1: 697
+    h1: 0
+    delta_S: 2292
+    delta_S_infer_from: omega_S
+    g1: 7.54
+    h2: 40.6
+    h3: -26.3
+    lambda2: 58.5
+    Z_ref: {Z_pi: 1.38, Z_K: 1.39}
+    masses: {pi: 138.04, K: 490.84, a0: 978.27, K0star: 1128.7, rho: 775.49, a1: 1396, Kstar: 832.53, omega_S: 870.35, K1: 1520, f1_S: 1643.4}
+  FitII_deltaS_inferred:
+    source: "Table 10.2 (parameters), Table 10.3 (observables)"
+    Z_pi_in: 1.66
+    Z_K_in: 1.515
+    f_pi: 92.4
+    f_K_sqrt2: 155.5
+    C1: -1044148
+    m1: 762
+    h1: 0
+    delta_S: 4852
+    delta_S_infer_from: omega_S
+    g1: 6.35
+    h2: -0.736
+    h3: 2.56
+    lambda2: 89.7
+    Z_ref: {Z_pi: 1.66, Z_K: 1.515}
+    masses: {pi: 138.65, K: 497.96, a0: 1452, K0star: 1550, rho: 775.49, a1: 1219, Kstar: 916.52, omega_S: 1036.90, K1: 1343, f1_S: 1457.0}

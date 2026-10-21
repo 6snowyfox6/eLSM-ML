@@ -1,0 +1,9 @@
+paper: "Rai & Tiwari, arXiv:2306.12382 (2023), Table III (QM rows) + Table IV (Log PQM)"
+note: "Standard PQM (no vacuum term) rows with the paper's own QM parameters; log RRW potential (a0=3.51, a1=-2.47, a2=15.2, b3=-1.75, as solver); T0 = T0(Nf=2+1) = 187 MeV (Eq. 17-18, text p. 5); g = 6.5. RQM/RPQM rows need the renormalized vacuum term (feature); PolyLog(-glue) rows need another Polyakov potential (feature)."
+sets:
+  PQM_ms400:
+    {m2: [1, 494.549], lambda1: -5.89, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, T0: 187, ref: {T_chi: 149.5, T_s: 244.3, T_Phi: 149.5}}
+  PQM_ms500:
+    {m2: [1, 434.305], lambda1: -2.69, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, T0: 187, ref: {T_chi: 159.3, T_s: 252.1, T_Phi: 149.9}}
+  PQM_ms600:
+    {m2: [1, 342.139], lambda1: 1.141, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, T0: 187, ref: {T_chi: 171.9, T_s: 261.7, T_Phi: 150.5}}

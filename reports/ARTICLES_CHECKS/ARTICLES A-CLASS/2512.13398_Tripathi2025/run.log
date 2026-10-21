@@ -1,0 +1,80 @@
+# Phase-structure check: Tripathi, Rai, Tiwari, arXiv:2512.13398 (2025), Table II (QM parameters) and Table III (s-MFA rows QM, Log PQM; m_sigma = 500)
+
+Standard mean field (no-sea) QM and Log PQM rows only; RQM/RPQM (on-shell renormalized vacuum term), PolyLog-glue and vector interactions = features. Log potential RRW (as solver), T0 = 187 MeV (paper Sec. II B). Phi, Phibar independent reals minimizing the real part (paper Sec. II B) = PQM_indep. Physical point g = 6.5 (Rai 2023). Chiral-limit rows (m_pi = 0, f_pi = 90.67): g not stated -> run with g = 6.5 and with g = 2*300.3/90.67 = 6.624.
+
+## mu = 0 transition
+
+| set | mode | paper T_c | solver T (max -dsigma_x/dT, 0.25 MeV) | largest sigma_x jump, MeV |
+|---|---|---|---|---|
+| QM_ms500 | QM | 129.0 | 129.00 | 1.90 |
+| LogPQM_ms500 | PQM_indep | 159.3 | 140.00 | 1.64 |
+| QM_ms500_chiral_g6.5 | QM | 123.2 | 120.50 | 64.58 |
+| QM_ms500_chiral_g6.624 | QM | 123.2 | 119.50 | 66.02 |
+| LogPQM_ms500_chiral_g6.5 | PQM_indep | 155.7 | 140.00 | 0.00 |
+| LogPQM_ms500_chiral_g6.624 | PQM_indep | 155.7 | 140.00 | 0.00 |
+
+## CEP
+
+| set | mode | paper (mu, T) | solver: last first-order T (1 MeV grid) | mu there | mu at T+1 |
+|---|---|---|---|---|---|
+| QM_ms500 | QM | (165.24, 97.52) | 97 | 166.6 | 164.3 |
+| LogPQM_ms500 | ... | ... | 137 | 16.6 | — |
+
+## CEP scan detail
+
+| set | T | first order | mu_transition | jump h | jump h/8 |
+|---|---|---|---|---|---|
+| QM_ms500 | 85 | True | 192.77 | 38.64 | 34.14 |
+| QM_ms500 | 86 | True | 190.82 | 36.57 | 32.80 |
+| QM_ms500 | 87 | True | 188.87 | 36.44 | 31.39 |
+| QM_ms500 | 88 | True | 186.91 | 35.39 | 29.86 |
+| QM_ms500 | 89 | True | 184.57 | 33.10 | 28.53 |
+| QM_ms500 | 90 | True | 182.62 | 33.13 | 26.87 |
+| QM_ms500 | 91 | True | 180.27 | 32.09 | 25.37 |
+| QM_ms500 | 92 | True | 178.32 | 28.39 | 23.36 |
+| QM_ms500 | 93 | True | 175.98 | 29.35 | 21.76 |
+| QM_ms500 | 94 | True | 173.63 | 28.75 | 19.95 |
+| QM_ms500 | 95 | True | 171.29 | 26.84 | 17.95 |
+| QM_ms500 | 96 | True | 168.95 | 23.33 | 15.81 |
+| QM_ms500 | 97 | True | 166.60 | 24.58 | 13.50 |
+| QM_ms500 | 98 | False | 164.26 | 24.04 | 10.32 |
+| QM_ms500 | 99 | False | 161.52 | 22.35 | 8.25 |
+| QM_ms500 | 100 | False | 159.18 | 18.48 | 7.04 |
+| QM_ms500 | 101 | False | 156.45 | 16.71 | 5.56 |
+| QM_ms500 | 102 | False | 153.71 | 18.13 | 4.23 |
+| QM_ms500 | 103 | False | 151.37 | 17.99 | 3.70 |
+| QM_ms500 | 104 | False | 148.63 | 17.20 | 3.18 |
+| QM_ms500 | 105 | False | 145.51 | 16.07 | 2.85 |
+| QM_ms500 | 106 | False | 142.77 | 14.81 | 2.54 |
+| QM_ms500 | 107 | False | 139.65 | 13.61 | 2.24 |
+| QM_ms500 | 108 | False | 136.91 | 12.60 | 2.00 |
+| QM_ms500 | 109 | False | 133.79 | 11.82 | 1.82 |
+| QM_ms500 | 110 | False | 130.27 | 11.20 | 1.66 |
+| QM_ms500 | 111 | False | 127.15 | 10.68 | 1.52 |
+| LogPQM_ms500 | 112 | True | 93.55 | 30.77 | 30.28 |
+| LogPQM_ms500 | 113 | True | 119.34 | 12.44 | 11.46 |
+| LogPQM_ms500 | 114 | False | 145.51 | 7.02 | 0.90 |
+| LogPQM_ms500 | 115 | True | 109.96 | 11.49 | 10.61 |
+| LogPQM_ms500 | 116 | False | 139.65 | 6.32 | 0.81 |
+| LogPQM_ms500 | 117 | False | 136.52 | 6.01 | 0.77 |
+| LogPQM_ms500 | 118 | False | 133.79 | 5.74 | 0.74 |
+| LogPQM_ms500 | 119 | False | 130.66 | 5.50 | 0.70 |
+| LogPQM_ms500 | 120 | False | 127.15 | 5.27 | 0.67 |
+| LogPQM_ms500 | 121 | False | 124.02 | 5.07 | 0.64 |
+| LogPQM_ms500 | 122 | False | 120.51 | 4.87 | 0.61 |
+| LogPQM_ms500 | 123 | False | 116.99 | 4.66 | 0.59 |
+| LogPQM_ms500 | 124 | False | 113.48 | 4.45 | 0.56 |
+| LogPQM_ms500 | 125 | False | 109.57 | 4.22 | 0.54 |
+| LogPQM_ms500 | 126 | False | 105.66 | 4.06 | 0.52 |
+| LogPQM_ms500 | 127 | False | 101.76 | 3.92 | 0.49 |
+| LogPQM_ms500 | 128 | False | 97.46 | 3.73 | 0.47 |
+| LogPQM_ms500 | 129 | False | 93.16 | 3.55 | 0.45 |
+| LogPQM_ms500 | 130 | False | 88.87 | 3.41 | 0.43 |
+| LogPQM_ms500 | 131 | False | 83.79 | 3.22 | 0.41 |
+| LogPQM_ms500 | 132 | False | 79.10 | 3.05 | 0.38 |
+| LogPQM_ms500 | 133 | False | 73.63 | 2.88 | 0.36 |
+| LogPQM_ms500 | 134 | False | 67.77 | 2.69 | 0.34 |
+| LogPQM_ms500 | 135 | False | 61.91 | 2.48 | 0.31 |
+| LogPQM_ms500 | 136 | False | 55.27 | 2.27 | 0.28 |
+| LogPQM_ms500 | 137 | True | 16.60 | 4.07 | 3.58 |
+

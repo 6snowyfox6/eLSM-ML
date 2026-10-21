@@ -1,0 +1,29 @@
+paper: "Tripathi, Rai, Tiwari, arXiv:2512.13398 (2025), Table II (QM parameters) and Table III (s-MFA rows QM, Log PQM; m_sigma = 500) \u2014 Log PQM CEP, extended T range"
+note: Table III prints (146.6, 124.7) under (mu_CEP, T_CEP); for PolyLog-glue PQM the same table prints (129.6, 137.7) while the text gives (mu,T)=(137.7,129.6) -> column order is swapped in these rows.
+  Reading (T, mu) = (146.6, 124.7). Phi=Phibar.
+sets:
+  LogPQM_ms500_ext:
+    m2:
+    - 1
+    - 434.305
+    lambda1: -2.69
+    lambda2: 46.43
+    c: 4801.82
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.43
+    g: 6.5
+    mode: PQM_equal
+    T0: 187
+    tasks:
+      cep:
+        T_range:
+        - 136
+        - 157
+        mu_max: 250
+        ref:
+        - 124.7
+        - 146.6

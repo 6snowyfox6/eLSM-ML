@@ -1,0 +1,9 @@
+paper: "CEP references found in the full reading: SW 2009 (0808.1491, text Sec. VI), Mao 2009 (0906.1324), SWW CPOD 2009 (0909.0289)"
+note: "Parameters = SW 2009 Table II (h_x=(120.73)^3, h_y=(336.41)^3, g=6.5). QM = no Polyakov loop (component-level). PQM_equal = log RRW, Phi=Phibar. Paper values (T, mu) given in ref as [mu, T]."
+sets:
+  QM_ms600_c:   {m2: [1, 342.52], lambda1: 1.40, lambda2: 46.48, c: 4807.84, hx: [1, 120.73], hy: [1, 336.41], g: 6.5, mode: QM, tasks: {cep: {T_range: [80, 101], mu_max: 300, ref: [221, 91]}}}
+  QM_ms600_c0:  {m2: [-1, 189.85], lambda1: -17.01, lambda2: 82.47, c: 0.0, hx: [1, 120.73], hy: [1, 336.41], g: 6.5, mode: QM, tasks: {cep: {T_range: [78, 100], mu_max: 300, ref: [228, 89]}}}
+  QM_ms800_c:   {m2: [-1, 306.26], lambda1: 13.49, lambda2: 46.48, c: 4807.84, hx: [1, 120.73], hy: [1, 336.41], g: 6.5, mode: QM, tasks: {cep: {T_range: [52, 75], mu_max: 400, ref: [327, 63]}}}
+  QM_ms800_c0:  {m2: [-1, 503.55], lambda1: -4.55, lambda2: 82.47, c: 0.0, hx: [1, 120.73], hy: [1, 336.41], g: 6.5, mode: QM, tasks: {cep: {T_range: [52, 75], mu_max: 400, ref: [328, 63]}}}
+  QM_ms900_c:   {m2: [-1, 520.80], lambda1: 23.65, lambda2: 46.48, c: 4807.84, hx: [1, 120.73], hy: [1, 336.41], g: 6.5, mode: QM, tasks: {cep: {T_range: [2, 40], mu_max: 450, ref: ["no CEP"]}}}
+  PQMlog_ms600_T270: {m2: [1, 342.52], lambda1: 1.40, lambda2: 46.48, c: 4807.84, hx: [1, 120.73], hy: [1, 336.41], g: 6.5, mode: PQM_equal, T0: 270, tasks: {cep: {T_range: [172, 198], mu_max: 260, ref: [167, 185]}}}

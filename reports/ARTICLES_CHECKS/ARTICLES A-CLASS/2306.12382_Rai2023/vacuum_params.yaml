@@ -1,0 +1,7 @@
+paper: "Rai & Tiwari, arXiv:2306.12382 (2023), Table III QM rows"
+basis_note: "LSM vacuum, Z=1, f_pi=92.4, f_K=113. Inputs m_pi=138, m_K=496, m_eta^2+m_eta'^2 = 547.5^2+957.78^2 (text). Paper prints hx, hy; solver re-derives them from stationarity."
+z_factors: none
+sets:
+  QM_ms400: {f_pi: 92.4, f_K: 113.0, m2: [1, 494.549], lambda1: -5.89, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], masses: {pi: 138.0, K: 496.0, sigma: 400.0}}
+  QM_ms500: {f_pi: 92.4, f_K: 113.0, m2: [1, 434.305], lambda1: -2.69, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], masses: {pi: 138.0, K: 496.0, sigma: 500.0}}
+  QM_ms600: {f_pi: 92.4, f_K: 113.0, m2: [1, 342.139], lambda1: 1.141, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], masses: {pi: 138.0, K: 496.0, sigma: 600.0}}

@@ -1,0 +1,193 @@
+paper: Metzger, Meyer-Ortmanns, Pirner hep-ph/9312252 (1993); Meyer-Ortmanns, Pirner? hep-ph/9410264 (1994)
+basis_note: 'Phi=lambda_a phi_a/sqrt2 convention mapped to solver: m2=-mu0^2, lambda1=4 f1, lambda2=4 f2, |c|=2 sqrt2 |g|, h0=eps0, h8=eps8 (same field normalization). Sign of c and assignment f1<->f2 (OCR-ambiguous)
+  scanned. sigma = higher scalar isoscalar (m_sigma = m_f0 input).'
+z_factors: none
+sets:
+  Metzger_sw0_c+1:
+    source: Metzger 1993 Table 1 [c sign +1]
+    f_pi: 93.0
+    f_K: 128.81
+    m2:
+    - -1
+    - 870.6319543871567
+    lambda1: 48.664
+    lambda2: 12.212
+    c: 4319.008219487432
+    h0:
+    - 1
+    - 298.3614370356656
+    h8:
+    - -1
+    - 325.5100472514976
+    masses:
+      pi: 138.04
+      K: 495.66
+      eta: 547.45
+      eta_prime: 957.75
+      sigma: 1590.0
+      a0: 914.05
+      K0star: 913.35
+  Pirner_sw0_c+1:
+    source: Pirner 1994 Table 1 (f_K not printed; 113 assumed) [c sign +1]
+    f_pi: 94.0
+    f_K: 113.0
+    m2:
+    - -1
+    - 242.89915602982236
+    lambda1: 16.68
+    lambda2: 17.92
+    c: 5091.168824543142
+    h0:
+    - 1
+    - 296.24960684073693
+    h8:
+    - -1
+    - 327.1066310188589
+    masses:
+      pi: 130.0
+      K: 491.0
+      eta: 544.0
+      eta_prime: 1046.0
+      a0: 1011.6
+      K0star: 1031.2
+  Metzger_sw0_c-1:
+    source: Metzger 1993 Table 1 [c sign -1]
+    f_pi: 93.0
+    f_K: 128.81
+    m2:
+    - -1
+    - 870.6319543871567
+    lambda1: 48.664
+    lambda2: 12.212
+    c: -4319.008219487432
+    h0:
+    - 1
+    - 298.3614370356656
+    h8:
+    - -1
+    - 325.5100472514976
+    masses:
+      pi: 138.04
+      K: 495.66
+      eta: 547.45
+      eta_prime: 957.75
+      sigma: 1590.0
+      a0: 914.05
+      K0star: 913.35
+  Pirner_sw0_c-1:
+    source: Pirner 1994 Table 1 (f_K not printed; 113 assumed) [c sign -1]
+    f_pi: 94.0
+    f_K: 113.0
+    m2:
+    - -1
+    - 242.89915602982236
+    lambda1: 16.68
+    lambda2: 17.92
+    c: -5091.168824543142
+    h0:
+    - 1
+    - 296.24960684073693
+    h8:
+    - -1
+    - 327.1066310188589
+    masses:
+      pi: 130.0
+      K: 491.0
+      eta: 544.0
+      eta_prime: 1046.0
+      a0: 1011.6
+      K0star: 1031.2
+  Metzger_sw1_c+1:
+    source: Metzger 1993 Table 1 [f1<->f2 swapped] [c sign +1]
+    f_pi: 93.0
+    f_K: 128.81
+    m2:
+    - -1
+    - 870.6319543871567
+    lambda1: 12.212
+    lambda2: 48.664
+    c: 4319.008219487432
+    h0:
+    - 1
+    - 298.3614370356656
+    h8:
+    - -1
+    - 325.5100472514976
+    masses:
+      pi: 138.04
+      K: 495.66
+      eta: 547.45
+      eta_prime: 957.75
+      sigma: 1590.0
+      a0: 914.05
+      K0star: 913.35
+  Pirner_sw1_c+1:
+    source: Pirner 1994 Table 1 (f_K not printed; 113 assumed) [f1<->f2 swapped] [c sign +1]
+    f_pi: 94.0
+    f_K: 113.0
+    m2:
+    - -1
+    - 242.89915602982236
+    lambda1: 17.92
+    lambda2: 16.68
+    c: 5091.168824543142
+    h0:
+    - 1
+    - 296.24960684073693
+    h8:
+    - -1
+    - 327.1066310188589
+    masses:
+      pi: 130.0
+      K: 491.0
+      eta: 544.0
+      eta_prime: 1046.0
+      a0: 1011.6
+      K0star: 1031.2
+  Metzger_sw1_c-1:
+    source: Metzger 1993 Table 1 [f1<->f2 swapped] [c sign -1]
+    f_pi: 93.0
+    f_K: 128.81
+    m2:
+    - -1
+    - 870.6319543871567
+    lambda1: 12.212
+    lambda2: 48.664
+    c: -4319.008219487432
+    h0:
+    - 1
+    - 298.3614370356656
+    h8:
+    - -1
+    - 325.5100472514976
+    masses:
+      pi: 138.04
+      K: 495.66
+      eta: 547.45
+      eta_prime: 957.75
+      sigma: 1590.0
+      a0: 914.05
+      K0star: 913.35
+  Pirner_sw1_c-1:
+    source: Pirner 1994 Table 1 (f_K not printed; 113 assumed) [f1<->f2 swapped] [c sign -1]
+    f_pi: 94.0
+    f_K: 113.0
+    m2:
+    - -1
+    - 242.89915602982236
+    lambda1: 17.92
+    lambda2: 16.68
+    c: -5091.168824543142
+    h0:
+    - 1
+    - 296.24960684073693
+    h8:
+    - -1
+    - 327.1066310188589
+    masses:
+      pi: 130.0
+      K: 491.0
+      eta: 544.0
+      eta_prime: 1046.0
+      a0: 1011.6
+      K0star: 1031.2

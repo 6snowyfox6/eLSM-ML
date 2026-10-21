@@ -1,0 +1,28 @@
+paper: "Lenaghan, Rischke, Schaffner-Bielich, PRD 62, 085008 (2000), arXiv:nucl-th/0004006"
+basis_note: "U(3)xU(3) LSM, no quarks, no vector mesons (Z_i=1). Vacuum is tree level; finite T is Hartree (not supported by solver). Condensates from PCAC Eq. (16). eta/eta', sigma/f0 compared as lower/upper eigenvalues."
+z_factors: none
+sets:
+  A_c_finite:
+    source: "Sec. III A, Eqs. (21)-(25), p. 9"
+    f_pi: 92.4
+    f_K: 113.0
+    m2: [+1, 342.523]
+    lambda1: 1.400
+    lambda2: 46.484
+    c: 4807.835
+    h0: [+1, 286.094]
+    h8: [-1, 310.960]
+    # pi, K implied by Eq. (21) from printed h0, h8 (paper does not print them)
+    masses: {pi: 137.995, K: 495.999, eta: 539.008, eta_prime: 963.046, sigma: 600.0, f0: 1221.113, a0: 1028.707, K0star: 1124.315}
+  B_c_zero:
+    source: "Sec. III B, Eqs. (26)-(28), p. 9. Text says m_sigma = 600 MeV"
+    f_pi: 92.4
+    f_K: 113.0
+    m2: [-1, 503.551]
+    lambda1: -4.550
+    lambda2: 82.470
+    c: 0.0
+    h0: [+1, 286.094]
+    h8: [-1, 310.960]
+    # paper calls the pion-degenerate state eta'; here: lower eigenvalue = 'eta'
+    masses: {pi: 137.995, K: 495.999, eta: 137.995, eta_prime: 634.818, sigma: 600.0, f0: 1341.367, a0: 850.387, K0star: 1124.315}

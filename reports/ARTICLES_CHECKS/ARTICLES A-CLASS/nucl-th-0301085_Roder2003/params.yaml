@@ -1,0 +1,48 @@
+paper: "Roder, Ruppert, Rischke, PRD 68, 016003 (2003), arXiv:nucl-th/0301085"
+basis_note: "U(3)xU(3) LSM part only (O(4), U(2), U(4) parts skipped: SU(3) scope). No quarks, no vector mesons (Z_i=1). Vacuum tree level; finite T is Hartree (not supported). Table IV, p. 16. eta/eta', sigma/f0 compared as lower/upper eigenvalues."
+z_factors: none
+sets:
+  physical_c_finite:
+    source: "Table IV, row 1"
+    f_pi: 92.4
+    f_K: 113.0
+    m2: [+1, 493.69]
+    lambda1: -5.38
+    lambda2: 45.08
+    c: 4831.25
+    h0: [+1, 285.04]
+    h8: [-1, 309.46]
+    masses: {pi: 139.5, K: 493.0, eta: 536.5, eta_prime: 963.9, sigma: 400.0, f0: 1188.7, a0: 1024.6, K0star: 1116.2}
+  physical_c_zero:
+    source: "Table IV, row 2"
+    f_pi: 92.4
+    f_K: 113.0
+    m2: [+1, 306.50]
+    lambda1: -24.13
+    lambda2: 81.24
+    c: 0.0
+    h0: [+1, 285.04]
+    h8: [-1, 309.46]
+    masses: {pi: 139.5, K: 493.0, eta: 139.5, eta_prime: 630.6, sigma: 400.0, f0: 1248.3, a0: 844.4, K0star: 1116.2}
+  chiral_limit_c_finite:
+    source: "Table IV, row 3"
+    f_pi: 90.0
+    f_K: 90.0
+    m2: [+1, 270.11]
+    lambda1: -17.48
+    lambda2: 109.97
+    c: 6798.25
+    h0: [+1, 0.0]
+    h8: [+1, 0.0]
+    masses: {pi: 0, K: 0, eta: 0, eta_prime: 958.0, sigma: 400.0, f0: 1225.8, a0: 1225.8, K0star: 1225.8}
+  chiral_limit_c_zero:
+    source: "Table IV, row 4"
+    f_pi: 90.0
+    f_K: 90.0
+    m2: [-1, 282.84]
+    lambda1: -55.25
+    lambda2: 185.50
+    c: 0.0
+    h0: [+1, 0.0]
+    h8: [+1, 0.0]
+    masses: {pi: 0, K: 0, eta: 0, eta_prime: 0, sigma: 400.0, f0: 1225.8, a0: 1225.8, K0star: 1225.8}

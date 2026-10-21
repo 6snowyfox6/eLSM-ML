@@ -1,0 +1,7 @@
+paper: "Re-check of earlier CEPs (Mintz 2013, Tripathi 2025) with the refined step test"
+note: "Mintz parameters = deterministic reconstruction (runs/mintz2012_cep.py): lambda1=-6.83551, lambda2=59.68588, c=4914.708 MeV, m2=+0.1948469 GeV^2, h_x=1.752048e-3, h_y=3.687806e-2 GeV^3, g=6.521739."
+sets:
+  Mintz_T182: {m2: [1, 441.4147], lambda1: -6.835510, lambda2: 59.685875, c: 4914.708, hx: [1, 120.5541], hy: [1, 332.8557], g: 6.521739, mode: PQM_equal, T0: 182, tasks: {cep: {T_range: [140, 145], ref: [129, 143]}}}
+  Mintz_T270: {m2: [1, 441.4147], lambda1: -6.835510, lambda2: 59.685875, c: 4914.708, hx: [1, 120.5541], hy: [1, 332.8557], g: 6.521739, mode: PQM_equal, T0: 270, tasks: {cep: {T_range: [189, 194], ref: [88, 192]}}}
+  Tripathi_QM: {m2: [1, 434.305], lambda1: -2.69, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, mode: QM, tasks: {cep: {T_range: [95, 99], ref: [165.24, 97.52]}}}
+  Tripathi_LogPQM: {m2: [1, 434.305], lambda1: -2.69, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, mode: PQM_equal, T0: 187, tasks: {cep: {T_range: [144, 149], ref: [124.7, 146.6]}}}

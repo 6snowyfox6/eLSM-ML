@@ -1,0 +1,136 @@
+paper: Zacchi & Schaffner-Bielich, arXiv:1909.12071 (2019), Table I (MFA)
+basis_note: 'QM model vacuum, Z=1; fit inputs stated in text: m_pi=136, m_K=496, f_pi=92.4, f_K=113, m_eta=548, m_eta''=958, m_sigma. eMFA rows (Lambda=200, fermion vacuum term) not runnable (feature).'
+z_factors: none
+sets:
+  MFA_ms400:
+    source: Table I upper (MFA), m_sigma=400
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 494.272
+    lambda1: -5.901
+    lambda2: 46.488
+    c: 4807.245
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 136.0
+      K: 496.0
+      eta: 548.0
+      eta_prime: 958.0
+      sigma: 400.0
+  MFA_ms500:
+    source: Table I upper (MFA), m_sigma=500
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 434.541
+    lambda1: -2.698
+    lambda2: 46.488
+    c: 4807.245
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 136.0
+      K: 496.0
+      eta: 548.0
+      eta_prime: 958.0
+      sigma: 500.0
+  MFA_ms600:
+    source: Table I upper (MFA), m_sigma=600
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 342.496
+    lambda1: 1.398
+    lambda2: 46.488
+    c: 4807.245
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 136.0
+      K: 496.0
+      eta: 548.0
+      eta_prime: 958.0
+      sigma: 600.0
+  MFA_ms700:
+    source: Table I upper (MFA), m_sigma=700
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 161.918
+    lambda1: 6.615
+    lambda2: 46.488
+    c: 4807.245
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 136.0
+      K: 496.0
+      eta: 548.0
+      eta_prime: 958.0
+      sigma: 700.0
+  MFA_ms800:
+    source: Table I upper (MFA), m_sigma=800
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 306.289
+    lambda1: 13.488
+    lambda2: 46.488
+    c: 4807.245
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 136.0
+      K: 496.0
+      eta: 548.0
+      eta_prime: 958.0
+      sigma: 800.0
+  MFA_ms900:
+    source: Table I upper (MFA), m_sigma=900
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 520.82
+    lambda1: 23.649
+    lambda2: 46.488
+    c: 4807.245
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 136.0
+      K: 496.0
+      eta: 548.0
+      eta_prime: 958.0
+      sigma: 900.0

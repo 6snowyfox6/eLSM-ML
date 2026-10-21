@@ -1,0 +1,356 @@
+paper: Schaefer & Wagner, PRD 79, 014018 (2009), arXiv:0808.1491
+basis_note: '2+1 quark-meson model, mesonic part = U(3)xU(3) LSM, no vector mesons (Z_i=1). sigma_x=f_pi=92.4, sigma_y=(2f_K-f_pi)/sqrt2=94.47 (paper: 94.5). h_x,h_y printed directly (nonstrange-strange
+  basis). Table I prints m_pi=138, m_K=496 as fit inputs. At c=0 the paper labels the lower pseudoscalar eigenvalue (138.0, = m_pi) as eta'' and the upper (634.8) as eta; here compared as lower/upper eigenvalue.
+  Finite-T part is QM without Polyakov loop -> not runnable (feature).'
+z_factors: none
+sets:
+  msigma400_c0:
+    source: Table II row (m_sigma=400, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 309.41
+    lambda1: -24.55
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 400.0
+      f0: 1257.3
+      a0: 850.4
+      K0star: 1124.3
+  msigma500_c0:
+    source: Table II row (m_sigma=500, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 194.82
+    lambda1: -21.24
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 500.0
+      f0: 1267.4
+      a0: 850.4
+      K0star: 1124.3
+  msigma600_c0:
+    source: Table II row (m_sigma=600, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 189.85
+    lambda1: -17.01
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 600.0
+      f0: 1282.3
+      a0: 850.4
+      K0star: 1124.3
+  msigma700_c0:
+    source: Table II row (m_sigma=700, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 360.91
+    lambda1: -11.61
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 700.0
+      f0: 1304.9
+      a0: 850.4
+      K0star: 1124.3
+  msigma800_c0:
+    source: Table II row (m_sigma=800, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 503.55
+    lambda1: -4.55
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 800.0
+      f0: 1341.4
+      a0: 850.4
+      K0star: 1124.3
+  msigma900_c0:
+    source: Table II row (m_sigma=900, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 655.82
+    lambda1: 5.56
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 900.0
+      f0: 1408.0
+      a0: 850.4
+      K0star: 1124.3
+  msigma1000_c0:
+    source: Table II row (m_sigma=1000, c=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 869.5
+    lambda1: 24.22
+    lambda2: 82.47
+    c: 0.0
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 138.0
+      eta_prime: 634.8
+      sigma: 1000.0
+      f0: 1563.4
+      a0: 850.4
+      K0star: 1124.3
+  msigma400_c:
+    source: Table II row (m_sigma=400, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 494.75
+    lambda1: -5.9
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 400.0
+      f0: 1198.4
+      a0: 1028.7
+      K0star: 1124.3
+  msigma500_c:
+    source: Table II row (m_sigma=500, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 434.56
+    lambda1: -2.7
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 500.0
+      f0: 1207.5
+      a0: 1028.7
+      K0star: 1124.3
+  msigma600_c:
+    source: Table II row (m_sigma=600, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 342.52
+    lambda1: 1.4
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 600.0
+      f0: 1221.1
+      a0: 1028.7
+      K0star: 1124.3
+  msigma700_c:
+    source: Table II row (m_sigma=700, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - 1
+    - 161.98
+    lambda1: 6.62
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 700.0
+      f0: 1242.3
+      a0: 1028.7
+      K0star: 1124.3
+  msigma800_c:
+    source: Table II row (m_sigma=800, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 306.26
+    lambda1: 13.49
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 800.0
+      f0: 1278.0
+      a0: 1028.7
+      K0star: 1124.3
+  msigma900_c:
+    source: Table II row (m_sigma=900, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 520.8
+    lambda1: 23.65
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 900.0
+      f0: 1348.0
+      a0: 1028.7
+      K0star: 1124.3
+  msigma1000_c:
+    source: Table II row (m_sigma=1000, c!=0); masses Table I
+    f_pi: 92.4
+    f_K: 113.0
+    m2:
+    - -1
+    - 807.16
+    lambda1: 45.43
+    lambda2: 46.48
+    c: 4807.84
+    hx:
+    - 1
+    - 120.73
+    hy:
+    - 1
+    - 336.41
+    masses:
+      pi: 138.0
+      K: 496.0
+      eta: 539.0
+      eta_prime: 963.0
+      sigma: 1000.0
+      f0: 1545.6
+      a0: 1028.7
+      K0star: 1124.3

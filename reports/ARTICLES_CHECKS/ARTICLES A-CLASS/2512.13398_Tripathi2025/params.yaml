@@ -1,0 +1,21 @@
+paper: "Tripathi, Rai, Tiwari, arXiv:2512.13398 (2025), Table II (QM parameters) and Table III (s-MFA rows QM, Log PQM; m_sigma = 500)"
+note: "Standard mean field (no-sea) QM and Log PQM rows only; RQM/RPQM (on-shell renormalized vacuum term), PolyLog-glue and vector interactions = features. Log potential RRW (as solver), T0 = 187 MeV (paper Sec. II B). Paper: Phi, Phibar independent reals at the saddle point of the real part (Sec. II B). Independent-real MINIMIZATION is ill-posed (runs to the Phibar=0.999 bound even at mu=0, see result.md), so Phi=Phibar (PQM_equal) is used: exact at mu=0; at mu>0 differs from the saddle-point method by a few MeV in mu_CEP (cf. Mintz 2013 Table III). Physical point g = 6.5 (Rai 2023). Chiral-limit rows (m_pi = 0, f_pi = 90.67): g not stated -> run with g = 6.5 and with g = 2*300.3/90.67 = 6.624."
+sets:
+  QM_ms500:
+    {m2: [1, 434.305], lambda1: -2.69, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, mode: QM,
+     tasks: {tc0: {T_range: [110, 150], ref: 129.0}, cep: {T_range: [85, 112], mu_max: 250, ref: [165.24, 97.52]}}}
+  LogPQM_ms500:
+    {m2: [1, 434.305], lambda1: -2.69, lambda2: 46.43, c: 4801.82, hx: [1, 120.73], hy: [1, 336.43], g: 6.5, mode: PQM_equal, T0: 187,
+     tasks: {tc0: {T_range: [140, 175], ref: 159.3}, cep: {T_range: [112, 138], mu_max: 250, ref: [146.6, 124.7]}}}
+  QM_ms500_chiral_g6.5:
+    {m2: [1, 411.663], lambda1: -0.96, lambda2: 44.62, c: 4966.63, hx: [1, 0.0], hy: [1, 340.05], g: 6.5, mode: QM,
+     tasks: {tc0: {T_range: [105, 140], ref: 123.2}}}
+  QM_ms500_chiral_g6.624:
+    {m2: [1, 411.663], lambda1: -0.96, lambda2: 44.62, c: 4966.63, hx: [1, 0.0], hy: [1, 340.05], g: 6.624, mode: QM,
+     tasks: {tc0: {T_range: [105, 140], ref: 123.2}}}
+  LogPQM_ms500_chiral_g6.5:
+    {m2: [1, 411.663], lambda1: -0.96, lambda2: 44.62, c: 4966.63, hx: [1, 0.0], hy: [1, 340.05], g: 6.5, mode: PQM_equal, T0: 187,
+     tasks: {tc0: {T_range: [140, 170], ref: 155.7}}}
+  LogPQM_ms500_chiral_g6.624:
+    {m2: [1, 411.663], lambda1: -0.96, lambda2: 44.62, c: 4966.63, hx: [1, 0.0], hy: [1, 340.05], g: 6.624, mode: PQM_equal, T0: 187,
+     tasks: {tc0: {T_range: [140, 170], ref: 155.7}}}

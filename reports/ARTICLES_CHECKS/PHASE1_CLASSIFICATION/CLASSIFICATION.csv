@@ -1,0 +1,1189 @@
+id,year,author,folder,class,model,data,group,priority,note
+1304.5362,2013,Kovacs,01,A?,eLSM vacuum Nf=3,vacuum fit (anomaly-term variants),eLSM-vacuum,2,"compares U(1)_A terms; check whether parameter values are printed"
+1311.4684,2013,Kovacs,01,A?,eLSM vacuum + baryons,meson fit table,eLSM-vacuum,3,"meson part likely PRD87-like; params?"
+1311.1313,2013,Mukherjee,01,B,LSM quarkonium+tetraquark finite T,params + Tc,tetraquark,3,"second nonet"
+1304.4603,2013,Osipov,01,C,NJL multi-quark,,,,
+1312.2830,2013,Parganlija,01,C,review glueball,,,,
+1304.5121,2013,Pelaez,01,C,f0(500) dispersive,,,,
+1309.5041,2013,Scadron,01,C,quark-level LSM review (SU2 mostly),,,,
+1302.3389,2013,Wagner,01,C,lattice tetraquarks,,,,
+1303.4657,2013,Wolkanowski,01,C,thesis resonance poles,,,,
+1305.2603,2013,Wolkanowski,01,C,toy model f0(500),,,,
+1403.8011,2014,Beisitzer,01,B,SU(3) quark-meson + vector repulsion T=0 dense,params (SW-type m_sigma=600),SW-QM-params,3,"needs T=0 finite-mu Fermi sea; vacuum params duplicate Schaefer-Wagner"
+1407.6914,2014,Brunner,01,C,holographic,,,,
+1411.2218,2014,Eshraim,01,C,U(4) eLSM,,SU4,,out of scope
+1409.5082,2014,Eshraim,01,C,U(4) eLSM,,SU4,,out of scope
+1405.5861,2014,Eshraim,01,C,U(4) eLSM,,SU4,,out of scope
+1411.4749,2014,Eshraim,01,C,U(4) eLSM,,SU4,,out of scope
+1406.4370,2014,Fischer,01,C,Bethe-Salpeter,,,,
+1403.3346,2014,Foadi,01,C,chiral quark model large Nc,,,,
+1409.0425,2014,Haber,01,C,nuclear matter magnetic field,,,,
+1411.7881,2014,Habersetzer,01,C,tau spectral Nf=2,,,,
+1408.4921,2014,Janowski,01,B,eLSM + dilaton glueball,"Table I = PRD87 params, Tables II-III glueball fits",glueball,3,"Table I duplicates PRD87"
+1410.6253,2014,Kamikado,01,B,2+1 QM FRG magnetic,,FRG,3,beyond mean field
+1410.7570,2014,Kovacs,01,A,eLSM + quarks + Polyakov finite T,params table + Tc,Kovacs-ePQM,2,"proceedings of Kovacs 2016 PRD 93; check vacuum-term convention"
+1406.3684,2014,Nagahiro,01,C,compositeness,,,,
+1411.3283,2014,Planells,01,C,thesis P/CP-odd effects,,,,
+1407.7414,2014,Schneitzer,01,C,triangle diagram decays,,,,
+1412.2395,2014,Tawfik,01,A,PLSM SU(3) finite T (Tawfik group),16 meson masses vs T + condensates,Tawfik-PLSM,1,"same group as reference paper; core target"
+1406.3504,2014,Teilab,01,C,pp meson production Nf=2,,,,
+1411.5539,2014,Wolf,01,A,eLSM + quarks + Polyakov finite T,params table + Tc,Kovacs-ePQM,2,proceedings of Kovacs 2016
+1410.7022,2014,Wolkanowski,01,C,poles,,,,
+1404.5758,2014,Wolkanowski,01,C,a0 poles,,,,
+1404.6847,2014,Zhou,01,C,unitarized ChPT,,,,
+1501.07906,2015,Brunner,01,C,holographic,,,,
+1502.00456,2015,Brunner,01,C,holographic,,,,
+1507.05022,2015,Eichmann,01,C,BSE tetraquark,,,,
+1508.07178,2015,Eichmann,01,C,BSE tetraquark,,,,
+1508.06928,2015,Eser,01,C,FRG LSM with vectors Nf=2,,FRG,,SU(2)
+1509.09117,2015,Eshraim,01,C,thesis glueball + U(4),,SU4,,Nf=3 part duplicates PRD87
+1503.05041,2015,Fariborz,01,B,generalized LSM two nonets,,tetraquark,3,
+1506.07399,2015,Fejos,01,B,U(3) LSM mesonic fluctuations T-dependent anomaly,params (rescaled),fluct,3,beyond mean field
+1507.03345,2015,Ghalenovi,01,C,quark model tetraquarks,,,,
+1511.04605,2015,Giacosa,01,C,review,,,,
+1502.02682,2015,Giacosa,01,C,lecture,,,,
+1504.04196,2015,Habersetzer,01,C,tau spectral Nf=2,,,,
+1508.06057,2015,Heinz,01,C,inhomogeneous NJL,,,,
+1510.00454,2015,Hohler,01,C,massive Yang-Mills T>0,,,,
+1501.06426,2015,Kovacs,01,A,eLSM + quarks + Polyakov finite T,params (two cases) + Tc=151,Kovacs-ePQM,2,proceedings of Kovacs 2016
+1507.02064,2015,Kovacs,01,A?,eLSM + quarks + Polyakov,chi2 of assignments,Kovacs-ePQM,3,mostly assignment study
+1511.05035,2015,Olbrich,01,C,baryons mirror,,,,
+1503.00550,2015,Parganlija,01,C,holographic glueball,,,,
+1506.03000,2015,Parganlija,01,C,holographic glueball,,,,
+1510.00653,2015,Pelaez,01,C,f0(500) review,,,,
+1507.01409,2015,Rai,01,C,dimesonic potential model,,,,
+1511.01391,2015,Rebhan,01,C,holographic,,,,
+1508.07413,2015,Sannino,01,C,large N scalars,,,,
+1510.05148,2015,Wolkanowski,01,C,poles,,,,
+1512.01071,2015,Wolkanowski,01,C,poles,,,,
+1508.00372,2015,Wolkanowski,01,C,poles,,,,
+1503.05727,2015,Yamaguchi,01,C,holographic Nf=2,,,,
+1506.01868,2015,Zacchi,01,B,SU(3) QM compact stars T=0,"vacuum param sets m_sigma=400/600 (SW type)",SW-QM-params,3,"vacuum sets checkable via vacuum_check (Z=1); dense part needs T=0 mu"
+1510.00180,2015,Zacchi,01,B,SU(3) QM hybrid stars T=0,SW-type params,SW-QM-params,3,
+1506.05575,2015,Zebarjad,01,B,generalized LSM two nonets decays,,tetraquark,3,
+1611.06006,2016,Beylin,01,C,BSM hypercolor,,,,
+1603.04312,2016,Deinet,01,C,np scattering eLSM,,,,
+1605.05154,2016,Divotgey,01,C,eLSM Nf=2 low-energy limit,,,,uses PRD87 params
+1606.09602,2016,Eichmann,01,C,baryon review,,,,
+1606.02207,2016,Eshraim,01,C,excited glueball decays,,,,
+1607.03640,2016,Giacosa,01,C,vector glueball decays,,,,
+1603.07687,2016,Giacosa,01,C,f0(500) thermal,,,,
+1609.08055,2016,Giacosa,01,C,glueball review,,,,
+1604.04782,2016,Giacosa,01,C,eLSM density Nf=2,,,,
+1610.02904,2016,Hansen,01,C,ChPT + scalar,,,,
+1608.08777,2016,Koenigstein,01,C,pseudotensor mesons decays,,,,
+1601.05291,2016,Kovacs,01,A,eLSM + quarks + Polyakov finite T/mu (PRD 93 114014),"params, condensates & masses vs T, Table II d(m_q^2)/d(phi) derivatives",Kovacs-ePQM,1,"KEY: Table II gives quark-mass derivatives needed for solver open task 2 (thermal masses per channel); T0=182/187 MeV"
+1604.05203,2016,Olbrich,01,C,baryons,,,,
+1606.05533,2016,Parganlija,01,C,excited scalars proceedings,,,,
+1612.09218,2016,Parganlija,01,B,eLSM + excited (pseudo)scalars,"ground-state fit (PRD87-like) + excited",excited,3,ground-state part duplicates PRD87
+1601.05328,2016,Parganlija,01,C,glueballs NICA,,,,
+1604.00022,2016,Pisarski,01,A?,"chiral matrix model: SU(3) LSM + quarks + Polyakov matrix model","vacuum LSM params (m^2, h_s, Yukawa) + masses vs T",PisarskiSkokov,2,"vacuum LSM sets checkable with Z=1; T part different deconfinement model"
+1606.04111,2016,Pisarski,01,B,tetraquark second chiral transition,,tetraquark,3,
+1610.08748,2016,Rennecke,01,B,2+1 QM FRG phase structure,,FRG,3,beyond mean field
+1607.01593,2016,Soltysiak,01,C,nonlocal kaonic,,,,
+1606.02970,2016,Soltysiak,01,C,kaonic resonances,,,,
+1604.01636,2016,Soltysiak,01,C,large Nc poles,,,,
+1608.06569,2016,Wolkanowski,01,C,thesis poles,,,,
+1611.10139,2016,Wunderlich,01,C,QM SU(2) photon emissivity,,,,
+1612.06167,2016,Zacchi,01,B,SU(3) QM twin stars T=0,SW-type params,SW-QM-params,3,
+1606.02374,2016,Zhang,01,C,Abelian decomposition glueballs,,,,
+1707.06150,2017,Andrianov,01,B,LSM with chiral chemical potential,"params (lambda1=16.485, lambda2=-13.13, c=-4.47; other normalization)",,3,
+1708.03632,2017,Braghin,01,C,quark-gluon couplings,,,,
+1706.09502,2017,Cortes,01,C,AdS/QCD,,,,
+1706.02651,2017,Espriu,01,C,composite Higgs,,,,
+1701.00812,2017,Fariborz,01,B,generalized LSM two nonets EM anomaly,,tetraquark,3,
+1701.03717,2017,Fejos,01,B,2+1 meson model + nucleons FRG density,,FRG,3,
+1708.03755,2017,Giacosa,01,C,heavy glueballs,,,,
+1709.07454,2017,Giacosa,01,C,anomaly flavor mixing (multiplets),,,,
+1707.02644,2017,Giacosa,01,C,neutron stars large Nc,,,,
+1712.04664,2017,Giacosa,01,C,anomaly light mesons/baryons,,,,
+1707.06610,2017,Holdom,01,B,3-flavour meson model u-d quark matter,"benchmark couplings (NDA normalized) + meson masses",,3,different normalization
+1711.10859,2017,Kovacs,01,A,ePQM phase diagram proceedings,,Kovacs-ePQM,3,see 1601.05291
+1709.09264,2017,Meurice,01,C,LSM multiflavor gauge theories,,,,
+1708.01061,2017,Olbrich,01,C,baryons anomaly,,,,uses PRD87 condensates
+1709.02181,2017,Parganlija,01,B,eLSM excited states,,excited,3,
+1708.02593,2017,Piotrowska,01,C,excited vectors decays,,,,
+1708.03175,2017,Piotrowska,01,C,excited vectors decays,,,,
+1711.10879,2017,Wolf,01,A,ePQM phase diagram proceedings,,Kovacs-ePQM,3,see 1601.05291
+1712.01629,2017,Zacchi,01,C,SU(2) QM renormalized,,,,
+1705.09953,2017,Zhang,01,C,PLSM dual condensates Nf=2 (g=3.6),,,,SU(2)
+1801.10234,2018,Diab,01,C,SU(4) PLSM (Tawfik group),,SU4,,out of scope
+1801.10522,2018,Bavontaweepanya,01,C,hadrogenesis chiral Lagrangian,,,,
+1804.01787,2018,Eser,01,C,O(4) QM FRG,,,,
+1802.05855,2018,Eshraim,01,C,U(4) charmonia,,SU4,,
+2003.06238,2018,Eshraim,01,C,Hamilton-Jacobi,,,,
+1805.08713,2018,Fejos,01,B,3-flavour LSM + nucleons FRG,,FRG,3,
+1810.12938,2018,Fischer,01,C,DSE review,,,,
+1807.05047,2018,Floor,01,C,LSM multiflavor gauge,,,,
+1809.04974,2018,Giacosa,01,C,anomaly mixing,,,,
+1807.03735,2018,Lakaschus,01,C,eLSM Nf=2 + tetraquark/glueball scattering,,,,
+1811.10731,2018,MartinContreras,01,C,AdS/QCD,,,,
+1804.08896,2018,Noshad,01,B,generalized LSM + glueball,,tetraquark,3,
+1807.04952,2018,Tripolt,01,C,FRG spectral functions,,,,
+1811.12394,2018,Volchanskiy,01,C,hypercolor,,,,
+1904.12013,2019,Beylin,01,C,dark matter,,,,
+1901.02472,2019,Divotgey,01,C,O(4) QM,,,,
+1911.06844,2019,Dobado,01,C,BSM strong,,,,
+1902.04804,2019,Eser,01,C,O(4) QM,,,,
+1902.11148,2019,Eshraim,01,C,pseudoscalar glueball decays,,,,
+1911.04945,2019,Fariborz,01,C,scale factors,,,,
+1910.12982,2019,Kono,01,B,U(3) LSM anomaly-driven SSB,"mass relations, vacuum params",,3,
+1908.10509,2019,Suenaga,01,C,eLSM in nuclear matter,"Table I = PRD87 params",,,duplicate of PRD87
+1907.05841,2019,Takatsy,01,B,eLSM (Kovacs param.) compact stars T=0,,Kovacs-ePQM,3,
+1901.03293,2019,Tawfik,01,A,SU(3) PLSM 16 meson states finite T/mu/B,masses vs T,Tawfik-PLSM,1,
+1909.12071,2019,Zacchi,01,A,SU(3) QM with/without fermion vacuum term,"Table I: vacuum params lambda1,lambda2,c,m2,hn,hs for several m_sigma",SW-QM-params,2,"MFA sets: direct vacuum check (Z=1); eMFA sets need vacuum term (feature)"
+2010.13678,2020,Beylin,01,C,dark universe,,,,
+2004.07883,2020,Braghin,01,C,magnetic field couplings,,,,
+2006.12473,2020,Cichutek,01,C,quark-meson-diquark FRG,,,,
+2005.11321,2020,Eshraim,01,C,pseudoscalar glueball decays,,,,
+2001.06106,2020,Eshraim,01,C,hybrid mesons eLSM,,,,
+2008.06207,2020,Espriu,01,C,composite Higgs,,,,
+2004.11567,2020,Giacosa,01,C,hybrid decay,,,,
+2008.02535,2020,KovacsGy,01,A?,eLSM baryon fluctuations near CEP,,Kovacs-ePQM,3,
+2008.10978,2020,Kovacs,01,B,eLSM hybrid stars,,Kovacs-ePQM,3,
+2105.08557,2020,Piotrowska,01,C,thesis scalar/vector mesons,,,,
+2002.08594,2020,Sakai,01,C,triangle mechanism,,,,
+2109.02203,2021,Braghin,01,C,axial couplings,,,,
+2112.14579,2021,Eser,01,C,pion scattering nucleon-meson,,,,
+2103.09023,2021,Fang,01,C,BESIII review,,,,
+2110.05582,2021,Giacosa,01,C,glueball scattering,,,,
+2101.03195,2021,Jafarzade,01,C,tensor mesons 3--,,,,
+2111.06127,2021,Kovacs,01,A?,ePQM neutron stars (careful param.),"Table I params m_sigma=290 MeV",Kovacs-ePQM,3,vacuum params checkable; dense part T=0
+2105.12689,2021,KovacsGy,01,B,ePQM one-loop quark contributions to (axial)vector curvature masses at T,Tc~175,Kovacs-ePQM,2,"feature: quark-loop corrections to vector masses (beyond solver Eq.32 scope)"
+2112.02328,2021,Li,01,C,nuclear potentials,,,,
+2101.06506,2021,Pelaez,01,C,dispersive review,,,,
+2109.00755,2021,Santowsky,01,C,BSE light scalars,,,,
+2107.13501,2021,Shastry,01,C,partial waves decays,,,,
+2112.13221,2021,Shastry,01,C,partial waves decays,,,,
+2102.12426,2021,Takatsy,01,B,eLSM hybrid stars,,Kovacs-ePQM,3,
+2106.04576,2021,Tawfik,01,A?,SU(3) PLSM with magnetic field,"phase diagram, T0=270",Tawfik-PLSM,2,B=0 limit comparable
+2112.15010,2021,Trotti,01,C,glueballonium,,,,
+2212.06616,2022,Braghin,01,C,NJL flavour-dependent couplings,,,,
+2203.07800,2022,Eshraim,01,C,hybrid mesons eLSM,,,,
+2212.12062,2022,Fariborz,01,B,generalized LSM pi-eta scattering,,tetraquark,3,
+2206.09219,2022,Fraga,01,C,baryonic strange matter,,,,
+2211.10092,2022,Giacosa,01,C,review conventional mesons,,,,
+2209.02879,2022,Huang,01,C,photoproduction,,,,
+2210.12421,2022,Jafarzade,01,C,rho2 meson,,,,
+2203.16585,2022,Jafarzade,01,C,tensor/axial-tensor mesons,,,,
+2209.09568,2022,Kovacs,01,A,ePQM CEP at large Nc,"Table I: parameter sets A (=PRD 93) and B; Tc=178.6/176.9 at Nc=3",Kovacs-ePQM,2,
+2204.11269,2022,Petrov,01,C,glueball-meson molecules,,,,
+2210.01993,2022,Saionji,01,C,NJL scalar ordering,,,,
+2211.10230,2022,Shastry,01,C,hybrid nonet,,,,
+2203.04327,2022,Shastry,01,C,hybrid nonet,,,,
+2211.01789,2022,Suenaga,01,C,two-colour QCD LSM,,,,
+2311.18632,2023,Abraamyan,01,C,experiment gamma-gamma,,,,
+2310.09387,2023,Ahmadov,01,A?,eLSM (Tawfik-type) SU(4) incl. 16 non-charmed masses,Table 1 masses of 16 non-charmed mesons,Tawfik-PLSM,2,"non-charmed part may be SU(3)-reducible; check parameters"
+2308.14754,2023,Eshraim,01,C,Yang-Mills quantization,,,,
+2306.14908,2023,Eshraim,01,C,Landau-Ginzburg constraints,,,,low_text but fully readable
+2309.00086,2023,Giacosa,01,C,anomalous interactions higher spin,,,,
+2312.14467,2023,Jafarzade,01,C,thesis J=2,3 mesons,,,,
+2309.16740,2023,Jafarzade,01,C,three-body decays,,,,
+2302.12925,2023,KovacsGy,01,B,ePQM finite volume,,Kovacs-ePQM,3,
+2307.10301,2023,KovacsGy,01,B,ePQM finite size + vacuum term,,Kovacs-ePQM,3,
+2311.07899,2023,Ma,01,C,baryonic eLSM with four-quark scalars nuclear matter,,,,
+2312.17017,2023,Suenaga,01,C,two-colour QCD eLSM,,,,
+2303.00013,2023,Takatsy,01,B,ePQM Bayesian neutron stars,,Kovacs-ePQM,3,
+2312.14822,2023,Trotti,01,C,thesis glueball scattering,,,,
+2310.09608,2023,Vereijken,01,C,tensor glueball decays,,,,
+2304.05225,2023,Vereijken,01,C,tensor glueball decays,,,,
+2305.17357,2023,Wang,01,C,skyrmions,,,,
+2412.01142,2024,Eshraim,01,C,Hamilton-Jacobi,,,,low_text but readable
+2410.08185,2024,Giacosa,01,B,eLSM fits with anomalous U(1)_A terms / Columbia plot,"fits (Table I), h_S=0 regions",,3,
+2402.14097,2024,Giacosa,01,C,lecture large Nc,,,,
+2409.14763,2024,Giacosa,01,C,isospin breaking kaons,,,,
+2407.18348,2024,Giacosa,01,C,eLSM review,,,,duplicates PRD87-type fits
+2401.17986,2024,Hechenberger,01,C,holographic glueballs,,,,
+2401.04527,2024,Kovacs,01,B,eLSM with isospin breaking (vacuum),fit tables,,3,feature: third (isospin) condensate
+2401.06130,2024,Pisarski,01,C,anomalous multi-instanton conjectures,,,,
+2401.10000,2024,Sun,01,C,Schrodinger KK* bound states,,,,
+2511.11822,2025,Aguirre,01,C,LSMq isospin asymmetric dense,,,,
+2501.02055,2025,Brodie,01,C,parity-doubled nucleons cooling,,,,
+2505.09086,2025,Diab,01,C,SU(4) PQM isospin asymmetry,,SU4,,out of scope (Tawfik/Diab group)
+2506.13190,2025,Eshraim,01,C,Hamilton-Jacobi,,,,low_text but readable
+2501.12601,2025,Fariborz,01,C,sum rules scale factors,,,,
+2507.13581,2025,Fejos,01,B,3-flavour LSM topological fluctuations,eta-eta' params,fluct,3,
+2510.02747,2025,Fernandez,01,C,LSM with quarks magnetic ring diagrams (Nf=2),,,,
+2512.22198,2025,Friesen,01,REF,SU(3)/SU(4) eLSM + Polyakov finite T,Tables I-V + Figs,REF,0,"reference paper of the solver; already reproduced (Tables I, III, V)"
+2502.15617,2025,Giacosa,01,C,polydeterminant,,,,
+2504.02113,2025,Giacosa,01,C,isospin kaon anomaly,,,,
+2509.16380,2025,Ho,01,C,sum rules,,,,
+2512.19907,2025,Kasza,01,B,eLSM (Kovacs param.) cold EoS,,Kovacs-ePQM,3,
+2504.17856,2025,KovacsGy,01,B,quark-meson naive Gaussian approximation,,,3,beyond mean field
+2512.23477,2025,Ma,01,C,baryonic eLSM compact stars,,,,
+2507.10049,2025,Ma,01,C,baryonic eLSM nuclear matter,,,,
+2501.04525,2025,Ovchynnikov,01,C,axion-like particles,,,,
+2509.08648,2025,Pelaez,01,C,light meson review,,,,
+2502.04496,2025,Suenaga,01,C,two-colour QCD LSM review,,,,
+2502.01644,2025,Tawfik,01,A,SU(3)/SU(4) eLSM meson masses at finite T (Tawfik group),"mass formulas, Z factors, thermal masses",Tawfik-PLSM,1,"sister paper of reference; known misprints in Eqs. 5-6, 34-36 (EXTERNAL_CROSSCHECK.md)"
+2502.21042,2025,Vereijken,01,C,rho-pi puzzle,,,,
+2603.15429,2026,Aguirre,01,C,LSMq flavour imbalance,,,,
+2605.05816,2026,Andersen,01,B,extended 3-flavour quark-meson-diquark model,"vacuum params, renormalized",,3,feature: vacuum term + diquarks
+2603.22895,2026,Gao,01,C,LCSR form factors,,,,
+2601.03710,2026,Giacosa,01,B,eLSM anomaly operators Columbia plot,,,3,feature: alternative U(1)_A terms
+2608.10259,2026,Kasza,01,B,eLSM hybrid stars crossover,,Kovacs-ePQM,3,
+2605.00437,2026,Kasza,01,B,eLSM neutron star max mass,,Kovacs-ePQM,3,
+2610.01396,2026,Kawaguchi,01,C,D-form factors eLSM with 4q,,,,
+2603.01933,2026,Ma,01,C,QHD nuclear matter,,,,
+2603.03849,2026,Ma,01,C,baryonic eLSM neutron stars,,,,
+2609.26817,2026,Rfeek,01,C,SU(4) PLSM charmed masses at T/mu (Tawfik group),,SU4,,"out of scope; light/strange part maybe comparable later"
+2609.24961,2026,Vereijken,01,C,12% rule chiral framework,,,,
+hep-ph/9505305,1995,Dahm,02,C,Wigner supermultiplets,,,,
+1410.0206,2014,Tawfik,02,C,generalized uncertainty principle,,,,
+1410.7966,2014,Tawfik,02,C,GUP cosmology,,,,
+1406.7488,2014,Tawfik,02,A?,SU(3) PLSM in magnetic field,"Tc(B), condensates; T0=187",Tawfik-PLSM,2,B=0 limit = standard PLSM run
+1411.1871,2014,Tawfik,02,B,SU(3) LSM + gluonic quasi-particles,"thermodynamics, g=6.5",Tawfik-PLSM,3,feature: quasiparticle gluons instead of Polyakov
+1509.07072,2015,Ezzelarab,02,C,EoS magnetic field (proceedings),,,,
+1510.02117,2015,Tawfik,02,C,freeze-out Hawking-Unruh,,,,
+1509.07114,2015,Tawfik,02,A,"SU(3) PLSM vs QLSM, PNJL, HRG; chiral transition","params printed p3 (SW m_sigma=800: c=4807.84, m2=-(306.26)^2, lambda1=13.48, h_l, h_s); M(T), Delta_ls(T), Tc",Tawfik-PLSM,1,"best representative of Tawfik PLSM parameter set; lattice comparison"
+1509.02436,2015,Tawfik,02,C,GUP review,,,,
+1501.01124,2015,Tawfik,02,A?,SU(3) PLSM magnetic fields thermodynamics,,Tawfik-PLSM,3,
+1510.02673,2015,Tawfik,02,B,PLSM transport coefficients,,Tawfik-PLSM,3,
+1611.06926,2016,Diab,02,C,EM effects (proceedings),,,,
+1611.02693,2016,Diab,02,C,SU(4) PLSM,,SU4,,
+1611.02692,2016,Tawfik,02,B,PLSM electromagnetic/transport (proceedings),,Tawfik-PLSM,3,
+1603.09667,2016,Tawfik,02,C,Horava-Lifshitz inflation,,,,
+1603.03032,2016,Tawfik,02,C,cosmology quantum potential,,,,
+1608.06532,2016,Tawfik,02,C,cosmology quantum potential,,,,
+1701.04816,2016,Tawfik,02,C,strangeness production,,,,
+1606.09153,2016,Tawfik,02,B,PLSM magnetic field freeze-out NICA,,Tawfik-PLSM,3,
+1604.00043,2016,Tawfik,02,A?,PLSM thermodynamics magnetization,,Tawfik-PLSM,3,
+1604.08174,2016,Tawfik,02,A?,"PLSM quark-hadron phase structure, thermodynamics (m_sigma=800, g=6.5, T0=187)",Tc~181,Tawfik-PLSM,2,
+1610.06041,2016,Tawfik,02,B,PLSM conductivity/viscosity,,Tawfik-PLSM,3,
+1608.01034,2016,Tawfik,02,B,PLSM viscosity magnetic,,Tawfik-PLSM,3,
+1612.05105,2016,Tawfik,02,C,strangeness Hawking-Unruh,,,,
+1707.06459,2017,Tawfik,02,C,inflation,,,,
+1712.03264,2017,Tawfik,02,A?,"PLSM magnetic properties thermal/dense (m_sigma=800, T0=270)",,Tawfik-PLSM,2,T0=270 as in reference paper
+1809.07029,2018,Chen,02,C,gauged sigma model ferromagnet,,,,
+1907.05729,2019,Hanafy,02,C,particle ratios event generators,,,,
+1911.02797,2019,Tawfik,02,B,bulk viscosity PLSM,,Tawfik-PLSM,3,
+1908.00426,2019,Tawfik,02,C,freeze-out thermal models,,,,
+1908.05939,2019,Tawfik,02,A,"PLSM mean field vs optimized perturbation theory (m_sigma=800)","condensates, Phi, pressure, Tc in MFA and OPT",Tawfik-PLSM,2,MFA part directly comparable; OPT = feature
+1904.09890,2019,Tawfik,02,A?,"PLSM with isospin asymmetry (sigma_u, sigma_d, sigma_s)",phase diagram; mu_I=0 limit,Tawfik-PLSM,2,feature: isospin chemical potential
+2005.03999,2020,Diab,02,C,cosmological constant,,,,
+2011.06944,2020,Diab,02,C,minimal length cosmology,,,,
+2011.05328,2020,Tawfik,02,C,minimal length geometry,,,,
+2109.03701,2021,Hanafy,02,C,HRG particle ratios,,,,
+2105.09087,2021,Kim,02,C,heavy baryons diquarks,,,,
+2111.09871,2021,Tawfik,02,C,EoS viscous matter,,,,
+2211.13472,2022,Murakami,02,C,two-colour lattice,,,,
+2201.04444,2022,Rahman,02,C,HRG + ANN,,,,
+2305.18682,2023,Kawaguchi,02,C,two-colour topological susceptibility,,,,
+2404.06673,2024,Diab,02,B,PQM with Tsallis non-extensive statistics (m_sigma=800),,Tawfik-PLSM,3,
+2403.20099,2024,Yung,02,C,non-Abelian vortex strings,,,,
+2508.12972,2025,Ievlev,02,C,non-Abelian vortex strings,,,,
+hep-ph/9608373,1996,Schafer,03,C,instanton liquid anomaly at T,,,,
+hep-ph/9702425,1997,Hirata,03,C,phenomenological quark interaction,,,,low_text but readable
+hep-ph/9711452,1997,Zhang,03,C,pion strings,,,,
+hep-ph/9808210,1998,Lehmann,03,C,NJL eta' vertex,,,,
+hep-ph/9803396,1998,Napsuciale,03,A?,U(3)xU(3) LSM vacuum (scalar masses and mixing),"fitted LSM params, scalar predictions",LSM-vacuum,2,"tree-level vacuum, Z=1; check printed params"
+hep-ph/0112105,2001,Napsuciale,03,C,LSM anomaly + P->gamma gamma,,,,
+hep-ph/0410148,2004,Osipov,03,C,NJL 't Hooft eta' puzzle,,,,
+hep-ph/0405145,2004,Li,03,C,domain wall LSM Nf=2,,,,
+hep-ph/0601216,2006,Fariborz,03,C,generalized sigma model (garbled text),,,,text extraction garbled on p1
+hep-ph/0612200,2006,Fariborz,03,B,generalized LSM two nonets,,tetraquark,3,
+0707.0843,2007,Fariborz,03,B,two chiral nonets massless quarks,,tetraquark,3,
+0806.1669,2008,Boer,03,C,NJL theta=pi,,,,
+0812.2855,2008,Schaefer,03,A,3-flavour PQM phase structure (proceedings),"m_sigma=600/800/900",SW-PQM,3,duplicate of 0808.1491 / 0910.5628
+0808.1491,2008,Schaefer,03,A,"3-flavour quark-meson model at T, mu (Schaefer & Wagner PRD 79 014018)","Table II param sets m_sigma=400..1200 (c!=0, c=0); Table I vacuum masses; Table III d2(m_q^2)/d(phi_a)d(phi_b); masses vs T",SW-PQM,1,"KEY: reference [59] of the solver; vacuum sets via vacuum_check; Table III = derivatives for open task 2"
+0911.2464,2009,Gupta,03,A,2+1 PQM meson masses & mixing angles vs T (two Polyakov potentials),"params m_sigma=600 (Table II), masses vs T, T0=270",SW-PQM,1,"direct target for thermal masses per channel (open task 2)"
+1012.3264,2010,Eto,03,C,Q-balls chiral magnetic effect,,,,
+1209.0507,2012,Jiang,03,B,SU(3) LSM FRG U_A(1) at T,,FRG,3,
+1308.3176,2013,Mitter,03,B,3-flavour QM FRG axial anomaly,,FRG,3,
+1309.4845,2013,Sakai,03,B,eta' in nuclear matter LSM,,,3,
+1311.4621,2013,Sato,03,C,LSM vacuum structure Nf=2 RG,,,,
+1312.3850,2013,Schaefer,03,B,3-flavour QM FRG axial anomaly,,FRG,3,
+1512.05241,2015,Heller,03,C,pion/eta splitting Nf=2,,,,
+1504.04463,2015,Ishii,03,C,2+1 EPNJL K(T),,,,NJL
+1501.06684,2015,Sato,03,C,LSM RG Nf=2,,,,
+1604.05982,2016,Fejos,03,B,2+1 LSM FRG U_A(1) factor at T,"UV params; vacuum fit (Lenaghan h0,h8)",FRG,3,
+1709.10017,2017,Meurice,03,C,Nf=12 lattice,,,,
+1712.00033,2017,Moreira,03,C,extended NJL magnetic,,,,
+1809.10183,2018,Kribs,03,C,dark mesons,,,,
+1812.06786,2018,Rai,03,B,2+1 PQM with fermion vacuum term (PQMVT) and c(T),"vacuum params for m_sigma=400..; T0=270; masses vs T",SW-PQM,2,"feature: vacuum term; T-dependent anomaly"
+1912.09659,2019,Harada,03,C,diquark LSM,,,,
+1910.09146,2019,Kuroda,03,B,LSM anomaly-induced flavour breaking scalars,,,3,
+2011.01499,2020,Aoki,03,C,lattice U(1)_A,,,,
+2012.08706,2020,Fejos,03,B,3-flavour LSM perturbative RG anomaly,,fluct,3,
+2005.07003,2020,Kawaguchi,03,B,3-flavour LSM with anomaly-induced flavour breaking at T (nonperturbative loops),"lambda1=11.8, lambda2=20.4",,3,
+2005.07049,2020,Moreira,03,C,NJL magnetic,,,,
+2002.00796,2020,Vioque-Rodriguez,03,C,thermal f0(500) LSM Nf=2,,,,
+2105.13018,2021,Benayoun,03,C,HLS model,,,,
+2112.15590,2021,CaboBizet,03,C,string GLSM,,,,
+2211.11686,2022,Tiwari,03,B,2+1 QM with vacuum fluctuations (on-shell vs curvature schemes),"param tables, vacuum masses, phase diagram",SW-PQM,2,"feature: vacuum term; MFA reference sets comparable"
+2508.09474,2025,Fariborz,03,B,generalized LSM + glueballs,,tetraquark,3,
+2506.14010,2025,Fejos,03,C,two-colour QCD FRG,,,,
+2509.20468,2025,Sakai,03,C,two-colour 2+2 LSM,,,,
+2603.28620,2026,Dvali,03,C,axion cosmology,,,,
+2606.31040,2026,Fejos,03,C,two-colour QCD FRG,,,,
+2608.30434,2026,Kawaguchi,03,A?,3-flavour LSM D-form factors,"Table I param sets (Set I from literature), Table II meson masses",LSM-vacuum,3,vacuum masses checkable
+hep-ph/9312252,1993,Metzger,04,A?,SU(3)xSU(3) LSM condensates at T (resummed/Hartree-type),"Table 1 tree-level params (m_sigma=1.5 GeV), Tc=161",LSM-vacuum,2,"vacuum params checkable (Z=1); finite-T method differs (feature)"
+hep-ph/9407402,1994,Moussallam,04,C,chiral sum rules WZ sector,,,,
+hep-th/9612013,1996,Broadhurst,04,C,critical exponents large N,,,,
+hep-ph/9707245,1997,Abada,04,C,DCC from hot quark tubes,,,,
+hep-ph/9702383,1997,Anisovich,04,C,eta-eta' glueball mixing data,,,,
+hep-ph/9703313,1997,Bramon,04,C,eta-eta' from J/psi,,,,
+hep-ph/9711229,1997,Bramon,04,C,eta-eta' mixing angle,,,,
+hep-ph/9711475,1997,Jalilian-Marian,04,C,eta/eta' at T nonlinear sigma,,,,
+hep-ph/9806423,1998,Gardner,04,C,isospin violation B decays,,,,
+hep-ph/9805412,1998,Jin,04,C,glueball decay LSM,,,,low_text but readable
+hep-ph/9804338,1998,Mishustin,04,C,chiral fluid dynamics,,,,
+hep-ph/9710382,1998,Venugopal,04,C,eta-eta' anomaly fits,,,,
+hep-ph/9911387,1999,Black,04,C,light scalars review,,,,
+hep-ph/9901405,1999,Escribano,04,C,eta-eta' energy-dependent mixing,,,,
+hep-ph/9903234,1999,LucioMartinez,04,C,LSM gamma-gamma decays,,,,
+hep-ph/9906361,1999,Schaffner-Bielich,04,B,SU(3) LSM effective U_A(1) restoration,Lenaghan params,LSM-Hartree,3,duplicate of Lenaghan 2000 params; feature T-dependent anomaly
+hep-ph/9905282,1999,Tornqvist,04,A?,broken U3xU3 LSM vs experiment (tree level),"Table I predicted masses for two lambda' values",LSM-vacuum,2,
+hep-ph/0012278,2000,Black,04,B,unitarized 3-flavour LSM scattering,,,3,
+hep-ph/0008188,2000,Bramon,04,C,phi->pi0 eta gamma,,,,
+hep-ph/0012049,2000,Bramon,04,C,VP gamma eta-eta',,,,
+hep-ph/0006007,2000,DeFazio,04,C,sum rules phi decays,,,,
+hep-ph/0012050,2000,Escribano,04,C,phi->pi0 eta gamma LsigmaM,,,,
+hep-ph/0107175,2001,Beisert,04,C,U(3) ChPT eta-eta',,,,
+hep-ph/0106257,2001,Bettencourt,04,C,DCC Langevin,,,,
+nucl-th/0106069,2001,Chanfray,04,C,quark density fluctuations nuclei,,,,
+hep-ph/0101324,2001,Klabucar,04,B,dynamically generated SU(3) LSM (loop order),,,3,
+nucl-th/0105055,2001,Napsuciale,04,C,instantons eta-nucleon,,,,
+hep-lat/0209158,2002,Bettencourt,04,C,DCC stochastic,,,,
+hep-ph/0204339,2002,Bramon,04,C,phi->pi0 pi0 gamma,,,,
+hep-ph/0212087,2002,Napsuciale,04,C,quark-level LSM radiative decays,,,,
+nucl-th/0303020,2003,Barquilla-Cano,04,C,nucleon spin,,,,
+nucl-th/0306078,2003,Benayoun,04,C,HLS anomalies,,,,
+hep-ph/0304054,2003,Braghin,04,C,skyrmion,,,,
+hep-th/0304113,2003,Grunberg,04,C,Gepner models,,,,
+hep-ph/0411292,2004,Gerard,04,C,eta-eta' large Nc,,,,
+nucl-th/0402070,2004,Mocsy,04,C,LSM with quarks fluctuations Nf=2,,,,
+nucl-th/0409046,2004,Ohnishi,04,C,mode coupling chiral transition,,,,
+hep-ph/0501072,2005,Escribano,04,C,two-angle eta-eta',,,,
+nucl-th/0510017,2005,Kleefeld,04,C,eta-eta' Coulomb,,,,
+hep-ph/0509031,2005,Kroll,04,C,isospin breaking pi0-eta,,,,
+hep-ph/0606314,2006,Escribano,04,C,V->PP gamma LsigmaM,,,,
+hep-th/0703132,2007,Dobado,04,C,KSS bound,,,,
+0708.4091,2007,Nitta,04,C,non-Abelian strings,,,,
+0711.4223,2007,Pelaez,04,C,unitarized ChPT scalars,,,,
+0811.2577,2008,Cheng,04,C,pseudoscalar glueball mixing,,,,
+0803.3275,2008,Dobado,04,C,eta/s,,,,
+0801.2552,2008,Fariborz,04,B,generalized LSM instantons,,tetraquark,3,
+0907.5483,2009,Dobado,04,C,eta/s LSM large N,,,,
+0910.0212,2009,Mathieu,04,C,pseudoscalar glueball mixing,,,,
+1007.2877,2010,Jakovac,04,B,U(3)xU(3) LSM tricritical point strange mass,,,3,beyond tree level
+1005.5683,2010,Masjuan,04,C,thesis rational approximants,,,,
+1107.4044,2011,Peralta-Ramos,04,C,chiral hydrodynamics,,,,
+1201.2135,2012,Chen,04,C,eta-eta' radiative decays,,,,
+1207.5400,2012,Escribano,04,C,eta' rare decays,,,,
+1209.2470,2012,Peralta-Ramos,04,C,chiral hydro photons,,,,
+1211.6053,2012,Peralta-Ramos,04,C,chiral hydro flow,,,,
+1304.2081,2013,Pasechnik,04,C,technicolor gauged LSM,,,,
+1401.2235,2013,Sakai,04,C,eta'N interaction LSM,,,,
+1407.3870,2014,Fariborz,04,B,generalized LSM eta'->eta pi pi,,tetraquark,3,
+1401.4103,2014,Mishustin,04,C,chiral fluid dynamics,,,,
+1412.1557,2014,Sakai,04,C,eta'N interaction,,,,
+1507.03123,2015,Guo,04,C,charm scalar mesons unitarized,,,,
+1503.02248,2015,Guo,04,C,U(3) ChPT eta-eta',,,,
+1512.04000,2015,Sakai,04,B,3-flavour LSM with isospin breaking in nuclear medium,"Tables 2-3: params and vacuum masses (m_sigma=441..668)",LSM-vacuum,3,"isospin-breaking (sigma_u != sigma_d) variant; feature"
+1611.02156,2016,Sakai,04,C,eta' photoproduction,,,,
+1607.07116,2016,Sakai,04,C,eta'N system LSM,,,,
+1604.03634,2016,Sekihara,04,C,eta'N bound state,,,,
+1712.06257,2017,Sekihara,04,C,eta'd bound state,,,,
+1812.08454,2018,Escribano,04,C,eta rare decays,,,,
+1810.10624,2018,Fariborz,04,B,generalized LSM SU(3) limit + glue,,tetraquark,3,
+1807.03944,2018,Ramadhan,04,C,DBI global defects,,,,
+1904.10967,2019,Croon,04,C,axions gravitational waves,,,,
+1909.10384,2019,Lukashov,04,C,chiral confining Lagrangian,,,,
+1905.08146,2019,Zhang,04,C,van der Waals HRG (PLSM masses as input),,,,
+2005.12793,2020,Heffernan,04,C,LSM transport Nf=2,,,,
+2112.02769,2021,Balytskyi,04,C,dark photon eta decays,,,,
+2107.12266,2021,Fariborz,04,B,generalized LSM mesons + glueballs,,tetraquark,3,
+2105.03974,2021,Ji,04,C,proton mass decomposition,,,,
+2109.08510,2021,Seibold,04,C,strings Bethe ansatz,,,,
+2201.05719,2022,Davies,04,C,light quarks large N,,,,
+2204.01639,2022,Ghosh,04,C,LSM shear viscosity magnetic,,,,
+2202.11661,2022,Rai,04,C,2-flavour QM on-shell vs curvature (vacuum term),,,,SU(2); companion 3-flavour paper is 2211.11686
+2301.05695,2023,deSousa,04,C,U(5) NJL,,,,
+2512.07172,2025,Mukherjee,04,C,parity-doublet nuclear models,,,,
+2604.20196,2026,Ayala,04,C,LSMq Nf=2 T=0 dense,,,,
+hep-th/9410154,1994,Garcia-Compean,05,C,self-dual gravity,,,,
+hep-th/9606097,1997,Cruz,05,C,2D dilaton gravity,,,,
+hep-th/9701006,1997,Ferrando,05,C,3D gluodynamics,,,,
+hep-ph/9902419,1998,Berges,05,C,QM Nf=2 FRG review,,,,
+hep-ph/9811347,1998,Berges,05,C,QM Nf=2 FRG dense,,,,
+nucl-th/9808072,1998,Islam,05,C,gauged LSM nuclear matter,,,,
+cond-mat/9907288,1999,Alonso,05,C,lattice scalar-fermion 2+1D,,,,
+nucl-th/9908019,1999,Meyer,05,C,RG flow LSM quarks Nf=2,,,,
+cond-mat/0002328,2000,Fabrizio,05,C,Anderson localization,,,,
+hep-ph/0110179,2001,Mocsy,05,C,thesis nonequilibrium chiral (mostly Nf=2),,,,
+hep-th/0109148,2001,VanBaal,05,C,abelian projections,,,,
+hep-ph/0311119,2003,Dumitru,05,C,Tc quark-mass dependence LSM/Polyakov (Nf=2 focus),,,,
+hep-ph/0512274,2005,Braun,05,C,QM finite volume RG Nf=2,,,,
+hep-ph/0505083,2005,Krivoruchenko,05,C,pion gas resummation,,,,
+hep-ph/0601146,2005,Roder,05,B,thesis selfconsistent mesons at T (Hartree/CJT incl. U(3)),,LSM-Hartree,3,duplicates Roder 2003 / Lenaghan sets
+cond-mat/0607635,2006,DellAnna,05,C,d-wave superconductors,,,,
+hep-ph/0611191,2006,Schaefer,05,C,RG review QM Nf=2,,,,
+hep-ph/0701100,2007,El-Sheikh,05,C,LSM isospin chemical potential one loop (Nf=2),,,,low_text checked: Nf=2
+0803.2598,2008,Kahara,05,C,PLSM/PNJL Nf=2,,,,
+0812.1853,2008,Matsuo,05,C,O(N) quantum kinetics,,,,
+0808.4046,2008,Wozar,05,C,Polyakov loop models YM,,,,
+0901.1748,2009,Dexheimer,05,B,hadronic SU(3) nonlinear sigma + quarks + Polyakov-type field,T0=200/270,,3,different model
+0910.1312,2009,Dexheimer,05,B,same as 0901.1748 (neutron stars),,,3,
+0906.0890,2009,Kahara,05,C,PLSM/PNJL Nf=2,,,,
+0906.1324,2009,Mao,05,A,"PLSM three flavours (2+1) phase diagram, thermodynamics","m_sigma=600 params, Tc, condensates vs T",SW-PQM,1,"independent 2+1 PLSM implementation; Tc values comparable"
+0909.0289,2009,Schaefer,05,A,PQM thermodynamics (proceedings),,SW-PQM,3,dup of 0910.5628
+0910.5628,2009,Schaefer,05,A,"2+1 PQM vs lattice (Schaefer, Wagner, Wambach PRD 81 074013)","Table II/III pseudo-critical T_chi (light, strange) and T_Phi for T0 and m_sigma variants",SW-PQM,1,"KEY: direct reference for solver T_chi scans and the 1-3 MeV offset"
+0911.0296,2009,Wambach,05,A,PQM vs lattice (proceedings),,SW-PQM,3,dup of 0910.5628
+1006.0257,2010,Chakraborty,05,C,quasiparticle viscosities,,,,
+1007.4721,2010,Ferroni,05,C,multiple critical points Nf=2,,,,
+1006.3931,2010,Kahara,05,C,PLSM/PNJL Nf=2 finite mu,,,,
+1009.5211,2010,Karsch,05,B,2+1 PQM Taylor expansion in mu,"m_sigma=600, T0=270",SW-PQM,3,feature: mu-derivatives
+1103.0954,2010,Mizher,05,C,LSM+quarks+Polyakov magnetic Nf=2,,,,
+1004.2712,2010,Mizher,05,C,LSM+quarks+Polyakov magnetic Nf=2,,,,
+1009.4129,2010,Redlich,05,C,PQM FRG Nf=2,,,,
+1004.2665,2010,Skokov,05,C,PQM FRG Nf=2,,,,
+1005.3166,2010,Skokov,05,C,vacuum fluctuations QM/PQM Nf=2,,,,"concept relevant to omitted vacuum term"
+0904.0466,2010,Stokic,05,C,FRG O(4) scaling,,,,
+1110.0849,2011,Braun,05,C,QM finite volume,,,,
+1108.2941,2011,Chatterjee,05,A,2+1 PQM with and without fermion vacuum fluctuations,"Table 1: m_sigma, m2, lambda1, lambda2, c, hx, hy, g, T0, kappa; thermodynamics vs lattice",SW-PQM,2,"no-vacuum sets directly runnable; vacuum-term sets = feature"
+1102.0188,2011,Chernodub,05,C,chiral chemical potential Nf=2,,,,
+1107.1312,2011,Gupta,05,C,PQMVT Nf=2,,,,
+1110.6038,2011,Karsch,05,B,2+1 PQM Taylor expansion,,SW-PQM,3,
+1108.3231,2011,Skokov,05,C,charge fluctuations FRG Nf=2,,,,
+1112.5401,2011,Strodthoff,05,C,two-colour QM diquark,,,,
+1204.3360,2012,Andersen,05,C,QM magnetic FRG Nf=2,,,,
+1201.3352,2012,Chatterjee,05,B,2+1 PQM conserved-charge fluctuations,,SW-PQM,3,feature: susceptibilities
+1207.3714,2012,Ferrari,05,C,NJL/LSM magnetic Nf=2,,,,
+1208.0917,2012,Fraga,05,C,magnetic review LSM+Polyakov Nf=2,,,,
+1202.0758,2012,Herbst,05,C,PQM fluctuations Nf=2,,,,
+1212.1184,2012,Mintz,05,A,3-flavour PQM phase diagram + surface tension,"m_sigma=500/600, T0=270/182, Polyakov parametrizations (Table II)",SW-PQM,2,"mu=0 Tc comparable; other Polyakov potentials = feature"
+1207.5186,2012,Pinto,05,C,surface tension LSM Nf=2 / NJL,,,,
+1207.2610,2012,Redlich,05,C,PQM fluctuations HIC,,,,
+1205.4756,2012,Skokov,05,C,volume fluctuations cumulants,,,,
+1303.3742,2012,Stiele,05,A,2+1 PQM with improved (glue) Polyakov potential,"Table 2: pseudo-critical T for m_sigma=400..600, YM vs glue potential",SW-PQM,2,"YM-potential (log) rows runnable; glue potential = feature (cf. Haas 1302.1993)"
+1208.2458,2012,Tiwari,05,C,two-flavour QM/PQM criticality,,,,
+1311.1772,2013,Abu-Shady,05,C,higher-order mesonic interactions Nf=2,,,,
+1309.0591,2013,Chen,05,C,Gaussian functional O(4),,,,
+1401.1735,2013,Herbst,05,A,2+1 PQM with glue fluctuations (proceedings),Table 1 critical temperatures,SW-PQM,3,dup of 1308.3621
+1308.3621,2013,Herbst,05,A,2+1 PQM thermodynamics at mu=0 (unquenched Polyakov),"Table I chiral/deconf. T for parametrisations; Table II T_chi vs m_sigma; c=4807.84, m_sigma=400",SW-PQM,2,
+1401.3100,2013,Imai,05,C,Gaussian functional LSM Nf=2,,,,
+1312.3124,2013,Kamikado,05,C,QM magnetic FRG,,,,
+1307.5958,2013,Lo,05,B,lattice Polyakov loop fluctuations + effective gluon potential,"potential parameters a(T),b(T),c(T),d(T)",Polyakov-pot,3,feature: alternative Polyakov potential
+1301.6227,2013,Mao,05,C,chiral soliton Nf=2,,,,
+1304.4571,2013,Mizher,05,C,magnetic quark masses,,,,
+1305.0137,2013,Ruggieri,05,C,renormalized chiral transition magnetic,,,,
+1307.2851,2013,Stiele,05,B,2+1 PQM nonzero isospin,,SW-PQM,3,feature: isospin chemical potential
+1301.3717,2013,Tiwari,05,A,2+1 QM/PQM meson masses & mixing angles vs T (with/without vacuum term),"Table I params m_sigma=600 (c and c=0), Table II characteristic temperatures, masses vs T, T0=270",SW-PQM,1,"KEY for open task 2 (thermal masses per channel); no-vacuum-term curves directly comparable"
+1311.4304,2013,Tripolt,05,C,FRG spectral functions Nf=2,,,,
+1311.0630,2013,Tripolt,05,C,FRG spectral functions Nf=2,,,,
+1304.4331,2013,Ueda,05,C,PQM isospin Nf=2,,,,
+1410.5247,2014,Andersen,05,C,QM inverse magnetic catalysis Nf=2,,,,
+1408.1905,2014,Hayata,05,C,inhomogeneous Polyakov loop,,,,
+1402.5982,2014,Morita,05,C,QM FRG baryon distribution Nf=2,,,,
+1403.1179,2014,Pawlowski,05,C,QM FRG Nf=2,,,,
+1405.0577,2014,Tawfik,05,A?,SU(3) PLSM higher-order moments (g=6.5),Tc~150,Tawfik-PLSM,3,
+1408.3512,2014,Tripolt,05,C,FRG spectral functions,,,,
+1407.8387,2014,Tripolt,05,C,FRG spectral functions,,,,
+1404.7312,2014,Wambach,05,C,FRG spectral functions,,,,
+1507.02214,2015,Abu-Shady,05,C,quantized LSM nucleon,,,,
+1502.00648,2015,Chatterjee,05,B,2+1 PQM susceptibilities sign structure,,SW-PQM,3,
+1511.06466,2015,Jiang,05,B,SU(3) QM FRG topological susceptibility (c=4807.84 g=6.5),,FRG,3,
+1508.03920,2015,Jin,05,C,soliton PQM Nf=2,,,,
+1510.04380,2015,Magdy,05,A,2+1 PLSM finite volume + magnetic field,"Table I: m_sigma=800 params (c=4807.84, lambda1=13.49, m2, lambda2, hx, hy)",Tawfik-PLSM,2,"printed Tawfik parameter set; infinite-volume B=0 limit runnable"
+1608.01097,2016,Adhikari,05,C,regularization inhomogeneous phases,,,,
+1612.03668,2016,Adhikari,05,C,on-shell QM Nf=2,,,,
+1605.05423,2016,Almasi,05,C,scaling QM/PQM (O(4)),,,,
+1606.08859,2016,Carignano,05,C,QM vacuum fluctuations parameter fixing Nf=2,,,,
+1608.06139,2016,Mishra,05,C,Z(3) metastable PQM Nf=2,,,,
+1602.03651,2016,Ruggieri,05,C,chiral chemical potential QM,,,,
+1601.05731,2016,Stiele,05,A?,2+1 PQM unquenched Polyakov phase diagram,"Tables 1-2 vacuum masses, m_sigma=400",SW-PQM,3,
+1709.08013,2017,Abhishek,05,C,PQM transport Nf=2,,,,
+1703.05947,2017,Almasi,05,C,PQM baryon fluctuations Nf=2 with vectors,,,,
+1712.00187,2017,Ayala,05,C,LSMq ring diagrams CEP Nf=2,,,,
+1711.07559,2017,Grunfeld,05,C,PNJL finite size,,,,
+1711.04914,2017,Li,05,C,DSE finite volume,,,,
+1711.05521,2017,Marczenko,05,C,hybrid quark-meson-nucleon,,,,
+1801.04393,2017,Mishra,05,C,PQM transport Nf=2,,,,
+1705.03084,2017,Singha,05,C,PQM transport Nf=2,,,,
+1709.05991,2017,Tripolt,05,C,QM FRG low T,,,,
+1712.02093,2017,Wambach,05,C,FRG spectral functions,,,,
+1703.01035,2017,Wang,05,C,FRG spectral isospin,,,,
+1707.05520,2017,Yokota,05,C,FRG tachyonic sigma,,,,
+1709.05654,2017,Zhang,05,C,FRG QM with omega,,,,
+1805.08599,2018,Adhikari,05,C,PQM pion condensation Nf=2,,,,
+1810.10573,2018,Folkestad,05,C,PQM vs chiral matrix model Nf=2,,,,
+1801.09202,2018,Li,05,C,PQM nucleon soliton Nf=2,,,,
+1808.08535,2018,Wang,05,C,FRG fermion spectral,,,,
+1910.05477,2019,Li,05,B,effective U_A(1) restoration (3 flavours),,,3,
+1904.10949,2019,Magdy,05,A?,2+1 PQM finite volume (Tawfik-type params),"Table I QM params, conserved-charge fluctuations",Tawfik-PLSM,3,infinite-volume limit comparable
+1902.02337,2019,Magnen,05,C,BCS superconductivity math,,,,
+1907.08179,2019,Rennecke,05,B,2+1 QM strangeness neutrality,,FRG,3,
+2003.12829,2020,CamaraPereira,05,C,FRG QM vector Nf=2,,,,
+2003.04734,2020,Motta,05,A?,PNJL / PQM isentropes (2+1),"Table 3 decay constants & meson masses",SW-PQM,3,check which model rows are PQM
+2007.07394,2020,Otto,05,B,FRG QM with vector mesons 2 and 3 flavours,"Nf=3: m_sigma=560, g=6.5",FRG,3,
+2003.11871,2020,Tripolt,05,C,FRG fermionic excitations,,,,
+2012.05734,2020,Wan,05,C,QM finite size Nf=2,,,,
+2102.13165,2021,Andersen,05,C,review magnetic catalysis,,,,
+2112.11103,2021,Ghosh,05,B,3-flavour PQM shear viscosity,,SW-PQM,3,
+2103.15665,2021,Krein,05,C,nonequilibrium condensate magnetic,,,,
+2106.15700,2021,Torres-Rincon,05,C,chiral companions degeneracy at T (review),,,,
+2210.08889,2022,Bonetti,05,C,condensed matter thesis,,,,
+2210.09794,2022,Cao,05,C,primordial magnetic field pion superfluidity,,,,
+2211.06729,2022,Ghosh,05,C,LSM charge transport magnetic,,,,
+2301.13633,2023,Ayala,05,C,LSMq isospin Nf=2,,,,
+2310.04142,2023,Chahal,05,B,2+1 PQM strangeness + finite volume + vector,,SW-PQM,3,
+2306.08362,2023,Chen,05,C,QM rotation FRG,,,,
+2312.00665,2023,Murgana,05,C,FRG thermodynamic geometry,,,,
+2309.16755,2023,Pasechnik,05,C,composite dark sectors LSM+Polyakov,,,,
+2306.12382,2023,Rai,05,A,2+1 PQM with on-shell renormalized vacuum term vs standard PQM,"Table II meson masses, Table III parameters of scenarios, PolyLog potential, T0=270",SW-PQM,2,"standard (no vacuum term) PQM rows runnable; RQM = feature"
+2305.16180,2023,Rai,05,C,PQM on-shell Nf=2,,,,
+2311.13175,2023,Wang,05,C,PQM bubble dynamics Nf=2,,,,
+2410.17874,2024,Hernandez,05,C,LSMq vorticity,,,,
+2402.15474,2024,Osman,05,C,FRG QM with omega rho Nf=2,,,,
+2410.06780,2024,Shao,05,C,gravitational waves QCD transitions,,,,
+2407.07828,2024,Singha,05,C,LSMq + Polyakov rotation Nf=2,,,,
+2412.16059,2024,Topfel,05,C,Callan-Symanzik flows QM,,,,
+2512.24646,2025,Cao,05,B,extended PQM dilepton emission,,,3,
+2504.18874,2025,Cao,05,B,2+1 extended PQM moat regimes,"h1, h2 params",,3,
+2508.02745,2025,Osman,05,C,FRG rho condensate isospin,,,,
+2510.06712,2025,Rennecke,05,C,QM moat regime Nf=2,,,,
+2503.21746,2025,Roth,05,C,real-time FRG QM Nf=2,,,,
+2503.17291,2025,Singha,05,C,LSMq+Polyakov rotation Nf=2,,,,
+2512.13398,2025,Tripathi,05,A?,"renormalized 2+1 QM with Polyakov loop, quark backreaction (PolyLog-glue)","Table II model params (physical point and chiral limit), m_sigma=400/500, T0=270",SW-PQM,3,"mostly vacuum-term/glue variants = feature; check for no-sea rows"
+2609.34858,2026,Patuleanu,05,C,LSMq imaginary rotation Nf=2,,,,
+2601.23005,2026,Stoll,05,C,QM FRG regulator artifacts,,,,
+2610.06162,2026,Szep,05,C,QM FRG beyond LPA Nf=2,,,,
+2603.10260,2026,Yin,05,C,QM FRG critical region,,,,
+hep-ph/9811387,1998,Berges,06,C,Quark and nuclear matter in the linear chiral meson model,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/9908360,1999,Rajagopal,06,C,Mapping the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0112106,2001,Kiriyama,06,C,Chiral meson masses at the critical point from QCD in the improved ladder approximation,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-th/0106154,2001,Scadron,06,C,Chiral phase transitions,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0301275,2003,Bilic,06,C,Superluminal pions in a hadronic fluid,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0301209,2003,de Forcrand,06,C,QCD phase diagram at small densities from simulations with imaginary $\mu$,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0311025,2003,Gusynin,06,C,Spontaneous rotational symmetry breaking and roton - like excitations in gauged $\sigma$-m,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-th/0303244,2003,Tetradis,06,C,The Quark meson model and the phase diagram of two flavor QCD,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+nucl-th/0403039,2004,Schaefer,06,C,The Phase diagram of the quark meson model,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0402115,2004,Stephanov,06,C,QCD Phase Diagram and the Critical Point,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0508011,2005,Brauner,06,C,Goldstone boson counting in linear sigma models with chemical potential,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0510049,2005,Newman,06,C,Response of strongly-interacting matter to magnetic field: Some exact results,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-lat/0510077,2005,Philipsen,06,C,The QCD phase diagram at zero and small baryon density,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0607102,2006,Brauner,06,C,Spontaneous symmetry breaking in the linear sigma model at finite chemical potential: One-,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-lat/0611027,2006,de Forcrand,06,C,Towards the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0606241,2006,Mao,06,C,The Linear sigma model at a finite isospin chemical potential,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/0603256,2006,Schaefer,06,C,Susceptibilities near the QCD (tri)critical point,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0710.1217,2007,Philipsen,06,C,Exploring the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0709.4216,2007,Schaefer,06,C,Critical structure of the QCD medium,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0809.2892,2008,Andersen,06,C,Bose-Einstein condensation in dense quark matter,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0810.0042,2008,Bowman,06,C,Critical Points in the Linear Sigma Model with Quarks,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0808.0672,2008,Philipsen,06,C,Status of Lattice Studies of the QCD Phase Diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0907.4660,2009,Kapusta,06,C,Critical Points in the QCD Phase Diagram with Two Flavors of Quarks,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0908.0726,2009,Kapusta,06,C,Multiple Critical Points in the QCD Phase Diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0909.5615,2009,Matsuzaki,06,C,Pionic BEC-BCS crossover at finite isospin chemical potential,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0907.4476,2009,Mohanty,06,C,QCD Phase Diagram: Phase Transition; Critical Point and Fluctuations,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0904.4830,2009,Palhares,06,C,Chiral transition in a finite system and possible use of finite size scaling in relativist,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0907.4713,2009,Sasaki,06,C,The QCD Phase Diagram from Chiral Approaches,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+0909.0601,2009,Stock,06,C,The QCD Phase Diagram: Expectations and Challenges,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1012.5855,2010,Marko,06,C,QM + Polyakov SU(2) (Hungarian group),,,,SU(2)
+1111.5370,2011,Philipsen,06,C,Status of the QCD Phase Diagram from Lattice Calculations,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1111.5911,2011,Powell,06,C,3-flavour PNJL with anomaly,,,,NJL
+1204.3788,2012,Bratovic,06,C,PNJL vector interaction,,,,NJL
+1212.4017,2012,Hell,06,C,Impact of vector-current interactions on the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1308.2180,2013,Berges,06,C,Amplified Fermion Production from Overpopulated Bose Fields,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1302.5740,2013,Ding,06,C,Exploring QCD phase diagram at vanishing baryon density on the lattice,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1304.8065,2013,Gutierrez,06,C,The QCD phase diagram from Schwinger–Dyson equations,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1308.3328,2013,Mohanty,06,C,Exploring the QCD phase diagram through high energy nuclear collisions: An overview,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1310.4434,2013,Planells,06,C,An effective theory for QCD with an axial chemical potential,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1308.0164,2013,Tripolt,06,C,Effect of fluctuations on the QCD critical point in a finite volume,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1403.3287,2014,Abu-Shady,06,C,Linear Sigma Model at Finite Temperature and Baryonic Chemical Potential Using the $N$-Mid,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1411.4953,2014,Ayala,06,C,The effective QCD phase diagram and the critical end point,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1406.4397,2014,de Forcrand,06,C,Lattice QCD Phase Diagram In and Away from the Strong Coupling Limit,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1510.08548,2015,Ayala,06,C,Chiral Symmetry transition in the Linear Sigma Model with quarks: Counting effective QCD d,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1509.03345,2015,Ayala,06,C,Magnetized effective QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1509.00663,2015,Ayala,06,C,The (magnetized) effective QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1510.07640,2015,Balents,06,C,Quantum Lifshitz Field Theory of a Frustrated Ferromagnet,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1504.08280,2015,Endrodi,06,C,Critical point in the QCD phase diagram for extremely strong background magnetic fields,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1512.05482,2015,Kloiber,06,C,Finite density $\mathbf{O(3)}$ non-linear sigma model and low energy physics,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1502.02857,2015,Wunderlich,06,C,Photon emission rates near the critical point in the linear sigma model,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1607.07375,2016,Bzdak,06,C,Cumulants and correlation functions versus the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1608.07903,2016,Fan,06,C,NJL susceptibilities,,,,NJL
+1611.03653,2016,Juričić,06,C,Chiral Thermodynamics in a finite box,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1605.09341,2016,Mukherjee,06,C,Universal off-equilibrium scaling of critical cumulants in the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1604.00179,2016,Wunderlich,06,C,Arguing on entropic and enthalpic first-order phase transitions in strongly interacting ma,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1702.01324,2017,Adhikari,06,C,Inhomogeneous chiral condensate in the quark-meson model,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1710.09007,2017,Ayala,06,C,QCD phase diagram from chiral symmetry restoration: analytic approach at high and low temp,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1712.02461,2017,Ayala,06,C,Using the Linear Sigma Model with quarks to describe the QCD phase diagram and to locate t,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1712.03748,2017,Bleicher,06,C,The QCD Phase Diagram from Statistical Model Analysis,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1706.02647,2017,Knaute,06,C,Holographic Entanglement Entropy in the QCD Phase Diagram with a Critical Point,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1702.06731,2017,Knaute,06,C,Holographic QCD phase diagram with critical point from Einstein–Maxwell-dilaton dynamics,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1707.02735,2017,Shen,06,C,Chiral Phase Transition in Linear Sigma Model with Nonextensive Statistical Mechanics,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1810.00419,2018,Andersen,06,C,Pion condensation and QCD phase diagram at finite isospin density,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1807.02948,2018,Sarkar,06,C,van der Waals hadron resonance gas and QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1904.09000,2019,Andrianov,06,C,Chiral perturbation theory in the environment with chiral imbalance,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1904.11905,2019,Ayala,06,C,On the critical end point in a two-flavor linear sigma model coupled to quarks,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1909.13712,2019,Jung,06,C,Fluctuating vector mesons in analytically continued functional RG flow equations,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+1908.08539,2019,Rajagopal,06,C,Understanding the out-of-equilibrium dynamics near a critical point in the QCD phase diagr,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2003.04505,2020,Ayala,06,C,Fluctuating temperature and baryon chemical potential in heavy-ion collisions and the posi,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2009.08895,2020,Brauner,06,C,Remarks on relativistic scalar models with chemical potential,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2001.02888,2020,Cao,06,C,QCD phase diagram at finite isospin chemical potential and temperature in an IR-improved s,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2005.03575,2020,Chernodub,06,C,Phase diagram of helically imbalanced QCD matter,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2003.03270,2020,Shen,06,C,Thermalization and dynamical spectral properties in the quark-meson model,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2012.12577,2020,Wan,06,C,Chiral phase transitions of helical matter,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2009.13070,2020,Wu,06,C,QCD phase diagram at finite isospin and baryon chemical potentials with the self-consisten,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2007.13580,2020,Zhang,06,A,2+1 quark-meson model (no Polyakov) with momentum anisotropy xi,Table I SW params; Table II T_chi for sigma_x and sigma_y,SW-PQM,2,xi=0 limit = standard QM; needs 'no Polyakov loop' mode (feature)
+2108.02362,2021,Ayala,06,C,Collision energy dependence of the critical end point from baryon number fluctuations in t,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2104.05854,2021,Ayala,06,C,LSMq / NJL magnetized review,,,,
+2108.02647,2021,Di Pietro,06,C,Resurgence and 1/N Expansion in Integrable Field Theories,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2103.02090,2021,McLaughlin,06,C,Building a testable shear viscosity across the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2208.08590,2022,Ayala,06,C,Plasma screening and the critical end point in the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2208.06747,2022,Castaño-Yepes,06,C,Volume effects on the QCD critical end point from thermal fluctuations within the super st,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2207.04086,2022,Dore,06,C,Critical lensing and kurtosis near a critical point in the QCD phase diagram in and out of,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2206.04292,2022,López-Contreras,06,C,The 3d O(4) model as an effective approach to the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2310.13130,2023,Ayala,06,C,Describing the speed of sound peak of isospin-asymmetric cold strongly interacting matter ,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2309.03153,2023,Canfora,06,C,Magnetized Baryonic layer and a novel BPS bound in the gauged-non-linear-sigma-model-Maxwe,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2309.13529,2023,Wang,06,C,Bubble nucleation in the two-flavor quark-meson model*,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2409.19406,2024,Ayala,06,C,On the origin of the peak of the sound velocity for isospin imbalanced strongly interactin,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2409.12088,2024,Bluhm,06,C,Quark saturation in the QCD phase diagram,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2402.06105,2024,Hernández-Ortiz,06,C,Constraining the position of the CEP through the speed of sound in the LSMq,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2402.00430,2024,Kawaguchi,06,C,Sound velocity peak induced by the chiral partner in dense two-color QCD,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2501.00548,2024,Kovács,06,C,Finite size effects on the phase diagram and the baryon fluctuations via momentum space co,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2412.13043,2024,Sattler,06,C,DiFfRG: A discretisation framework for functional renormalisation group flows,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2502.04025,2025,Brandt,06,C,Renormalization group invariant mean-field model for QCD at finite isospin density,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2505.18007,2025,Cacciatori,06,C,Thermodynamics of magnetized BPS baryonic layers and the effects of the isospin chemical p,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2507.06518,2025,Ferreira,06,C,Chiral symmetry breaking and pion condensation in the early Universe,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2512.04288,2025,Koch,06,C,Exploring the QCD phase diagram through correlations and fluctuations,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2511.17795,2025,López-Contreras,06,C,Phase diagram of chiral 2-flavor QCD based on an effective approach,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2505.04569,2025,Murgana,06,C,Assessing the reconstruction of the critical line in the QCD phase diagram from imaginary ,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2504.00629,2025,Schmidt,06,C,Selected topics on the QCD phase diagram at finite temperature and density,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2508.20237,2025,Singha,06,C,Chiral restoration temperature at finite spin density in QCD,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2603.23760,2026,Ayala,06,C,Meson mixing effects on the speed of sound in isospin-imbalanced matter,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2606.12622,2026,Basar,06,C,Analytic structure of the QCD phase diagram in the complex-temperature plane,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2606.06277,2026,Liu,06,C,A note on the 2D NLSM free energy,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2604.06054,2026,McLerran,06,C,Quarkyonic Meson Matter for Finite Isospin Density,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2605.03118,2026,Morales-Tejera,06,C,Chiral symmetry breaking and inhomogeneous phases in thermal anti-de Sitter spacetime,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+2609.32563,2026,Rennecke,06,C,Dissecting the moat regime at low energies II: Correlations,,,,"phase diagram / CEP: Nf=2, NJL, lattice or review (title+abstract screen)"
+hep-ph/9611366,1996,Satz,07,C,Color deconfinement in hot and dense matter,,,,quarkonium/heavy flavour/sum rules or other
+hep-lat/9707012,1997,Fingberg,07,C,Heavy quarkonia at high temperature,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/0007069,2000,Satz,07,C,Color deconfinement in nuclear collisions,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/0105332,2001,Borsanyi,07,C,Ising - like dynamical signatures and the endpoint of the QCD transition line,,,,quarkonium/heavy flavour/sum rules or other
+hep-lat/0209139,2002,Nomura,07,C,Temporal meson correlators at finite temperature on quenched anisotropic lattice,,,,quarkonium/heavy flavour/sum rules or other
+hep-lat/0211003,2002,Umeda,07,C,Charmonium at finite temperature in quenched lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+hep-lat/0212007,2002,Umeda,07,C,Charmonium near the deconfining transition on the lattice,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/0410295,2004,Arleo,07,C,Heavy-quarkonium interaction in QCD at finite temperature,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/0402073,2004,Li,07,C,Chiral quark model calculation of the momentum dependence of hadronic current correlation ,,,,quarkonium/heavy flavour/sum rules or other
+hep-lat/0401010,2004,Matsufuru,07,C,Charmonium correlators at finite temperature in quenched lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/0512239,2005,Karsch,07,C,Sequential charmonium dissociation,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/0609205,2006,Mocsy,07,C,Ground state quarkonium spectral functions above deconfinement,,,,quarkonium/heavy flavour/sum rules or other
+hep-lat/0610030,2006,Umeda,07,C,Quarkonium at finite temperature,,,,quarkonium/heavy flavour/sum rules or other
+0710.0204,2007,Umeda,07,C,Study of constant mode in charmonium correlators at finite temperature,,,,quarkonium/heavy flavour/sum rules or other
+0910.0276,2008,Basak,07,L,lattice QCD thermodynamics,EoS non-zero mu,lattice-ref,,reference data for later (user: not now)
+0804.4225,2008,Bicudo,07,C,The Charmonium (Bottomonium) binding ate finite T,,,,quarkonium/heavy flavour/sum rules or other
+0810.2906,2008,Mukherjee,07,C,Screening of light mesons and charmonia at high temperature,,,,quarkonium/heavy flavour/sum rules or other
+0806.3341,2008,Rapp,07,C,Heavy Flavor in the sQGP,,,,quarkonium/heavy flavour/sum rules or other
+0810.1567,2008,Umeda,07,C,Charmonium dissociation temperatures in lattice QCD with a finite volume technique,,,,quarkonium/heavy flavour/sum rules or other
+0903.4155,2009,Aoki,07,L,lattice QCD thermodynamics,"T_c (chiral, Polyakov, strange susceptibility) physical masses, continuum",lattice-ref,,reference data for later (user: not now)
+0903.4379,2009,Bazavov,07,L,lattice QCD thermodynamics,EoS + chiral condensate & Polyakov loop vs T (HotQCD),lattice-ref,,reference data for later (user: not now)
+0906.2676,2009,Bicudo,07,C,Bottomonium melting at temperature well above Tc,,,,quarkonium/heavy flavour/sum rules or other
+0908.2856,2009,Morita,07,C,Heavy quarkonium correlators at finite temperature: QCD sum rule approach,,,,quarkonium/heavy flavour/sum rules or other
+1009.4914,2010,Bazavov,07,L,lattice QCD thermodynamics,chiral/deconfinement HISQ,lattice-ref,,reference data for later (user: not now)
+1011.4230,2010,Borsányi,07,L,lattice QCD thermodynamics,T_c full staggered (WB),lattice-ref,,reference data for later (user: not now)
+1007.2580,2010,Borsanyi,07,L,lattice QCD thermodynamics,EoS dynamical quarks (WB),lattice-ref,,reference data for later (user: not now)
+1009.1169,2010,Dominguez,07,C,QCD sum rules and thermal properties of Charmonium in the vector channel,,,,quarkonium/heavy flavour/sum rules or other
+1012.3110,2010,Morita,07,C,Charmonium mass in hot and dense hadronic matter,,,,quarkonium/heavy flavour/sum rules or other
+1011.1728,2010,Ohno,07,C,An application of the variational analysis to calculate the meson spectral functions,,,,quarkonium/heavy flavour/sum rules or other
+1002.1884,2010,Song,07,C,$R_{AA}$ of $J/\psi$ near mid-rapidity in heavy ion collisions at $\sqrt{s_{NN}}=200$ GeV,,,,quarkonium/heavy flavour/sum rules or other
+1201.5345,2011,Bazavov,07,L,lattice QCD thermodynamics,T_c=154 HISQ chiral transition (HotQCD),lattice-ref,,reference data for later (user: not now)
+1107.5027,2011,Bazavov,07,L,lattice QCD thermodynamics,chiral & deconfinement improved staggered,lattice-ref,,reference data for later (user: not now)
+1111.1710,2011,Bazavov,07,L,lattice QCD thermodynamics,"KEY: subtracted condensate Delta_ls(T), Polyakov loop, T_c (HotQCD) - direct analogue of solver outputs",lattice-ref,,reference data for later (user: not now)
+1204.0995,2011,Borsanyi,07,L,lattice QCD thermodynamics,EoS + charm,lattice-ref,,reference data for later (user: not now)
+1109.5032,2011,Borsanyi,07,L,lattice QCD thermodynamics,T_c & EoS (WB),lattice-ref,,reference data for later (user: not now)
+1111.5946,2011,Das,07,C,Quarkonia production at forward rapidity in Pb+Pb collisions at $\bf \sqrt{s_{\rm NN}}=2.7,,,,quarkonium/heavy flavour/sum rules or other
+1205.3535,2012,Bazavov,07,L,lattice QCD thermodynamics,chiral transition & U(1)_A with DWF,lattice-ref,,reference data for later (user: not now)
+1210.6312,2012,Bazavov,07,L,lattice QCD thermodynamics,EoS HISQ,lattice-ref,,reference data for later (user: not now)
+1204.6710,2012,Borsanyi,07,L,lattice QCD thermodynamics,EoS at mu^2,lattice-ref,,reference data for later (user: not now)
+1210.6901,2012,Borsanyi,07,L,lattice QCD thermodynamics,thermodynamics of transition (WB),lattice-ref,,reference data for later (user: not now)
+1210.0292,2012,Ding,07,C,Charmonium dissociation and heavy quark transport in hot quenched lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+1212.1594,2012,Gubler,07,C,Modification of hadronic spectral functions under extreme conditions: An approach based on,,,,quarkonium/heavy flavour/sum rules or other
+1312.5011,2013,Bazavov,07,L,lattice QCD thermodynamics,2+1+1 EoS,lattice-ref,,reference data for later (user: not now)
+1305.6297,2013,Bellwied,07,L,lattice QCD thermodynamics,flavour hierarchy of deconfinement (light vs strange),lattice-ref,,reference data for later (user: not now)
+1309.5258,2013,Borsanyi,07,L,lattice QCD thermodynamics,full EoS 2+1 (WB),lattice-ref,,reference data for later (user: not now)
+1312.0119,2013,Ding,07,L,lattice QCD thermodynamics,Nf=2+1 chiral phase transition HISQ,lattice-ref,,reference data for later (user: not now)
+1307.5766,2013,Dominguez,07,C,Bottonium in QCD at finite temperature,,,,quarkonium/heavy flavour/sum rules or other
+1303.5331,2013,Evans,07,C,Ab initio calculation of finite-temperature charmonium potentials,,,,quarkonium/heavy flavour/sum rules or other
+1407.6387,2014,Bazavov,07,L,lattice QCD thermodynamics,EoS 2+1 (HotQCD),lattice-ref,,reference data for later (user: not now)
+1401.5940,2014,Borsanyi,07,C,Charmonium spectral functions from 2+1 flavour lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+1410.7917,2014,Borsányi,07,L,lattice QCD thermodynamics,EoS review (WB),lattice-ref,,reference data for later (user: not now)
+1410.7443,2014,Borsányi,07,C,Spectral functions of charmonium with 2+1 flavours of dynamical quarks,,,,quarkonium/heavy flavour/sum rules or other
+1408.2332,2014,Sharma,07,C,The thermodynamics of heavy light hadrons at freezeout,,,,quarkonium/heavy flavour/sum rules or other
+1509.07366,2015,Burnier,07,C,Quarkonium at finite temperature: Towards realistic phenomenology from first principles,,,,quarkonium/heavy flavour/sum rules or other
+1512.05289,2015,Kim,07,C,In-medium quarkonium properties from a lattice QCD based effective field theory,,,,quarkonium/heavy flavour/sum rules or other
+1608.04284,2016,Ayala,07,C,Finite Temperature QCD Sum Rules: a Review,,,,quarkonium/heavy flavour/sum rules or other
+1606.06211,2016,Burnier,07,C,In-medium P-wave quarkonium from the complex lattice QCD potential,,,,quarkonium/heavy flavour/sum rules or other
+1710.05024,2017,Bazavov,07,L,lattice QCD thermodynamics,EoS high T,lattice-ref,,reference data for later (user: not now)
+1701.04325,2017,Bazavov,07,L,lattice QCD thermodynamics,EoS to mu^6,lattice-ref,,reference data for later (user: not now)
+1710.08858,2017,Ding,07,C,Continuum extrapolation of quarkonium correlators at non-zero temperature,,,,quarkonium/heavy flavour/sum rules or other
+1607.02493,2017,Guenther,07,L,lattice QCD thermodynamics,EoS analytic continuation,lattice-ref,,reference data for later (user: not now)
+1812.08235,2018,Bazavov,07,L,lattice QCD thermodynamics,"chiral crossover T_c=156.5, curvature",lattice-ref,,reference data for later (user: not now)
+1802.01119,2018,Cheng,07,C,Calculation of dissociation temperature of nucleon using Gaussian expansion method,,,,quarkonium/heavy flavour/sum rules or other
+1802.00667,2018,Kelly,07,C,Bayesian study of relativistic open and hidden charm in anisotropic lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+1808.08781,2018,Kim,07,C,Quarkonium in-medium properties from realistic lattice NRQCD,,,,quarkonium/heavy flavour/sum rules or other
+1811.12902,2018,Weber,07,L,lattice QCD thermodynamics,EoS high T,lattice-ref,,reference data for later (user: not now)
+1903.11006,2019,Quinn,07,C,Spectral properties of light and charm mesons from $N_f=2+1$ anisotropic lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+2002.02821,2020,Borsanyi,07,L,lattice QCD thermodynamics,crossover at finite mu (WB),lattice-ref,,reference data for later (user: not now)
+2102.06660,2021,Borsányi,07,L,lattice QCD thermodynamics,EoS alternative expansion,lattice-ref,,reference data for later (user: not now)
+2108.09213,2021,Borsanyi,07,L,lattice QCD thermodynamics,chiral transition real baryon density,lattice-ref,,reference data for later (user: not now)
+2403.16709,2021,Guenther,07,L,lattice QCD thermodynamics,"crossover line (T,mu)",lattice-ref,,reference data for later (user: not now)
+2112.00083,2021,Parotto,07,L,lattice QCD thermodynamics,EoS finite mu,lattice-ref,,reference data for later (user: not now)
+2110.03606,2021,Weber,07,L,lattice QCD thermodynamics,2+1+1 EoS,lattice-ref,,reference data for later (user: not now)
+2202.05574,2022,Borsanyi,07,L,lattice QCD thermodynamics,EoS strangeness neutrality,lattice-ref,,reference data for later (user: not now)
+2206.15194,2022,Kaczmarek,07,L,lattice QCD thermodynamics,flavoured thermodynamics,lattice-ref,,reference data for later (user: not now)
+2212.10155,2022,Ruben Kara,07,C,Parallel tempering algorithm applied to the deconfinement transition of quenched QCD,,,,quarkonium/heavy flavour/sum rules or other
+2312.15118,2023,Borsanyi,07,L,lattice QCD thermodynamics,EoS magnetic fields,lattice-ref,,reference data for later (user: not now)
+2309.11114,2023,Huang,07,C,Reconstructing lattice QCD spectral functions with stochastic pole expansion and Nevanlinn,,,,quarkonium/heavy flavour/sum rules or other
+2305.10750,2023,Song,07,C,Bottomonium production in <math><mrow><mi>p</mi><mi>p</mi></mrow></math> and heavy-ion col,,,,quarkonium/heavy flavour/sum rules or other
+2311.15233,2023,Takahashi,07,C,Sparse modeling approach to extract spectral functions with covariance of Euclidean-time c,,,,quarkonium/heavy flavour/sum rules or other
+2407.10566,2024,Bai,07,C,Probing QGP droplets with charmonium in high-multiplicity proton–proton collisions,,,,quarkonium/heavy flavour/sum rules or other
+2410.06216,2024,Borsanyi,07,L,lattice QCD thermodynamics,deconfinement line,lattice-ref,,reference data for later (user: not now)
+2405.12320,2024,Pirelli,07,L,lattice QCD thermodynamics,chiral vs deconfinement volume dependence,lattice-ref,,reference data for later (user: not now)
+2504.01881,2025,Abuali,07,L,lattice QCD thermodynamics,4D EoS,lattice-ref,,reference data for later (user: not now)
+2505.11313,2025,Ali,07,C,Thermal static potential and pseudoscalar quarkonium spectral functions from (<math displa,,,,quarkonium/heavy flavour/sum rules or other
+2502.10267,2025,Borsanyi,07,L,lattice QCD thermodynamics,CEP constraints from EoS,lattice-ref,,reference data for later (user: not now)
+2509.10386,2025,Takahashi,07,C,Sparse modeling study of extracting charmonium spectral functions from lattice QCD at fini,,,,quarkonium/heavy flavour/sum rules or other
+2609.05108,2026,Borsányi,07,L,lattice QCD thermodynamics,EoS dense magnetized,lattice-ref,,reference data for later (user: not now)
+2605.20034,2026,Larsen,07,C,Charmonium properties at high temperatures from lattice QCD,,,,quarkonium/heavy flavour/sum rules or other
+hep-ph/9406394,1994,Jain,08,C,Evidence for gluon energy loss as the mechanism for heavy quarkonium suppression in pA col,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9410264,1994,Pirner,08,A?,SU(3) LSM hot hadronic matter (1994),"Table 1 tree-level SU(3)xSU(3) LSM params, T dependence",LSM-vacuum,3,old SU(3) LSM at T; check params if needed
+hep-ph/9505345,1995,Kharzeev,08,C,Color deconfinement and quarkonium dissociation,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9504338,1995,Kharzeev,08,C,Nonperturbative quarkonium dissociation in hadronic matter,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9511331,1995,Xu,08,C,J / psi suppression in an equilibrating parton plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9607239,1996,Armesto,08,C,Percolation approach to quark - gluon plasma and J / psi suppression,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9606289,1996,Blaizot,08,C,J / psi suppression in Pb Pb collisions: A Hint of quark - gluon plasma production?,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/9609025,1996,Cassing,08,C,J / psi suppression in nuclear collisions at SPS energies,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9605373,1996,Rosner,08,C,Universal spacing for heavy quarkonium dissociation,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9705275,1997,Armesto,08,C,A Quantitative reanalysis of J / psi suppression in nuclear collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9805247,1998,Nardi,08,C,String clustering and J / psi suppression in nuclear collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0007020,2000,Blaizot,08,C,Transverse energy fluctuations and the pattern of J / psi suppression in Pb - Pb collision,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0007059,2000,Braun-Munzinger,08,C,(Non)thermal aspects of charmonium production and a new look at J / psi suppression,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0002300,2000,Capella,08,C,Nonsaturation of the J / psi suppression at large transverse energy in the comovers approa,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0009008,2000,Gerland,08,C,Suppression of quarkonium production in heavy ion collisions at RHIC and LHC,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0007003,2000,Zhang,08,C,J / psi suppression in ultrarelativistic nuclear collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0101015,2001,Brown,08,C,The fate of hadron masses in dense matter: Hidden local symmetry and color flavor locking,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0106017,2001,Digal,08,C,Quarkonium feed down and sequential suppression,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0110406,2001,Digal,08,C,Sequential quarkonium suppression,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0105234,2001,Digal,08,C,String breaking and quarkonium dissociation at finite temperatures,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0106244,2001,Goncalves,08,C,Quarkonium suppression as a probe of a saturated gluon plasma?,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0110004,2001,Wong,08,C,Dissociation of a heavy quarkonium at high temperatures,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0112023,2001,Wong,08,C,Dissociation of a heavy quarkonium at T less than T(c),,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0106067,2001,Wong,08,C,Heavy quarkonium dissociation cross-sections in relativistic heavy ion collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0204177,2002,Benzahra,08,C,Dissociation of a boosted quarkonium in a quark gluon plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0206075,2002,Mocsy,08,C,Dissipation at two loop level: Undressing the chiral condensate,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0201096,2002,Petreczky,08,C,Quarkonium suppression,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0505032,2005,Capella,08,C,J/ psi suppression at s**(1/2) = 200-GeV in the comovers interaction model,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-lat/0502014,2005,Karsch,08,C,Deconfinement and quarkonium suppression,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-ex/0610003,2006,Granier de Cassagnac,08,C,Quarkonium suppression from SPS to RHIC (and from p+A to A+A),,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/0609197,2006,Satz,08,C,Quarkonium Binding and Dissociation: The Spectral Analysis of the QGP,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0608010,2006,Yan,08,C,Competition between J / psi suppression and regeneration in quark-gluon plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+nucl-th/0701093,2007,Braun-Munzinger,08,C,Quarkonium production in ultra-relativistic nuclear collisions: Suppression versus enhance,,,,quarkonium / heavy flavour / HIC phenomenology
+0808.2699,2008,Agotiya,08,C,Dissociation of quarkonium in hot QCD medium: Modification of the inter-quark potential,,,,quarkonium / heavy flavour / HIC phenomenology
+0805.2933,2008,Lin,08,C,Holographic QCD with Topologically Charged Domain-Wall/Membranes,,,,quarkonium / heavy flavour / HIC phenomenology
+0910.0586,2009,Agotiya,08,C,Dissociation of 1p quarkonium states in a hot QCD medium,,,,quarkonium / heavy flavour / HIC phenomenology
+0903.3467,2009,Burnier,08,C,Quarkonium dissociation in the presence of a small momentum space anisotropy,,,,quarkonium / heavy flavour / HIC phenomenology
+0911.1534,2009,Jankowski,08,C,Quarkonium dissociation in a PNJL quark plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+0903.1263,2009,Jankowski,08,C,Quarkonium dissociation in a thermal medium,,,,quarkonium / heavy flavour / HIC phenomenology
+1001.5284,2010,Petreczky,08,C,Quarkonium in Hot Medium,,,,quarkonium / heavy flavour / HIC phenomenology
+1109.5826,2011,Brambilla,08,C,Thermal width and gluo-dissociation of quarkonium in pNRQCD,,,,quarkonium / heavy flavour / HIC phenomenology
+1103.1329,2011,Marasinghe,08,C,Quarkonium dissociation in quark-gluon plasma via ionization in magnetic field,,,,quarkonium / heavy flavour / HIC phenomenology
+1212.0434,2012,Arleo,08,C,Heavy-quarkonium suppression in p-A collisions from parton energy loss in cold QCD matter,,,,quarkonium / heavy flavour / HIC phenomenology
+1204.4609,2012,Arleo,08,C,J/$\psi$ suppression in p-A collisions from parton energy loss in cold QCD matter,,,,quarkonium / heavy flavour / HIC phenomenology
+1208.2672,2012,Chernicoff,08,C,Quarkonium dissociation by anisotropy,,,,quarkonium / heavy flavour / HIC phenomenology
+1202.3260,2012,Kitano,08,C,Making confining strings out of mesons,,,,quarkonium / heavy flavour / HIC phenomenology
+1210.7449,2012,Liu,08,C,Velocity dependence of charmonium dissociation temperature in high-energy nuclear collisio,,,,quarkonium / heavy flavour / HIC phenomenology
+1203.0329,2012,Sharma,08,C,High transverse momentum quarkonium production and dissociation in heavy ion collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+1212.2803,2012,Thakur,08,C,Dissociation of quarkonium in an anisotropic hot QCD medium,,,,quarkonium / heavy flavour / HIC phenomenology
+1211.7286,2012,Tolos,08,C,Strangeness and Charm in Nuclear Matter,,,,quarkonium / heavy flavour / HIC phenomenology
+1304.0901,2013,Arleo,08,C,Centrality and pT dependence of J/psi suppression in proton-nucleus collisions from parton,,,,quarkonium / heavy flavour / HIC phenomenology
+1303.6097,2013,Brambilla,08,C,Thermal width and quarkonium dissociation by inelastic parton scattering,,,,quarkonium / heavy flavour / HIC phenomenology
+1310.2230,2013,Qiu,08,C,Universal Suppression of Heavy Quarkonium Production in pA Collisions at Low Transverse Mo,,,,quarkonium / heavy flavour / HIC phenomenology
+1401.0172,2013,Thakur,08,C,Dissociation of Quarkonium in a Complex Potential,,,,quarkonium / heavy flavour / HIC phenomenology
+1407.5054,2014,Arleo,08,C,Quarkonium suppression in heavy-ion collisions from coherent energy loss in cold nuclear m,,,,quarkonium / heavy flavour / HIC phenomenology
+1411.0549,2014,Ferreiro,08,C,Excited charmonium suppression in proton–nucleus collisions as a consequence of comovers,,,,quarkonium / heavy flavour / HIC phenomenology
+1409.2496,2014,Kharzeev,08,C,Deconfinement as an entropic self-destruction: a solution for the quarkonium suppression p,,,,quarkonium / heavy flavour / HIC phenomenology
+1412.7365,2014,Sasaki,08,C,Correlations between light and heavy flavors near the chiral crossover,,,,quarkonium / heavy flavour / HIC phenomenology
+1409.3420,2014,Sasaki,08,C,Fate of charmed mesons near chiral symmetry restoration in hot matter,,,,quarkonium / heavy flavour / HIC phenomenology
+1504.07428,2015,Arleo,08,C,Quarkonium suppression from coherent energy loss in fixed-target experiments using LHC bea,,,,quarkonium / heavy flavour / HIC phenomenology
+1509.08286,2015,Iatrakis,08,C,Holographic entropy and real-time dynamics of quarkonium dissociation in non-Abelian plasm,,,,quarkonium / heavy flavour / HIC phenomenology
+1503.08149,2015,Kakade,08,C,Quarkonium dissociation at finite chemical potential,,,,quarkonium / heavy flavour / HIC phenomenology
+1504.05396,2015,Patra,08,C,Velocity-induced Heavy Quarkonium Dissociation using the gauge-gravity correspondence,,,,quarkonium / heavy flavour / HIC phenomenology
+1502.07911,2015,Sasaki,08,C,Chiral Thermodynamics with Charm,,,,quarkonium / heavy flavour / HIC phenomenology
+1501.06367,2015,Vairo,08,C,Quarkonium dissociation in a thermal bath,,,,quarkonium / heavy flavour / HIC phenomenology
+1610.03170,2016,Agotiya,08,C,Dissociation of heavy quarkonium in hot QCD medium in a quasiparticle model,,,,quarkonium / heavy flavour / HIC phenomenology
+1612.07248,2016,Brambilla,08,C,Quarkonium suppression in heavy-ion collisions: an open quantum system approach,,,,quarkonium / heavy flavour / HIC phenomenology
+1706.04809,2017,Bellantuono,08,C,Quarkonium dissociation in a far-from-equilibrium holographic setup,,,,quarkonium / heavy flavour / HIC phenomenology
+1704.05038,2017,Braga,08,C,Bottomonium dissociation in a finite density plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+1711.04515,2017,Brambilla,08,C,Heavy quarkonium suppression in a fireball,,,,quarkonium / heavy flavour / HIC phenomenology
+1705.10110,2017,Chen,08,C,Gluo-dissociation of heavy quarkonium in the quark-gluon plasma reexamined,,,,quarkonium / heavy flavour / HIC phenomenology
+1707.05728,2017,Cleven,08,C,Properties of open and hidden charm mesons in light quark matter,,,,quarkonium / heavy flavour / HIC phenomenology
+1809.10048,2018,Abu-Shady,08,C,Dissociation of Quarkonium in Hot and Dense Media in an Anisotropic Plasma in the Nonrelat,,,,quarkonium / heavy flavour / HIC phenomenology
+1805.04082,2018,Bagchi,08,C,Dissociation of heavy quarkonium states in a rapidly varying strong magnetic field,,,,quarkonium / heavy flavour / HIC phenomenology
+1805.06346,2018,Chen,08,C,Heavy quarkonium dissociation by thermal gluons at next-to-leading order in the Quark–Gluo,,,,quarkonium / heavy flavour / HIC phenomenology
+1807.10075,2018,Dorkin,08,C,Pseudo-Scalar $\mathbf{q}\bar{\mathbf{q}}$ Bound States at Finite Temperatures,,,,quarkonium / heavy flavour / HIC phenomenology
+1812.01211,2018,Guo,08,C,Heavy quarkonium dissociation in the finite space of heavy-ion collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+1811.07607,2018,Hong,08,C,Quarkonium dissociation in perturbative QCD,,,,quarkonium / heavy flavour / HIC phenomenology
+1811.09644,2018,Yao,08,C,Quarkonium inside the quark-gluon plasma: Diffusion; dissociation; recombination; and ener,,,,quarkonium / heavy flavour / HIC phenomenology
+1905.05676,2019,Boyd,08,C,Heavy quarkonium suppression beyond the adiabatic limit,,,,quarkonium / heavy flavour / HIC phenomenology
+1905.11309,2019,Braga,08,C,Quasinormal modes for quarkonium in a plasma with magnetic fields,,,,quarkonium / heavy flavour / HIC phenomenology
+1907.05978,2019,Cheng,08,C,Finite volume effects on the quarkonium dissociation temperature in an impenetrable QGP sp,,,,quarkonium / heavy flavour / HIC phenomenology
+1910.01384,2019,Montaña,08,C,Properties of heavy mesons at finite temperature,,,,quarkonium / heavy flavour / HIC phenomenology
+2002.02470,2020,Ávila,08,C,Melting holographic mesons by cooling a magnetized quark gluon plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+2006.10359,2020,Hatwar,08,C,Bottomonium suppression in PbPb collisions at energies available at the CERN Large Hadron ,,,,quarkonium / heavy flavour / HIC phenomenology
+2011.02253,2020,Hong,08,C,Energy loss of heavy quarkonia in hot QCD plasmas,,,,quarkonium / heavy flavour / HIC phenomenology
+2010.05457,2020,Islam,08,C,Bottomonium suppression and elliptic flow using Heavy Quarkonium Quantum Dynamics,,,,quarkonium / heavy flavour / HIC phenomenology
+2002.04938,2020,Rothkopf,08,C,Quarkonium production and suppression: Theory,,,,quarkonium / heavy flavour / HIC phenomenology
+2106.15371,2021,Blaizot,08,C,Phenomenological study of quarkonium suppression and the impact of the energy gap between ,,,,quarkonium / heavy flavour / HIC phenomenology
+2110.12295,2021,Escobedo,08,C,Simple model to include initial-state and hot-medium effects in the computation of quarkon,,,,quarkonium / heavy flavour / HIC phenomenology
+2105.12346,2021,Kumar Agotiya,08,C,Quarkonium dissociation properties of hot QCD medium at momentum-anisotropy in the N-dimen,,,,quarkonium / heavy flavour / HIC phenomenology
+2101.07302,2021,Le Roux,08,C,Understanding the $K^*/K$ ratio in heavy ion collisions,,,,quarkonium / heavy flavour / HIC phenomenology
+2109.08204,2021,Torres-Rincon,08,C,Finite-temperature effects on D-meson properties,,,,quarkonium / heavy flavour / HIC phenomenology
+2201.07702,2022,Yao,08,C,Quarkonium suppression in the open quantum system approach,,,,quarkonium / heavy flavour / HIC phenomenology
+2310.18909,2023,Singh,08,C,Impact of medium anisotropy on quarkonium dissociation and regeneration,,,,quarkonium / heavy flavour / HIC phenomenology
+2411.18937,2024,Sharma,08,C,Heavy quarkonium dissociation in the presence of magnetic field and anisotropy using disso,,,,quarkonium / heavy flavour / HIC phenomenology
+2401.05893,2024,Zhu,08,C,R $^{2}$ corrections to holographic heavy quarkonium dissociation*,,,,quarkonium / heavy flavour / HIC phenomenology
+2501.16596,2025,Chen,08,C,Polarized dissociation and spin alignment of moving quarkonia in a quark-gluon plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+2512.18728,2025,Sahoo,08,C,Dissociation-driven quarkonium spin alignment in Pb–Pb collisions at \(\sqrt{s_{NN}} = 5.0,,,,quarkonium / heavy flavour / HIC phenomenology
+2503.10089,2025,Wu,08,C,Non-perturbative quarkonium dissociation rates in strongly coupled quark-gluon plasma,,,,quarkonium / heavy flavour / HIC phenomenology
+2610.20348,2026,Jiang,08,C,Thermal properties of the $ρ$ meson from a machine-learning-improved holographic QCD model,,,,quarkonium / heavy flavour / HIC phenomenology
+2603.24623,2026,Yang,08,C,Causal-horizon scaling of quarkonium suppression in strong QCD fields,,,,quarkonium / heavy flavour / HIC phenomenology
+hep-ph/9511365,1995,Bedaque,09,C,Chiral perturbation theory analysis of baryon temperature mass shifts,,,,ChPT: not the solver's model
+nucl-th/9807010,1997,Van den Bossche,09,C,The Three flavor A scaled Nambu-Jona-Lasinio model,,,,NJL-type: not the solver's model
+hep-th/9909052,1999,Babaev,09,C,Nonlinear sigma model approach for phase disorder transitions and the pseudogap phase in c,,,,NJL-type: not the solver's model
+hep-ph/9911449,1999,Holstein,09,C,A Brief introduction to chiral perturbation theory,,,,ChPT: not the solver's model
+hep-ph/0101264,2000,Colangelo,09,C,An Introduction to ChPT,,,,other model: not the solver's model
+nucl-th/0005064,2000,Roberts,09,C,Dyson-Schwinger equations: Density; temperature and continuum strong QCD,,,,DSE: not the solver's model
+hep-ph/0111275,2001,Fueki,09,C,N point vertex functions; Ward-Takahashi identities and Dyson-Schwinger equations in therm,,,,DSE: not the solver's model
+nucl-th/0101062,2001,Fukushima,09,C,Topological susceptibility at zero and finite temperature in the Nambu-Jona-Lasinio model,,,,NJL-type: not the solver's model
+hep-ph/0101289,2001,Gastineau,09,C,Thermodynamics of the three flavor NJL model: Chiral symmetry breaking and color supercond,,,,NJL-type: not the solver's model
+hep-ph/0112290,2001,Nakkagawa,09,C,Chiral phase transitions in QCD at finite temperature: Hard thermal loop resummed Dyson-Sc,,,,DSE: not the solver's model
+hep-ph/0203134,2002,Gomez Nicola,09,C,Finite temperature pion scattering to one loop in chiral perturbation theory,,,,ChPT: not the solver's model
+hep-ph/0212121,2002,Gomez Nicola,09,C,Thermal meson properties within chiral perturbation theory,,,,ChPT: not the solver's model
+hep-ph/0210398,2002,Scherer,09,C,Introduction to chiral perturbation theory,,,,ChPT: not the solver's model
+hep-ph/0304061,2003,Ananthanarayan,09,C,Review of chiral perturbation theory,,,,ChPT: not the solver's model
+hep-ph/0306208,2003,Karsch,09,C,Thermodynamics at nonzero baryon number density: A Comparison of lattice and hadron resona,,,,HRG: not the solver's model
+hep-ph/0410250,2004,Barducci,09,C,Pion and kaon condensation in a 3-flavor NJL model,,,,NJL-type: not the solver's model
+hep-lat/0401002,2004,Chandrasekharan,09,C,Connecting lattice QCD with chiral perturbation theory at strong coupling,,,,ChPT: not the solver's model
+hep-ph/0407197,2004,Leupold,09,C,There is no local chiral perturbation theory at finite temperature,,,,ChPT: not the solver's model
+hep-ph/0407246,2004,Moussallam,09,C,Chiral perturbation theory: A Basic introduction,,,,ChPT: not the solver's model
+hep-ph/0412336,2004,Tawfik,09,C,QCD phase diagram: A Comparison of lattice and hadron resonance gas model calculations,,,,HRG: not the solver's model
+hep-ph/0410329,2004,Tawfik,09,C,The Influence of strange quarks on QCD phase diagram and chemical freeze-out: Results from,,,,HRG: not the solver's model
+hep-ph/0409310,2004,Toublan,09,C,The QCD phase diagram at nonzero baryon; isospin and strangeness chemical potentials: Resu,,,,HRG: not the solver's model
+nucl-th/0509089,2005,Timoteo,09,C,A q-deformed NJL model at finite temperature: Chiral symmetry restoration and pion propert,,,,NJL-type: not the solver's model
+hep-ph/0508263,2005,Volkov,09,C,The Nambu-Jona-Lasinio model and its development,,,,NJL-type: not the solver's model
+hep-ph/0504177,2005,Warringa,09,C,Color superconductivity vs. pseudoscalar condensation in a three-flavor NJL model,,,,NJL-type: not the solver's model
+hep-ph/0512226,2005,Warringa,09,C,Phase diagrams of the three-flavor NJL model with color superconductivity and pseudoscalar,,,,NJL-type: not the solver's model
+nucl-th/0606036,2006,Begun,09,C,Multiplicity Fluctuations in Hadron-Resonance Gas,,,,HRG: not the solver's model
+hep-ph/0604043,2006,Bijnens,09,C,Chiral perturbation theory beyond one loop,,,,ChPT: not the solver's model
+hep-ph/0603050,2006,Ghosh,09,C,Susceptibilities and speed of sound from PNJL model,,,,NJL-type: not the solver's model
+hep-ph/0609183,2006,Jafarov,09,C,On equations for the multi-quark bound states in Nambu-Jona-Lasinio model,,,,NJL-type: not the solver's model
+hep-ph/0609249,2006,Mukherjee,09,C,Thermodynamics of the PNJL model with nonzero baryon and isospin chemical potentials,,,,NJL-type: not the solver's model
+nucl-th/0604025,2006,Ratti,09,C,Phase diagram and thermodynamics of the PNJL model,,,,NJL-type: not the solver's model
+hep-ph/0609218,2006,Ratti,09,C,Thermodynamics of the PNJL model,,,,NJL-type: not the solver's model
+0711.0363,2006,Yuan,09,C,Dyson-Schwinger equation and quantum phase transitions in massless QCD,,,,DSE: not the solver's model
+hep-ph/0703188,2007,Blaschke,09,C,Separable Dyson-Schwinger model at zero and finite T,,,,DSE: not the solver's model
+hep-ph/0703297,2007,Borasoy,09,C,Introduction to Chiral Perturbation Theory,,,,ChPT: not the solver's model
+0711.3397,2007,Ciminale,09,C,Three flavor Nambu-Jona Lasinio model with Polyakov loop and competition with nuclear matt,,,,NJL-type: not the solver's model
+0711.0154,2007,Fu,09,C,2+1 flavor Polyakov-Nambu-Jona-Lasinio model at finite temperature and nonzero chemical po,,,,NJL-type: not the solver's model
+0710.2790,2007,Ghosh,09,C,PNJL model with a Van der Monde term,,,,NJL-type: not the solver's model
+0708.1260,2007,Horvatic,09,C,eta and eta-prime mesons in the Dyson-Schwinger approach at finite temperature,,,,DSE: not the solver's model
+hep-ph/0703274,2007,Kubis,09,C,An Introduction to chiral perturbation theory,,,,ChPT: not the solver's model
+hep-ph/0701091,2007,Ratti,09,C,Quark number susceptibilities: Lattice QCD versus PNJL model,,,,NJL-type: not the solver's model
+0712.3152,2007,Roessner,09,C,The chiral and deconfinement crossover transitions: PNJL model beyond mean field,,,,NJL-type: not the solver's model
+0801.4254,2008,Abuki,09,C,Electrical neutrality and pion modes in the two flavor PNJL model,,,,NJL-type: not the solver's model
+0807.2134,2008,Costa,09,C,Scalar-pseudoscalar meson behavior and restoration of symmetries in SU(3) PNJL model,,,,NJL-type: not the solver's model
+0801.3616,2008,Costa,09,C,The QCD critical end point in the PNJL model,,,,NJL-type: not the solver's model
+0807.1660,2008,Gomez Dumm,09,C,Color neutrality effects in the phase diagram of the PNJL model,,,,NJL-type: not the solver's model
+0810.1099,2008,Hell,09,C,Dynamics and thermodynamics of a non-local PNJL model with running coupling,,,,NJL-type: not the solver's model
+0811.2216,2008,Tsai,09,C,Phenomenology of the three-flavour PNJL model and thermal strange quark production,,,,NJL-type: not the solver's model
+0901.4821,2009,Abuki,09,C,Gauge dynamics in the PNJL model: Color neutrality and Casimir scaling,,,,NJL-type: not the solver's model
+0904.0866,2009,Abuki,09,C,Neutral quark matter in a Nambu-Jona Lasinio model with vector interaction,,,,NJL-type: not the solver's model
+0906.2523,2009,Chatterjee,09,C,Stabilizing hadron resonance gas models,,,,HRG: not the solver's model
+0909.5124,2009,Costa,09,C,How parameters and regularization affect the PNJL model phase diagram and thermodynamic qu,,,,NJL-type: not the solver's model
+0908.0007,2009,Fischer,09,C,Chiral and deconfinement transition from Dyson-Schwinger equations,,,,DSE: not the solver's model
+0904.2914,2009,Fu,09,C,Mesonic excitations and pi-pi scattering lengths at finite temperature in the two-flavor P,,,,NJL-type: not the solver's model
+0901.0783,2009,Fukushima,09,C,Isentropic thermodynamics in the PNJL model,,,,NJL-type: not the solver's model
+0911.3510,2009,Hell,09,C,Thermodynamics of a three-flavor nonlocal Polyakov-Nambu-Jona-Lasinio model,,,,NJL-type: not the solver's model
+0912.2541,2009,Huovinen,09,C,QCD Equation of State and Hadron Resonance Gas,,,,HRG: not the solver's model
+0911.2696,2009,Nishimura,09,C,A PNJL Model for Adjoint Fermions with Periodic Boundary Conditions,,,,NJL-type: not the solver's model
+0901.1430,2009,Satarov,09,C,Equation of state of hadron resonance gas and the phase diagram of strongly interacting ma,,,,HRG: not the solver's model
+0908.3425,2009,Scherer,09,C,Chiral Perturbation Theory: Introduction and Recent Results in the One-Nucleon Sector,,,,ChPT: not the solver's model
+0902.0111,2009,Yasutake,09,C,Lepton effects on the proto-neutron stars with the hadron-quark mixed phase in the Nambu-J,,,,NJL-type: not the solver's model
+1007.5198,2010,Basler,09,C,Role of two-flavor color superconductor pairing in a three-flavor Nambu--Jona-Lasinio mode,,,,NJL-type: not the solver's model
+1010.2394,2010,Bhattacharyya,09,C,Correlation between conserved charges in PNJL Model with multi-quark interactions,,,,NJL-type: not the solver's model
+1003.3337,2010,Bhattacharyya,09,C,Investigation of Phase Diagram and Bulk Thermodynamic Properties using PNJL Model with Eig,,,,NJL-type: not the solver's model
+1008.0768,2010,Bhattacharyya,09,C,Susceptibilities with multi-quark interactions in PNJL model,,,,NJL-type: not the solver's model
+1004.5301,2010,Blank,09,C,The QCD chiral transition temperature in a Dyson-Schwinger-equation context,,,,DSE: not the solver's model
+1009.1181,2010,Blaschke,09,C,Hybrid neutron stars based on a modified PNJL model,,,,NJL-type: not the solver's model
+1006.4639,2010,Contrera,09,C,Nonlocal Polyakov-Nambu-Jona-Lasinio model with wavefunction renormalization at finite tem,,,,NJL-type: not the solver's model
+1002.2336,2010,Cristoforetti,09,C,Thermodynamics and quark susceptibilities: a Monte-Carlo approach to the PNJL model,,,,NJL-type: not the solver's model
+1003.0047,2010,Fukushima,09,C,Chiral magnetic effect in the PNJL model,,,,NJL-type: not the solver's model
+1005.0324,2010,Huovinen,09,C,On Fluctuations of Conserved Charges : Lattice Results Versus Hadron Resonance Gas,,,,HRG: not the solver's model
+1002.1507,2010,Langelage,09,C,The pressure of strong coupling lattice QCD with heavy quarks; the hadron resonance gas mo,,,,HRG: not the solver's model
+1008.0569,2010,Moreira,09,C,Thermodynamic potential with correct asymptotics for PNJL model,,,,NJL-type: not the solver's model
+1009.3762,2010,Mueller,09,C,Quark spectral properties above Tc from Dyson-Schwinger equations,,,,DSE: not the solver's model
+1012.0664,2010,Radzhabov,09,C,Nonlocal PNJL model beyond mean field and the QCD phase transition,,,,NJL-type: not the solver's model
+1012.5215,2010,Ratti,09,C,Recent results on QCD thermodynamics: lattice QCD versus Hadron Resonance Gas model,,,,HRG: not the solver's model
+1008.4570,2010,Skokov,09,C,Quark number fluctuations in the Polyakov loop-extended quark-meson model at finite baryon,,,,other model: not the solver's model
+1106.4843,2011,Blank,09,C,Properties of quarks and mesons in the Dyson-Schwinger/Bethe-Salpeter approach,,,,DSE: not the solver's model
+1107.2913,2011,Blaschke,09,C,D mesons at finite temperature and density in the PNJL model,,,,NJL-type: not the solver's model
+1104.0572,2011,Hell,09,C,Extensions and further applications of the nonlocal Polyakov--Nambu--Jona-Lasinio model,,,,NJL-type: not the solver's model
+1110.3660,2011,Hiller,09,C,Extended Nambu-Jona-Lasinio model with eight quark interactions,,,,NJL-type: not the solver's model
+1106.5025,2011,Kashiwa,09,C,Nonlocal Polyakov-Nambu-Jona-Lasinio model and imaginary chemical potential,,,,NJL-type: not the solver's model
+1201.1239,2011,Lourenco,09,C,Hadron-quark phase transition in a hadronic and Polyakov--Nambu--Jona-Lasinio models persp,,,,NJL-type: not the solver's model
+1108.0735,2011,Morita,09,C,Role of mesonic fluctuations in the Polyakov loop extended quark-meson model at imaginary ,,,,other model: not the solver's model
+1105.1739,2011,Pagura,09,C,Deconfinement and chiral restoration in nonlocal PNJL models at zero and imaginary chemica,,,,NJL-type: not the solver's model
+1104.2394,2011,Sakai,09,C,Equation of state in the PNJL model with the entanglement interaction,,,,NJL-type: not the solver's model
+1105.4528,2011,Shao,09,C,Phase diagrams in the Hadron-PNJL model,,,,NJL-type: not the solver's model
+1111.5292,2011,Torres Andres,09,C,Scalar susceptibilities and Electromagnetic thermal mass differences in Chiral Perturbatio,,,,ChPT: not the solver's model
+1207.2956,2012,Ananthanarayan,09,C,Consistency tests of AMPCALCULATOR and chiral amplitudes in SU(3) Chiral Perturbation Theo,,,,ChPT: not the solver's model
+1205.6978,2012,Andersen,09,C,Chiral perturbation theory in a magnetic background - finite-temperature effects,,,,ChPT: not the solver's model
+1201.0693,2012,Andronic,09,C,Interacting hadron resonance gas meets lattice QCD,,,,HRG: not the solver's model
+1203.0784,2012,Bazavov,09,C,Fluctuations and Correlations of net baryon number; electric charge; and strangeness: A co,,,,HRG: not the solver's model
+1208.4107,2012,Begun,09,C,Hadron-resonance gas at freeze-out: Reminder on the importance of repulsive interactions,,,,HRG: not the solver's model
+1212.5893,2012,Bhattacharyya,09,C,Thermodynamic Properties of Strongly Interacting Matter in Finite Volume using Polyakov-Na,,,,NJL-type: not the solver's model
+1207.4890,2012,Contrera,09,C,Phase diagrams in nonlocal Polyakov-Nambu-Jona-Lasinio models constrained by lattice QCD r,,,,NJL-type: not the solver's model
+1210.7977,2012,Gomez Nicola,09,C,Scalar susceptibilities and four-quark condensates in the meson gas within Chiral Perturba,,,,ChPT: not the solver's model
+1207.0400,2012,Kamikado,09,C,Fluctuations in the quark-meson model for QCD with isospin chemical potential,,,,other model: not the solver's model
+1204.6357,2012,Lourenco,09,C,Vector interaction strength in Polyakov-Nambu-Jona-Lasinio models from hadron-quark phase ,,,,NJL-type: not the solver's model
+1207.7287,2012,Megias,09,C,The Hadron Resonance Gas Model: Thermodynamics of QCD and Polyakov Loop,,,,HRG: not the solver's model
+1204.2424,2012,Megias,09,C,The Polyakov loop and the hadron resonance gas model,,,,HRG: not the solver's model
+1212.5245,2012,Wergieluk,09,C,Pion dissociation and Levinson`s theorem in hot PNJL quark matter,,,,NJL-type: not the solver's model
+1212.6165,2012,Yamazaki,09,C,Quark-Hadron Phase Transition in the PNJL model for interacting quarks,,,,NJL-type: not the solver's model
+1306.0588,2013,Benic,09,C,Medium induced Lorentz symmetry breaking effects in nonlocal Polyakov–Nambu–Jona-Lasinio m,,,,NJL-type: not the solver's model
+1310.2793,2013,Bhattacharyya,09,C,Fluctuations and correlations of conserved charges in an excluded volume hadron resonance ,,,,HRG: not the solver's model
+1311.4014,2013,Cui,09,C,The Wigner Solution and QCD Phase Transitions in a Modified PNJL Model,,,,NJL-type: not the solver's model
+1308.1923,2013,Denicol,09,C,Fluid behavior of a baryon-rich hadron resonance gas,,,,HRG: not the solver's model
+1301.1307,2013,Endrödi,09,C,QCD equation of state at nonzero magnetic fields in the Hadron Resonance Gas model,,,,HRG: not the solver's model
+1305.4751,2013,Ferreira,09,C,Deconfinement and chiral restoration within the SU(3) Polyakov--Nambu--Jona-Lasinio and en,,,,NJL-type: not the solver's model
+1304.7133,2013,Garg,09,C,Conserved number fluctuations in a hadron resonance gas model,,,,HRG: not the solver's model
+1308.4509,2013,Luecker,09,C,Critical Point and Deconﬁnement from Dyson-Schwinger Equations,,,,DSE: not the solver's model
+1303.2693,2013,Müller,09,C,Dyson-Schwinger approach to color superconductivity at finite temperature and density,,,,DSE: not the solver's model
+1308.4303,2013,Müller,09,C,Dyson-Schwinger study of chiral density waves in QCD,,,,DSE: not the solver's model
+1302.5642,2013,Popovici,09,C,Dyson-Schwinger approach to strongly coupled theories,,,,DSE: not the solver's model
+1302.0416,2013,Powell,09,C,Asymmetric pairing of realistic mass quarks and color neutrality in the Polyakov–Nambu–Jon,,,,NJL-type: not the solver's model
+1307.4622,2013,Xia,09,C,Three-flavor Nambu–Jona-Lasinio model at finite isospin chemical potential,,,,NJL-type: not the solver's model
+1404.7540,2014,Albright,09,C,Matching Excluded Volume Hadron Resonance Gas Models and Perturbative QCD to Lattice Calcu,,,,HRG: not the solver's model
+1412.8316,2014,Bhattacharyya,09,C,Fluctuation of strongly interacting matter in the Polyakov–Nambu–Jona-Lasinio model in a f,,,,NJL-type: not the solver's model
+1404.5577,2014,Ferreira,09,C,Inverse magnetic catalysis in the (2+1)-flavor Nambu-Jona-Lasinio and Polyakov-Nambu-Jona-,,,,NJL-type: not the solver's model
+1409.0698,2014,Fukushima,09,C,Hadron resonance gas and mean-field nuclear matter for baryon number fluctuations,,,,HRG: not the solver's model
+1411.2765,2014,Ghosh,09,C,Shear viscosity and phase diagram from Polyakov–Nambu–Jona-Lasinio model,,,,NJL-type: not the solver's model
+1402.1238,2014,Nahrgang,09,C,Impact of resonance regeneration and decay on the net-proton fluctuations in a hadron reso,,,,HRG: not the solver's model
+1412.8308,2014,Providência,09,C,Inverse magnetic catalysis in the Polyakov-Nambu-Jona-Lasinio and entangled Polyakov-Nambu,,,,NJL-type: not the solver's model
+1412.5478,2014,Vovchenko,09,C,Hadron Resonance Gas Equation of State from Lattice QCD,,,,HRG: not the solver's model
+2109.09935,2014,Xin,09,C,Quark number fluctuations at finite temperature and finite chemical potential via the Dyso,,,,DSE: not the solver's model
+1403.6965,2014,Zhou,09,C,Temperature dependence of quarks and gluon vacuum condensate in the Dyson-Schwinger Equati,,,,DSE: not the solver's model
+1504.04533,2015,Bhattacharyya,09,C,Exploring effects of magnetic field on the Hadron Resonance Gas,,,,HRG: not the solver's model
+1507.08795,2015,Bhattacharyya,09,C,Polyakov–Nambu–Jona-Lasinio model in finite volumes,,,,NJL-type: not the solver's model
+1502.00889,2015,Bhattacharyya,09,C,Thermodynamics and fluctuations of conserved charges in a hadron resonance gas model in a ,,,,HRG: not the solver's model
+1512.06596,2015,Dorkin,09,C,Extending the truncated Dyson-Schwinger equation to finite temperatures,,,,DSE: not the solver's model
+1511.06210,2015,G.,09,C,Cosmology and Quantum Field Theory: A study of the Nambu-Jona-Lasinio Model,,,,NJL-type: not the solver's model
+1506.04613,2015,Kadam,09,C,Dissipative properties of hot and dense hadronic matter in an excluded-volume hadron reson,,,,HRG: not the solver's model
+1509.06998,2015,Kadam,09,C,Medium modification of hadron masses and the thermodynamics of the hadron resonance gas mo,,,,HRG: not the solver's model
+1601.00026,2015,Li,09,C,Spinodal instabilities of baryon-rich quark-gluon plasma in the Polyakov–Nambu–Jona-Lasini,,,,NJL-type: not the solver's model
+1609.05318,2016,Adak,09,C,Centrality dependence of chemical freeze-out parameters from net-proton and net-charge flu,,,,HRG: not the solver's model
+1606.06542,2016,Alba,09,C,Flavor-dependent eigenvolume interactions in a hadron resonance gas,,,,HRG: not the solver's model
+1601.02474,2016,Beitel,09,C,Fast dynamical evolution of a hadron resonance gas via Hagedorn states,,,,HRG: not the solver's model
+1609.07882,2016,Bhattacharyya,09,C,Reparametrizing the Polyakov–Nambu–Jona-Lasinio model,,,,NJL-type: not the solver's model
+1610.07138,2016,Fu,09,C,Higher moments of multiplicity fluctuations in a hadron-resonance gas with exact conservat,,,,HRG: not the solver's model
+1602.08193,2016,Fujikawa,09,C,BCS; Nambu–Jona-Lasinio; and Han–Nambu: A sketch of Nambu's works in 1960–1965,,,,NJL-type: not the solver's model
+1609.08038,2016,Gao,09,C,Interface Effect in QCD Phase Transitions via Dyson-Schwinger Equation Approach,,,,DSE: not the solver's model
+1607.01675,2016,Gao,09,C,QCD phase transitions via a refined truncation of Dyson-Schwinger equations,,,,DSE: not the solver's model
+1607.01875,2016,Mishra,09,C,Effect of resonance decay on conserved number fluctuations in a hadron resonance gas model,,,,HRG: not the solver's model
+1603.02865,2016,Müller,09,C,Dyson-Schwinger Approach to Color-Superconductivity: Effects of Selfconsistent Gluon Dress,,,,DSE: not the solver's model
+1610.08753,2016,Satarov,09,C,New scenarios for hard-core interactions in a hadron resonance gas,,,,HRG: not the solver's model
+1609.03975,2016,Vovchenko,09,C,van der Waals Interactions in Hadron Resonance Gas: From Nuclear Matter to Lattice QCD,,,,HRG: not the solver's model
+1612.06485,2016,Xu,09,C,Effects of volume corrections and resonance decays on cumulants of net-charge distribution,,,,HRG: not the solver's model
+1708.00879,2017,Huovinen,09,C,Hadron resonance gas with repulsive interactions and fluctuations of conserved charges,,,,HRG: not the solver's model
+1703.00049,2017,Sagun,09,C,Hadron Resonance Gas Model with Induced Surface Tension,,,,HRG: not the solver's model
+1711.10169,2017,Saha,09,C,Transport coefficients in a finite volume Polyakov–Nambu–Jona-Lasinio model,,,,NJL-type: not the solver's model
+1709.04446,2017,Samanta,09,C,Criticality in a Hadron Resonance Gas model with the van der Waals interaction,,,,HRG: not the solver's model
+1708.04888,2017,Shao,09,C,Baryon number fluctuations and the phase structure in the PNJL model,,,,NJL-type: not the solver's model
+1704.07858,2017,Torres-Rincon,09,C,Equation of state of a quark-meson mixture in the improved Polyakov–Nambu–Jona-Lasinio mod,,,,NJL-type: not the solver's model
+1802.04998,2018,Dash,09,C,Interacting hadron resonance gas model in the K -matrix formalism,,,,HRG: not the solver's model
+1801.09215,2018,Li,09,C,The kurtosis of net baryon number fluctuations from a realistic Polyakov–Nambu–Jona-Lasini,,,,NJL-type: not the solver's model
+1805.01402,2018,Vovchenko,09,C,Monte Carlo approach to the excluded-volume hadron resonance gas in grand canonical and ca,,,,HRG: not the solver's model
+1906.11644,2019,Isserstedt,09,C,Baryon number fluctuations in the QCD phase diagram from Dyson-Schwinger equations,,,,DSE: not the solver's model
+1911.02677,2019,Isserstedt,09,C,Dyson-Schwinger approach to baryon number fluctuations,,,,DSE: not the solver's model
+1908.10618,2019,Kadam,09,C,Interacting hadron resonance gas model in magnetic field and the fluctuations of conserved,,,,HRG: not the solver's model
+1912.08635,2019,Khunjua,09,C,Charged Pion Condensation in Dense Quark Matter: Nambu–Jona-Lasinio Model Study,,,,NJL-type: not the solver's model
+1902.03866,2019,Li,09,A?,2+1 PQM in external magnetic field,thermodynamics; B=0 limit,SW-PQM,3,B=0 curves comparable
+1904.01216,2019,Yoshii,09,C,Nambu-Jona Lasinio and Nonlinear Sigma Models in Condensed Matter Systems,,,,NJL-type: not the solver's model
+2010.13655,2020,Adhikari,09,C,Condensates and pressure of two-flavor chiral perturbation theory at nonzero isospin and t,,,,ChPT: not the solver's model
+2006.09714,2020,Broniowski,09,C,Applications of the Nambu–Jona-Lasinio model to the partonic structure of the pion,,,,NJL-type: not the solver's model
+2003.05692,2020,Chaudhuri,09,C,Effects of quark anomalous magnetic moment on the thermodynamical properties and mesonic e,,,,NJL-type: not the solver's model
+2006.15727,2020,Das,09,C,In medium properties of an axion within a 2+1 flavor Polyakov loop enhanced Nambu–Jona-Las,,,,NJL-type: not the solver's model
+2002.08781,2020,Dash,09,C,Anisotropic transport properties of a hadron resonance gas in a magnetic field,,,,HRG: not the solver's model
+2002.04434,2020,Dey,09,C,Quantum expression for the electrical conductivity of massless quark matter and of the had,,,,HRG: not the solver's model
+2004.10544,2020,Dönigus,09,C,Light nuclei in the hadron resonance gas,,,,HRG: not the solver's model
+2011.08387,2020,Fejős,09,B,3-flavour QM field-dependent Yukawa coupling,Table 1 params,FRG,3,feature: field-dependent g
+2006.07717,2020,Hofmann,09,C,Chiral Perturbation Theory Analysis of the Quark Condensate in a Magnetic Field,,,,ChPT: not the solver's model
+2004.06331,2020,Vovchenko,09,C,Hadron resonance gas with van der Waals interactions,,,,HRG: not the solver's model
+2012.09954,2020,Vovchenko,09,C,Particlization of an interacting hadron resonance gas with global conservation laws for ev,,,,HRG: not the solver's model
+2009.12035,2020,Xu,09,C,Chiral crossover transition from the Dyson-Schwinger equations in a sphere,,,,DSE: not the solver's model
+2004.14556,2020,Zhao,09,C,Thermodynamic properties and transport coefficients of QCD matter within the nonextensive ,,,,NJL-type: not the solver's model
+2102.06625,2021,Bellwied,09,C,Corrections to the hadron resonance gas from lattice QCD and their effect on fluctuation-r,,,,HRG: not the solver's model
+2103.00456,2021,Cao,09,C,Recent progresses on QCD phases in a strong magnetic field: views from Nambu–Jona-Lasinio ,,,,NJL-type: not the solver's model
+2104.11425,2021,Chaudhuri,09,C,Dilepton production from magnetized quark matter with an anomalous magnetic moment of the ,,,,NJL-type: not the solver's model
+2109.06799,2021,Fujimoto,09,C,Equation of state of neutron star matter and its warm extension with an interacting hadron,,,,HRG: not the solver's model
+2107.00588,2021,Karthein,09,C,Constraining the hadronic spectrum and repulsive interactions in a hadron resonance gas vi,,,,HRG: not the solver's model
+2102.02844,2021,Lopes,09,C,Hot QCD at finite isospin density: Confronting the SU(3) Nambu–Jona-Lasinio model with rec,,,,NJL-type: not the solver's model
+2104.08531,2021,Pal,09,C,Hadron resonance gas model with repulsive mean-field interactions: Specific heat; isotherm,,,,HRG: not the solver's model
+2104.11117,2021,Tavares,09,C,Nambu–Jona-Lasinio SU(3) model constrained by lattice QCD: thermomagnetic effects in the m,,,,NJL-type: not the solver's model
+2212.07173,2022,Kaptari,09,C,Temperature Dependence of Gluon and Ghost Propagators in a Dyson-Schwinger Equations conte,,,,DSE: not the solver's model
+2205.03149,2022,Pradhan,09,C,Conductivity; diffusivity; and violation of the Wiedemann-Franz Law in a hadron resonance ,,,,HRG: not the solver's model
+2201.10495,2022,Torres-Rincon,09,C,Kinetics of hydrodynamic pions in chiral perturbation theory,,,,ChPT: not the solver's model
+2301.10983,2023,Isserstedt,09,C,QCD’s equation of state from Dyson-Schwinger equations,,,,DSE: not the solver's model
+2310.18383,2023,Lu,09,C,QCD equation of state and thermodynamic observables from computationally minimal Dyson-Sch,,,,DSE: not the solver's model
+2304.14658,2023,Mukherjee,09,C,Conserved number fluctuations under global rotation in a hadron resonance gas model,,,,HRG: not the solver's model
+2304.05190,2023,Pradhan,09,C,Thermodynamics of a rotating hadron resonance gas with van der Waals interaction,,,,HRG: not the solver's model
+2306.03477,2023,Sahoo,09,C,Effect of a magnetic field on the thermodynamic properties of a high-temperature hadron re,,,,HRG: not the solver's model
+2306.04045,2023,Wen,09,C,Functional renormalization group study of neutral and charged pions in magnetic fields in ,,,,other model: not the solver's model
+2405.15745,2024,Marczenko,09,C,Magnetic effects in the hadron resonance gas,,,,HRG: not the solver's model
+2403.16647,2024,Padhan,09,C,Effect of Coriolis force on electrical conductivity tensor for the rotating hadron resonan,,,,HRG: not the solver's model
+2410.08461,2024,Tiwari,09,B,on-shell renormalized QM chiral limit (ChPT scaling),,SW-PQM,3,vacuum term
+2405.16306,2024,Vovchenko,09,C,Magnetic field effect on hadron yield ratios and fluctuations in a hadron resonance gas,,,,HRG: not the solver's model
+2502.02070,2025,Chatterjee,09,C,Finite temperature QCD crossover at non-zero chemical potential: A Dyson–Schwinger approac,,,,DSE: not the solver's model
+2511.18904,2025,Hutauruk,09,C,A Nambu–Jona-Lasinio model of quantum chromodynamics and hadron structure,,,,NJL-type: not the solver's model
+2512.23934,2025,Liu,09,C,Fluctuations of Temperature in the Polyakov Loop-Extended Nambu–Jona-Lasinio Model,,,,NJL-type: not the solver's model
+2507.04597,2025,Tiwari,09,B,curvature vs on-shell renormalized QM chiral limit,,SW-PQM,3,vacuum term
+2602.17456,2026,Alkofer,09,C,Chiral symmetry restoration effects onto the meson spectrum from a Dyson-Schwinger and Bet,,,,DSE: not the solver's model
+2609.39886,2026,Zhu,09,C,Axial Symmetry Breaking and Chiral Separation Effect in Nambu-Jona-Lasinio Model,,,,NJL-type: not the solver's model
+hep-ph/9912274,1999,Berdnikov,10,C,Slowing out-of-equilibrium near the QCD critical point,,,,experiment / HIC (user: not now)
+hep-ph/0012163,2000,Antoniou,10,C,Net baryon scaling near the QCD critical point,,,,experiment / HIC (user: not now)
+hep-ph/0102263,2001,Antoniou,10,C,Net baryon fluctuations at the QCD critical point,,,,experiment / HIC (user: not now)
+hep-ph/0503239,2005,Becattini,10,C,Production of multiply heavy flavored baryons from quark gluon plasma in relativistic heav,,,,experiment / HIC (user: not now)
+nucl-ex/0701079,2007,Mitchell,10,C,The PHENIX potential in the search for the QCD critical point,,,,experiment / HIC (user: not now)
+0903.0669,2008,Csorgo,10,C,Correlation Probes of a QCD Critical Point,,,,experiment / HIC (user: not now)
+0811.1592,2008,Gonzalez,10,C,Simulation Study of $\chi_c \to J/\Psi + \gamma$ Detection with $J/\Psi \to e^{+} e^{-}$ i,,,,experiment / HIC (user: not now)
+0909.0485,2009,Anticic,10,C,Search for the QCD critical point at SPS energies,,,,experiment / HIC (user: not now)
+0906.0305,2009,Caines,10,C,The RHIC Beam Energy Scan: STAR'S Perspective,,,,experiment / HIC (user: not now)
+1005.4114,2010,Cleymans,10,C,Maximal Net Baryon Density in the Energy Region Covered by NICA,,,,experiment / HIC (user: not now)
+1002.4780,2010,Srivastava,10,C,QCD Critical Point in a Quasiparticle Model,,,,experiment / HIC (user: not now)
+1107.0137,2011,Arnaldi,10,C,Measurement of J/Psi production in $pp$ collisions at $\sqrt{s}=2.76$ and 7 TeV with ALICE,,,,experiment / HIC (user: not now)
+1109.5372,2011,Gagliardi,10,C,Measurement of J/psi production at the LHC with the ALICE experiment,,,,experiment / HIC (user: not now)
+1101.6061,2011,Klahn,10,C,Exploring hybrid star matter at NICA and FAIR,,,,experiment / HIC (user: not now)
+1106.6071,2011,Kumar,10,C,Identified Hadron Production from the RHIC Beam Energy Scan,,,,experiment / HIC (user: not now)
+1101.4310,2011,Kumar,10,C,Results from the STAR Beam Energy Scan Program,,,,experiment / HIC (user: not now)
+1106.5902,2011,Mohanty,10,C,STAR experiment results from the beam energy scan program at RHIC,,,,experiment / HIC (user: not now)
+1101.2442,2011,Niemi,10,C,Influence of the shear viscosity of the quark-gluon plasma on elliptic flow in ultrarelati,,,,experiment / HIC (user: not now)
+1112.0842,2011,Pandit,10,C,Directed flow of Identified Charged Particles from the RHIC Beam Energy Scan,,,,experiment / HIC (user: not now)
+1110.1035,2011,Pereira Da Costa,10,C,J/$\psi$ production in pp and Pb-Pb with ALICE at the LHC,,,,experiment / HIC (user: not now)
+1108.3795,2011,Pillot,10,C,J/$\Psi$ production at forward rapidity in Pb-Pb collisions at sqrt(s_NN) = 2.76 TeV; meas,,,,experiment / HIC (user: not now)
+1102.0882,2011,Prakash,10,C,Di-muon measurements in CBM experiment at FAIR,,,,experiment / HIC (user: not now)
+1101.5125,2011,Sahoo,10,C,Probing the QCD Critical Point by Higher Moments of Net-Charge Distribution,,,,experiment / HIC (user: not now)
+1109.4082,2011,Salgado,10,C,Hard Probes of the Quark Gluon Plasma in Heavy Ion Collisions,,,,experiment / HIC (user: not now)
+1106.6112,2011,Tarnowsky,10,C,A Study of the QCD Critical Point Using Particle Ratio Fluctuations,,,,experiment / HIC (user: not now)
+1106.6110,2011,Tarnowsky,10,C,Searching for the QCD Critical Point Using Particle Ratio Fluctuations and Higher Moments ,,,,experiment / HIC (user: not now)
+1112.2595,2011,Toneev,10,C,Theoretical analysis of a possible observation of the chiral magnetic effect in Au + Au co,,,,experiment / HIC (user: not now)
+1211.2578,2012,Arnaldi,10,C,J/Psi and Psi(2S) production in Pb-Pb collisions with the ALICE Muon Spectrometer at the L,,,,experiment / HIC (user: not now)
+1210.6099,2012,Das,10,C,Centrality dependence of freeze-out parameters from the beam energy scan at STAR,,,,experiment / HIC (user: not now)
+1211.1350,2012,Kumar,10,C,STAR Results from the RHIC Beam Energy Scan-I,,,,experiment / HIC (user: not now)
+1212.6587,2012,Liu,10,C,Quark-gluon plasma formation time and direct photons from heavy ion collisions,,,,experiment / HIC (user: not now)
+1210.5573,2012,Luo,10,C,Search for the QCD Critical Point by Higher Moments of Net-proton Multiplicity Distributio,,,,experiment / HIC (user: not now)
+1301.4058,2012,Maire,10,C,Measurements of inclusive $J/\psi$ production in Pb-Pb collisions at $\sqrt{s_{NN}} = 2.76,,,,experiment / HIC (user: not now)
+1208.6488,2012,Manceau,10,C,J/{\psi} production in pp collisions and in Pb-Pb collisions at the LHC with the ALICE exp,,,,experiment / HIC (user: not now)
+1208.5401,2012,Massacrier,10,C,$J/\psi$ elliptic flow measurement in Pb-Pb collisions at $\sqrt{s_{NN}} = 2.76$ TeV at fo,,,,experiment / HIC (user: not now)
+1202.2389,2012,Schmah,10,C,Highlights of the Beam Energy Scan from STAR,,,,experiment / HIC (user: not now)
+1304.6332,2013,Andronic,10,C,The charm of hot matter – charmonium and open charm measurements in Pb–Pb collisions with ,,,,experiment / HIC (user: not now)
+1310.3139,2013,Lakomov,10,C,Inclusive $J/\psi$ production in p-Pb collisions with ALICE at the LHC,,,,experiment / HIC (user: not now)
+1301.7224,2013,Sumbera,10,C,Results from STAR Beam Energy Scan Program,,,,experiment / HIC (user: not now)
+1312.4434,2013,Yin,10,C,Electrical conductivity of the quark-gluon plasma and soft photon spectrum in heavy-ion co,,,,experiment / HIC (user: not now)
+1409.6169,2014,Broz,10,C,Charmonium photoproduction in ultra-peripheral p-Pb and Pb-Pb collisions at the LHC with t,,,,experiment / HIC (user: not now)
+1412.0350,2014,Das,10,C,Chemical freeze-out parameters in Beam Energy Scan Program of STAR at RHIC,,,,experiment / HIC (user: not now)
+1412.0499,2014,Das,10,C,Identified particle production and freeze-out properties in heavy-ion collisions at RHIC B,,,,experiment / HIC (user: not now)
+1402.0255,2014,Das,10,C,Study of freeze-out dynamics in STAR at RHIC Beam Energy Scan Program,,,,experiment / HIC (user: not now)
+1409.4458,2014,Pereira Da Costa,10,C,Charmonium Production at Forward Rapidity in pp; p-Pb and Pb-Pb Collisions; with ALICE,,,,experiment / HIC (user: not now)
+1407.1554,2014,Sahoo,10,C,Recent results on event-by-event fluctuations from the RHIC Beam Energy Scan program in th,,,,experiment / HIC (user: not now)
+1412.8393,2014,Shuryak,10,C,Strongly coupled quark-gluon plasma in heavy ion collisions,,,,experiment / HIC (user: not now)
+1404.5047,2014,Zakharov,10,C,Electromagnetic response of quark–gluon plasma in heavy-ion collisions,,,,experiment / HIC (user: not now)
+1503.02185,2015,Aref'eva,10,C,Formation time of quark–gluon plasma in heavy-ion collisions in the holographic shock wave,,,,experiment / HIC (user: not now)
+1512.06987,2015,Karsch,10,C,Conserved Charge Fluctuations from Lattice QCD and the Beam Energy Scan,,,,experiment / HIC (user: not now)
+1512.09215,2015,Luo,10,C,Exploring the QCD Phase Structure with Beam Energy Scan in Heavy-ion Collisions,,,,experiment / HIC (user: not now)
+1512.07610,2015,Pereira Da Costa,10,C,Charmonium production in Pb–Pb collisions with ALICE at the LHC,,,,experiment / HIC (user: not now)
+1509.06570,2015,Tokarev,10,C,Self-similarity of negative particle production from the Beam Energy Scan Program at STAR,,,,experiment / HIC (user: not now)
+1509.02793,2015,Weber,10,C,Charmonium production at mid-rapidity in Pb-Pb and p-Pb collisions with ALICE,,,,experiment / HIC (user: not now)
+1501.03970,2015,Xu,10,C,Origin of Temperature of Quark-Gluon Plasma in Heavy Ion Collisions,,,,experiment / HIC (user: not now)
+1612.08928,2016,Aref'eva,10,C,Holography for Heavy Ions Collisions at LHC and NICA,,,,experiment / HIC (user: not now)
+1611.01533,2016,Pasechnik,10,C,Phenomenological Review on Quark–Gluon Plasma: Concepts vs. Observations,,,,experiment / HIC (user: not now)
+1609.06889,2016,Paul,10,C,Charmonium production in Pb-Pb collisions at $\sqrt{s_{\rm NN}} =$ 2.76 and 5.02 TeV with ,,,,experiment / HIC (user: not now)
+1610.07423,2016,Singha,10,C,Directed flow of $\Lambda$; $\bar{\Lambda}$; $K^{\pm}$; $K_S^0$ and $\phi$ mesons from Bea,,,,experiment / HIC (user: not now)
+1611.05078,2016,Thakur,10,C,Estimation of Stopped Protons at Energies Relevant for a Beam Energy Scan at the BNL Relat,,,,experiment / HIC (user: not now)
+1701.07065,2017,Adamczyk,10,C,Bulk Properties of the Medium Produced in Relativistic Heavy-Ion Collisions from the Beam ,,,,experiment / HIC (user: not now)
+1703.09628,2017,Batyuk,10,C,Correlation femtoscopy study at energies available at the JINR Nuclotron-based Ion Collide,,,,experiment / HIC (user: not now)
+1701.05064,2017,Berges,10,C,Parametric estimate of the relative photon yields from the glasma and the quark-gluon plas,,,,experiment / HIC (user: not now)
+1703.08380,2017,Feuillard,10,C,Charmonium production in Pb–Pb collisions measured by ALICE at the LHC,,,,experiment / HIC (user: not now)
+1704.02142,2017,Karpenko,10,C,Vorticity in the QGP liquid and Λ polarization at the RHIC Beam Energy Scan,,,,experiment / HIC (user: not now)
+1809.10553,2018,Alvarado,10,C,A beam–beam monitoring detector for the MPD experiment at NICA,,,,experiment / HIC (user: not now)
+1808.03996,2018,Esha,10,C,Searching for the QCD Critical Point through Fluctuations at RHIC,,,,experiment / HIC (user: not now)
+1801.01764,2018,Ivanov,10,C,Bulk Properties of the Matter Produced at Energies of the Beam Energy Scan Program,,,,experiment / HIC (user: not now)
+1809.03780,2018,Khuntia,10,C,Effect of Hagedorn States on Isothermal Compressibility of Hadronic Matter formed in Heavy,,,,experiment / HIC (user: not now)
+1801.07610,2018,Kolomeitsev,10,C,Vorticity and hyperon polarization at energies available at JINR Nuclotron-based Ion Colli,,,,experiment / HIC (user: not now)
+1807.05565,2018,Wang,10,C,Directed flow of quarks from the RHIC Beam Energy Scan measured by STAR,,,,experiment / HIC (user: not now)
+1812.04291,2018,Yu,10,C,Search for QCD critical point by transverse velocity dependence of anti-deuteron to deuter,,,,experiment / HIC (user: not now)
+1901.03125,2019,Parfenov,10,C,Performance studies of anisotropic flow with MPD at NICA,,,,experiment / HIC (user: not now)
+1910.03677,2019,Rao,10,C,Baseline predictions of elliptic flow and fluctuations for the RHIC Beam Energy Scan using,,,,experiment / HIC (user: not now)
+2006.08510,2020,Deppner,10,C,The FAIR Phase 0 program of the CBM TOF,,,,experiment / HIC (user: not now)
+2009.01483,2020,Kagamaster,10,C,Centrality determination with a forward detector in the RHIC Beam Energy Scan,,,,experiment / HIC (user: not now)
+2012.06759,2020,Parfenov,10,C,Elliptic ($v_2$) and triangular ($v_3$) anisotropic flow of identified hadrons from the ST,,,,experiment / HIC (user: not now)
+2002.07709,2020,Semenov,10,C,Electromagnetic Calorimeter for MPD Spectrometer at NICA Collider,,,,experiment / HIC (user: not now)
+2004.11214,2020,Senger,10,C,Astrophysics in the Laboratory—The CBM Experiment at FAIR,,,,experiment / HIC (user: not now)
+2005.03321,2020,Senger,10,C,Probing dense QCD matter in the laboratory—The CBM experiment at FAIR,,,,experiment / HIC (user: not now)
+2006.01220,2020,Spieles,10,C,Effects of the QCD phase transition on hadronic observables in relativistic hydrodynamic s,,,,experiment / HIC (user: not now)
+2112.00240,2021,Abdallah,10,C,Measurements of Proton High Order Cumulants in $\sqrt{s_{_{\mathrm{NN}}}}$ = 3 GeV Au+Au C,,,,experiment / HIC (user: not now)
+2106.14379,2021,Ayala,10,C,Rise and fall of Λ and Λ¯ global polarization in semi-central heavy-ion collisions at HADE,,,,experiment / HIC (user: not now)
+2105.13481,2021,Guo,10,C,Hyperon polarization from the vortical fluid in low-energy nuclear collisions,,,,experiment / HIC (user: not now)
+2105.14285,2021,Senger,10,C,Probing Dense QCD Matter: Muon Measurements with the CBM Experiment at FAIR,,,,experiment / HIC (user: not now)
+2110.09505,2021,Waqas,10,C,Freezeout properties of different light nuclei at the RHIC beam energy scan,,,,experiment / HIC (user: not now)
+2107.04949,2021,Wu,10,C,(3+1)-D viscous hydrodynamics at finite net baryon density: Identified particle spectra; a,,,,experiment / HIC (user: not now)
+2210.02909,2022,Abdallah,10,C,<math><msup><mi>K</mi><mrow><mo>*</mo><mn>0</mn></mrow></msup></math> production in <math>,,,,experiment / HIC (user: not now)
+2207.14585,2022,Agarwal,10,C,Status of the Compressed Baryonic Matter (CBM) Experiment at FAIR,,,,experiment / HIC (user: not now)
+2209.05009,2022,Almaalol,10,C,QCD Phase Structure and Interactions at High Baryon Density: Continuation of BES Physics P,,,,experiment / HIC (user: not now)
+2204.01056,2022,Senger,10,C,Exploring terra incognita in the phase diagram of strongly interacting matter—experiments ,,,,experiment / HIC (user: not now)
+2211.09219,2022,Tsegelnik,10,C,Helicity and vorticity in heavy-ion collisions at energies available at the JINR Nuclotron,,,,experiment / HIC (user: not now)
+2312.17573,2023,Afanasiev,10,C,The BM@N spectrometer at the NICA accelerator complex,,,,experiment / HIC (user: not now)
+2312.10166,2023,Churchill,10,C,Thermal dilepton production in heavy-ion collisions at beam-energy-scan (BES) energies,,,,experiment / HIC (user: not now)
+2302.08177,2023,Sahoo,10,C,<math><msup><mi>K</mi><mrow><mo>*</mo><mn>0</mn></mrow></msup></math> meson production usi,,,,experiment / HIC (user: not now)
+2305.07139,2023,Sweger,10,C,Recent Results and Future Prospects from the STAR Beam Energy Scan Program,,,,experiment / HIC (user: not now)
+2407.02935,2024,Chen,10,C,Properties of the QCD matter: review of selected results from the relativistic heavy ion c,,,,experiment / HIC (user: not now)
+2404.14295,2024,Palermo,10,C,$\Lambda $ polarization in very high energy heavy ion collisions as a probe of the quark–g,,,,experiment / HIC (user: not now)
+2412.18326,2024,Taseer,10,C,Measurement of charge-dependent directed flow in STAR Beam Energy Scan (BES-II) Au+Au and ,,,,experiment / HIC (user: not now)
+2512.19352,2025,Aboona,10,C,Measurement of fifth- and sixth-order fluctuations of (net-)proton number in <math><mrow><,,,,experiment / HIC (user: not now)
+2508.13764,2025,Bhatta,10,C,Novel Probes of Quark-Gluon Plasma Evolution in Heavy-Ion Collisions With the ATLAS Detect,,,,experiment / HIC (user: not now)
+2501.12849,2025,Steinheimer,10,C,Simultaneous description of high density QCD matter in heavy ion collisions and neutron st,,,,experiment / HIC (user: not now)
+2504.17394,2025,Zhang,10,C,Study of QCD critical point with the effect of three-nucleon correlations on light nuclei ,,,,experiment / HIC (user: not now)
+2601.14884,2026,Aboona,10,C,Probing Late-Stage Hadronic Interactions at High Baryon Density via $K^{*0}$ Production in,,,,experiment / HIC (user: not now)
+2602.08356,2026,Zhang,10,C,Search for the QCD Critical Point in High Energy Nuclear Collisions: A Status Report,,,,experiment / HIC (user: not now)
+1309.2497,2013,Osipov,11,C,Effective multiquark interactions with explicit breaking of chiral symmetry,,,,reference-list item; not solver model
+ref10_1990_Freese_Natural_Inflation_with,1990,Freese,11,C,Natural Inflation with Pseudo - Nambu-Goldstone Bosons,,,,reference-list item; not solver model
+0704.1165,2007,Foot,11,C,Electroweak Higgs as a pseudo-Goldstone boson of broken scale invariance,,,,reference-list item; not solver model
+hep-ph/0111110,2001,Yamada,11,C,Possible evidence for a chiral axial vector state in the D meson system,,,,reference-list item; not solver model
+2309.14071,2023,Wilson,11,C,"Charmonium <math display=""inline""><mrow><msub><mrow><mi>χ</mi></mrow><mrow><mi>c</mi><mn>0",,,,reference-list item; not solver model
+hep-ph/0311339,2003,Jafarov,11,C,Mean field expansion and meson effects in chiral condensate of analytically regularized Na,,,,reference-list item; not solver model
+1908.08671,2019,Zhang,11,C,Nambu-Jona-Lasinio model in a sphere,,,,reference-list item; not solver model
+1106.5155,2011,Ayala,11,C,QCD phase diagram from finite energy sum rules,,,,reference-list item; not solver model
+2002.11696,2020,Espriu,11,C,Chiral perturbation theory for nonzero chiral imbalance,,,,reference-list item; not solver model
+hep-ph/0303108,2003,Karsch,11,C,Hadron resonance mass spectrum and lattice QCD thermodynamics,,,,reference-list item; not solver model
+hep-ph/0402234,2003,Buballa,11,C,NJL model analysis of quark matter at large density,,,,reference-list item; not solver model
+0912.0258,2009,Vertesi,11,C,Significant in-medium $\eta$ ' mass reduction in $\sqrt{s_{NN}}=200$ GeV Au+Au collisions ,,,,reference-list item; not solver model
+nucl-th/0209077,2002,Cassing,11,C,Transport analysis of in-medium hadron effects in pA and AA collisions,,,,reference-list item; not solver model
+nucl-ex/0312005,2003,Dainese,11,C,Perspectives for the study of charm in-medium quenching at the LHC with ALICE,,,,reference-list item; not solver model
+hep-lat/0603018,2006,Tawfik,11,C,In-medium modifications of hadron properties,,,,reference-list item; not solver model
+nucl-th/0509054,2005,Tolos,11,C,D-mesons: In-medium effects at FAIR,,,,reference-list item; not solver model
+ref39_2018_Finogeev_The_PSD_CBM_Supermod,2018,Finogeev,11,C,The PSD CBM Supermodule Response Study for Hadrons in Momentum Range 2 – 6 GeV/c at CERN T,,,,reference-list item; not solver model
+ref40_2021_Parfenov_Anisotropic_Flow_Mea,2021,Parfenov,11,C,Anisotropic Flow Measurements of Identified Hadrons with MPD Detector at NICA,,,,reference-list item; not solver model
+hep-ph/0110279,2001,Meyer,11,C,Renormalization group flow in large N(c),,,,reference-list item; not solver model
+nucl-th/9611050,1996,Roh,11,C,Chiral phase transition at finite temperature in the linear sigma model,,,,reference-list item; not solver model
+hep-ph/9807504,1998,Delbourgo,11,C,SU(3) LSM dynamically generated from NJL,,,,NJL-derived
+0707.1869,2007,Myers,11,C,New phases of SU(3) and SU(4) at finite temperature,,,,reference-list item; not solver model
+0710.0354,2007,Cheng,11,L,lattice EoS almost physical masses (HotQCD),"EoS, chiral condensate, Polyakov loop vs T",lattice-ref,,reference for later
+ref63_2007_Kapusta_Finite-Temperature_Fi,2007,Kapusta,11,C,Finite-Temperature Field Theory : Principles and Applications; 2nd edition,,,,reference-list item; not solver model
+2411.10217,2024,Gavai,11,L,lattice 2+1 chiral crossover,"T_c, condensates",lattice-ref,,reference for later
+0704.3234,2007,Schaefer,11,C,"PQM Nf=2 phase structure (Schaefer, Pawlowski, Wambach 2007)",,,,SU(2); origin of T0(Nf) prescription (T0=208/187 MeV) relevant to Polyakov parameters
+ref71_2016_Friesen_Phase_diagram_in_the_,2016,Friesen,11,C,Phase diagram in the entanglement PNJL model,,,,reference-list item; not solver model
+ref72_2024_Navas_PDG_Review_of_Particle_,2024,Navas,11,C,PDG Review of Particle Physics 2024,experimental meson masses,,,reference values for comparisons (not a model)
+hep-ph/9802409,1998,Feldmann,11,C,Mixing and decay constants of pseudoscalar mesons,,,,reference-list item; not solver model
+1105.3557,2011,Di Donato,11,C,$\eta - \eta'$ Mixing - From electromagnetic transitions to weak decays of charm and beaut,,,,reference-list item; not solver model
+hep-ph/0404270,2004,Klempt,11,C,Glueballs; hybrids; pentaquarks: Introduction to hadron spectroscopy and review of selecte,,,,reference-list item; not solver model
+2506.13214,2025,Zhang,11,C,"<math display=""inline""><mrow><mi>η</mi><msup><mrow><mo>−</mo><mi>η</mi></mrow><mrow><mo>′<",,,,reference-list item; not solver model

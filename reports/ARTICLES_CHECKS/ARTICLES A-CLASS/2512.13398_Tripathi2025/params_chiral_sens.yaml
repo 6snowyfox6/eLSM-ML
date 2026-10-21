@@ -1,0 +1,102 @@
+paper: 'Tripathi 2025 chiral limit: sensitivity to printed lambda1 rounding'
+note: lambda1 = -0.96 +- 0.01
+sets:
+  QM_chiral_l1-0.95:
+    m2: &id001
+    - 1
+    - 411.663
+    lambda2: 44.62
+    c: 4966.63
+    hx: &id002
+    - 1
+    - 0.0
+    hy: &id003
+    - 1
+    - 340.05
+    g: 6.5
+    lambda1: -0.95
+    mode: QM
+    tasks:
+      tc0:
+        T_range:
+        - 110
+        - 135
+        ref: 123.2
+  LogPQM_chiral_l1-0.95:
+    m2: *id001
+    lambda2: 44.62
+    c: 4966.63
+    hx: *id002
+    hy: *id003
+    g: 6.5
+    lambda1: -0.95
+    mode: PQM_equal
+    T0: 187
+    tasks:
+      tc0:
+        T_range:
+        - 145
+        - 165
+        ref: 155.7
+  QM_chiral_l1-0.96:
+    m2: *id001
+    lambda2: 44.62
+    c: 4966.63
+    hx: *id002
+    hy: *id003
+    g: 6.5
+    lambda1: -0.96
+    mode: QM
+    tasks:
+      tc0:
+        T_range:
+        - 110
+        - 135
+        ref: 123.2
+  LogPQM_chiral_l1-0.96:
+    m2: *id001
+    lambda2: 44.62
+    c: 4966.63
+    hx: *id002
+    hy: *id003
+    g: 6.5
+    lambda1: -0.96
+    mode: PQM_equal
+    T0: 187
+    tasks:
+      tc0:
+        T_range:
+        - 145
+        - 165
+        ref: 155.7
+  QM_chiral_l1-0.97:
+    m2: *id001
+    lambda2: 44.62
+    c: 4966.63
+    hx: *id002
+    hy: *id003
+    g: 6.5
+    lambda1: -0.97
+    mode: QM
+    tasks:
+      tc0:
+        T_range:
+        - 110
+        - 135
+        ref: 123.2
+  LogPQM_chiral_l1-0.97:
+    m2: *id001
+    lambda2: 44.62
+    c: 4966.63
+    hx: *id002
+    hy: *id003
+    g: 6.5
+    lambda1: -0.97
+    mode: PQM_equal
+    T0: 187
+    tasks:
+      tc0:
+        T_range:
+        - 145
+        - 165
+        ref: 155.7

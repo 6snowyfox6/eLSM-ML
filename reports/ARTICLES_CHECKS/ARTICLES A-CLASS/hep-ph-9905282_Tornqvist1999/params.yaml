@@ -1,0 +1,43 @@
+paper: Tornqvist, Eur. Phys. J. C 11, 359 (1999), hep-ph/9905282
+basis_note: 'Mapping from the paper''s mass formulas (Eqs. 3-10): sigma_x = sqrt2 u = f_pi, sigma_y = s; lambda2 = 4 lambda, lambda1 = 4 lambda'', c = -2 sqrt2 beta, m2 = mu_bar^2 - lambda1 (sigma_x^2 +
+  sigma_y^2). Eq.(16): lambda=11.57, mu_bar^2=0.1424 GeV^2, beta=-1701 MeV, u=65.35, s=94.45 MeV. Z=1.'
+z_factors: none
+sets:
+  lambda_prime_1.0:
+    source: Eq.(16) + Table I column lambda'=1.0
+    f_pi: 92.42
+    f_K: 113.0
+    m2:
+    - 1
+    - 269.34539461442444
+    lambda1: 4.0
+    lambda2: 46.28
+    c: 4811.15453919327
+    masses:
+      pi: 137.0
+      K: 495.0
+      eta: 538.0
+      eta_prime: 963.0
+      sigma: 651.0
+      f0: 1229.0
+      a0: 1028.0
+      K0star: 1123.0
+  lambda_prime_3.75:
+    source: Eq.(16) + Table I column lambda'=3.75
+    f_pi: 92.42
+    f_K: 113.0
+    m2:
+    - -1
+    - 345.75854147077837
+    lambda1: 15.0
+    lambda2: 46.28
+    c: 4811.15453919327
+    masses:
+      pi: 137.0
+      K: 495.0
+      eta: 538.0
+      eta_prime: 963.0
+      sigma: 619.0
+      f0: 1188.0
+      a0: 1028.0
+      K0star: 1123.0
